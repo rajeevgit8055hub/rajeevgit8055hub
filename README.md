@@ -1,12 +1,12 @@
 # im_rajeev
-Data enthusiast exploring real-world solutions through Excel automation and BI tools.
+Data enthusiast exploring real-world solutions through Excel automation & BI tools.
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=👋+Hi+everyone!;I'm+a+passionate+data+enthusiast.;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 <img align="right" alt="Boy working on computer" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
-## 🚀 About Me
+## 👨‍⚕️ About Me
 
 <p style="font-style: italic; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px;">
 I'm deeply passionate about working with data and transforming raw information into powerful business insights.<br>
@@ -14,7 +14,7 @@ With a strong command of Microsoft Office tools & a growing knowledge of modern 
 my aim involves optimizing reporting & automating workflows to achieve maximum efficiency.
 </p>
 
-## 🎯 My Mission
+## 🚀 My Mission
 
 - To fulfill my dream of becoming a proficient Data Analyst  
 - To simplify complex data for easy interpretation  
@@ -35,10 +35,14 @@ my aim involves optimizing reporting & automating workflows to achieve maximum e
 
 - **SQL** (PostgreSQL)
 - **Power BI** (Dashboards, DAX)
-- **Excel VBA** (Macro Automation)
-- **Python** (For Data Analysis)
 
-### My Skills
+## ⏳ Pending
+
+- **Excel VBA** (for Excel Macro Automation)
+- **Python** (For Data Analysis)
+- **IoT** (For Database Management) 
+
+### 💻 My Skills
 
 ![Word](https://img.shields.io/badge/Word-0078D7?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -61,7 +65,7 @@ my aim involves optimizing reporting & automating workflows to achieve maximum e
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-FF6F61?style=for-the-badge&logo=iot&logoColor=white)
 
-### Social Media
+### 🌐 Social Media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeev-tiwari123)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1ByX1JtcLy/)
