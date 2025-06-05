@@ -38,7 +38,7 @@ my aim involves optimizing reporting & automating workflows to achieve maximum e
 
 ## ⏳ Pending
 
-- **Excel VBA** (for Excel Macro Automation)
+- **Excel VBA** (For Excel Macro Automation)
 - **Python** (For Data Analysis)
 - **IoT** (For Database Management) 
 
