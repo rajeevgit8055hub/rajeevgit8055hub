@@ -84,15 +84,6 @@ my aim involves optimizing reporting & automating workflows to achieve maximum e
 
 ## 🤖 AI Visual Showcase
 
-<table>
-  <tr>
-    <td>
-      <img src="AI1.jpeg" width="250"/><br>
-      <img src="AI2.jpeg" width="250"/><br>
-      <img src="AI3.jpeg" width="250"/>
-    </td>
-    <td>
-      <img src="AI.png" width="300" height="750"/>
-    </td>
-  </tr>
-</table>
+![AI Screenshot 1](AI1.jpeg)  
+![AI Screenshot 2](AI2.jpeg)  
+![AI Screenshot 3](AI3.jpeg)
