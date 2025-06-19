@@ -82,3 +82,6 @@ my aim involves optimizing reporting & automating workflows to achieve maximum e
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=0DAD8D&width=750&lines=🤝+Thanks+for+Visiting!;Let’s+connect+and+grow+together+in+the+data+world+🚀;Feel+free+to+check+out+my+repositories+and+ongoing+projects.)](https://git.io/typing-svg)
 
+![AI Screenshot 1](AI1.jpeg)  
+![AI Screenshot 2](AI2.jpeg)  
+![AI Screenshot 3](AI3.jpeg)
