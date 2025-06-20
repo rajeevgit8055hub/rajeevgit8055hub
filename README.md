@@ -2,7 +2,7 @@
 Data enthusiast exploring real-world solutions through Excel automation & BI tools.
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=👋+Hi+everyone!;I'm+a+passionate+data+enthusiast.;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=👋+Hi+everyone!;I'm+passionate+data+enthusiast.;Actively+developing+skills+in+Data+Analysis+and+Business+Intelligence.;Working+with+SQL,+Excel,+Power+BI,+and+real-world+datasets.)](https://git.io/typing-svg)
 
 <img align="right" alt="Boy working on computer" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
@@ -80,4 +80,5 @@ my aim involves optimizing reporting & automating workflows to achieve maximum e
 
 ## 🤝 Thanks for Visiting!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=0DAD8D&width=750&lines=🤝+Thanks+for+Visiting!;Let’s+connect+and+grow+together+in+the+data+world+🚀;Feel+free+to+check+out+my+repositories+and+ongoing+projects.)](https://git.io/typing-svg)
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Thank+you+for+visiting+my+GitHub+profile!;Let’s+connect+and+grow+together+in+the+data+world+🚀;Feel+free+to+check+out+my+repositories+and+ongoing+projects.)](https://git.io/typing-svg)
