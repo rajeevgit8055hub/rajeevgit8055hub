@@ -1,4 +1,4 @@
-# Hi, im_rajeev
+# Hi, i'm_rajeev
 Data enthusiast exploring real-world solutions through Excel automation & BI tools.
 
 <!-- Typing Animation -->
