@@ -24,23 +24,24 @@ my aim involves optimizing reporting & automating workflows to achieve maximum e
 
 ## 💼 Core Skills
 
-- **Advanced Excel** (Dashboards, Power Query, Power Pivot, Pivot Tables)  
+- **Advanced Excel, Power Query** 
 - **MIS Reporting & Automation**  
 - **ETL Processes** (Extract, Transform, Load)  
-- **Office 365 & Google Sheets**  
-- **Microsoft Access Database**  
+- **Microsoft 365 & Google Sheets**  
+- **Microsoft Access Database**
+- **SQL (PostgreSQL)**
+- **DAX, Power BI, Tableau**  
 - **Data Visualization & Business Insights**
 
 ## 📚 Currently Learning
 
-- **SQL** (PostgreSQL)
-- **Power BI** (Dashboards, DAX)
+- **Python**
+- **IoT**
 
 ## ⏳ Pending
 
 - **Excel VBA** (For Excel Macro Automation)
-- **Python** (For Data Analysis)
-- **IoT** (For Database Management) 
+- **AI/ML** (For Data Analytics)
 
 ### 💻 My Skills
 
@@ -60,6 +61,7 @@ my aim involves optimizing reporting & automating workflows to achieve maximum e
 ![CHMT](https://img.shields.io/badge/CHMT-008080?style=for-the-badge&logo=read-the-docs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F29111?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-865A33?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
