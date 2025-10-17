@@ -156,4 +156,4 @@ and delivering data-driven solutions that create real business impact.
 <!-- ![Repositories](https://img.shields.io/github/repo-count/rajeevgit8055hub?color=blue&style=for-the-badge) -->
 <!--my_image ![GitHub Contributions](https://github.com/rajeevgit8055hub.png?tab=overview&theme=midnight-purple) -->
 
-<img width="300" alt="GitCover" src="HQLi.gif" />
+<img width="500" alt="GitCover" src="HQLi.gif" />
