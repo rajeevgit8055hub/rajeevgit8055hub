@@ -12,10 +12,11 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=👋+Hi+everyone!;I'm+passionate+data+enthusiast.;Actively+developing+skills+in+Data+Analysis+and+Business+Intelligence.;Working+with+SQL,+Excel,+Power+BI,+and+real-world+datasets.)](https://git.io/typing-svg)
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
- <img align="right" alt="Boy working on computer" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" /> 
+<!-- <img align="right" alt="Boy working on computer" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" /> -->
 
+<!-- 👤 About Me -->
 ## 👤 About Me
 
 <img align="right" alt="Boy working on computer" width="350" src="Blueman.jpg" /> 
@@ -26,6 +27,9 @@ Power BI, SQL, and Python, I focus on optimizing reports, automating workflows,
 and driving smarter business decisions. I’m committed to continuous learning
 and delivering data-driven solutions that create real business impact.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+<!-- 🚀 My Mission  -->
 ## 🚀 My Mission 
 
 <img align="right" alt="Boy working on computer" width="350" src="BlackG.gif" /> 
@@ -35,7 +39,10 @@ and delivering data-driven solutions that create real business impact.
 - To create professional and automated reporting systems.
 - To continuously learn and apply new data technologies.
 - To contribute to data-driven decision making in organizations.
-  
+
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+
+<!-- 💻 My Skills -->
 ## 💻 My Skills
 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
@@ -65,7 +72,41 @@ and delivering data-driven solutions that create real business impact.
 <!--![OneNote](https://img.shields.io/badge/OneNote-4B3879?style=for-the-badge&logo=microsoft-onenote&logoColor=white) -->
 <!-- ![Tally Prime](https://img.shields.io/badge/Tally_Prime-FF5E00?style=for-the-badge&logo=currency-inr&logoColor=white) -->
 <!-- ![IoT](https://img.shields.io/badge/IoT-FF6F61?style=for-the-badge&logo=iot&logoColor=white) -->
+<!-- ![Python](https://img.shields.io/badge/Python-008080?style=for-the-badge&logo=python&logoColor=white) -->
+<!-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) -->
+<!-- ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) -->
+<!-- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) -->
+<!-- ![matplotlib](https://img.shields.io/badge/matplotlib-fc4f30?style=for-the-badge&logo=matplotlib&logoColor=white) -->
+<!-- ![seaborn](https://img.shields.io/badge/seaborn-1a73e8?style=for-the-badge&logo=seaborn&logoColor=white) -->
 
+<!-- Languages💻 / Tools⚙ -->
+## Languages💻 / Tools⚙️
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="30" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Microsoft Excel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="30" height="30"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="30" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="70" height="45"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="70" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg"     alt="SeaBorn"  width="40" height="40"/>
+    <a href="https://github.com/rajeevgit8055hub" target="_blank" rel="noopener noreferrer" class="github-icon social-circle"
+     style="background-color: transparent;">
+     <span class="icon-github" style="font-size: 30px;"></span>
+     </a>
+     
+ <!-- <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120" height="120"/> -->
+ <!-- <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/> -->
+ <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> -->
+ 
+</p>
+
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+
+<!-- ## 📬 Connect with Me -->
 ## 📬 Connect with Me
 
 <img align="right" alt="GitCover" src="Globe.jpg" />
