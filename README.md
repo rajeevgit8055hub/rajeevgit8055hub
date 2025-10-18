@@ -108,6 +108,25 @@ and delivering data-driven solutions that create real business impact.
   <img  width="40" alt="Power Pivot" src="Power Pivot.svg">
   <img  width="40" alt="PowerPoint" src="PowerPoint.svg">
   <img  width="60" alt="VBA" src="VBA.png">
+  <img  width="60" alt="WPS Office" src="Python.svg">
+  <img  width="60" alt="WPS Office" src="Google Sheets.svg">
+  <img  width="60" alt="WPS Office" src="WPS Office_356.svg">
+  <img  width="60" alt="WPS Office" src="Tableau.svg">
+  <img  width="60" alt="WPS Office" src="Canva.svg">
+  <img  width="60" alt="WPS Office" src="MIS.svg">
+  <img  width="60" alt="WPS Office" src="WPS Office.svg">
+  <img  width="60" alt="WPS Office" src="IoT.svg">
+  <img  width="60" alt="WPS Office" src="PostgreSQL.svg">
+  <img  width="60" alt="WPS Office" src="Power BI.svg">
+  <img  width="60" alt="WPS Office" src="Publisher.svg">
+  <img  width="60" alt="WPS Office" src="OneNote.svg">
+  <img  width="60" alt="WPS Office" src="Word.svg">
+  <img  width="60" alt="WPS Office" src="coca-cola-2021.svg">
+  <img  width="60" alt="WPS Office" src="WPS Office.svg">
+  <img  width="60" alt="WPS Office" src="WPS Office.svg">
+  <img  width="60" alt="WPS Office" src="WPS Office.svg">
+  <img  width="60" alt="WPS Office" src="WPS Office.svg">
+  <img <img  width="60" alt="WPS Office" src="WPS Office.svg"> width="60" alt="WPS Office" src="WPS Office.svg">
   <img  width="60" alt="WPS Office" src="WPS Office.svg">
   
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> -->
