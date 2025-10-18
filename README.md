@@ -107,6 +107,7 @@ and delivering data-driven solutions that create real business impact.
   <img  width="50" alt="Power Pivot" src="Power Pivot">
   <img  width="50" alt="Power Point" src="Power Point.svg">
   <img  width="50" alt="VBA" src="VBA.svg">
+    <img  width="50" alt="WPS Office" src="WPS Office.svg">
   
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="30" height="30"/> -->
