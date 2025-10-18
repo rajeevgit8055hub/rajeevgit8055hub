@@ -84,8 +84,8 @@ and delivering data-driven solutions that create real business impact.
 <!-- ![matplotlib](https://img.shields.io/badge/matplotlib-fc4f30?style=for-the-badge&logo=matplotlib&logoColor=white) -->
 <!-- ![seaborn](https://img.shields.io/badge/seaborn-1a73e8?style=for-the-badge&logo=seaborn&logoColor=white) -->
 
-<!-- Tools⚙ -->
-## Tools⚙️
+<!-- ⚙️ Tools -->
+## ⚙️ Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
