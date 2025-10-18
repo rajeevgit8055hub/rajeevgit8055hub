@@ -32,6 +32,7 @@ and delivering data-driven solutions that create real business impact.
 <!-- 🚀 My Mission  -->
 ## 🚀 My Mission 
 
+<img align="right" alt="Boy working on computer" width="300" src="BlackG.gif" />
 
 - To simplify complex data for easy interpretation.
 - To fulfill my dream of becoming a proficient Data Analyst.
@@ -44,7 +45,7 @@ and delivering data-driven solutions that create real business impact.
 <!-- 💻 My Skills -->
 ## 💻 My Skills
 
-<img alt="GitCover" src="BlackG.gif" />
+<img align="right" alt="Boy working on computer" src="MySkills.png" />
 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -96,12 +97,16 @@ and delivering data-driven solutions that create real business impact.
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft 365" width="40" height="40"/>
   <img  width="50" alt="Microsoft 365" src="Access.svg">
-  <img  width="50" alt="Microsoft 365" src="MIS.svg">
-  <img  width="50" alt="Microsoft 365" src="Access.svg">
-  <img  width="50" alt="Microsoft 365" src="Access.svg">
-  <img  width="50" alt="Microsoft 365" src="Access.svg">
-  <img  width="50" alt="Microsoft 365" src="Access.svg">
-  <img  width="50" alt="Microsoft 365" src="Access.svg">
+  <img  width="50" alt="Excel" src="Excel.svg">
+  <img  width="50" alt="SQL" src="SQL.svg">
+  <img  width="50" alt="OpenAi" src="OpenAi.svg">
+  <img  width="50" alt="Outlook" src="Outlook.svg">
+  <img  width="50" alt="HTML5" src="HTML5.svg">
+  <img  width="50" alt="CSS" src="CSS.svg">
+  <img  width="50" alt="Power Query" src="Power Query.svg">
+  <img  width="50" alt="Power Pivot" src="Power Pivot">
+  <img  width="50" alt="Power Point" src="Power Point.svg">
+  <img  width="50" alt="VBA" src="VBA.svg">
   
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="30" height="30"/> -->
