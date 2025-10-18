@@ -32,7 +32,6 @@ and delivering data-driven solutions that create real business impact.
 <!-- 🚀 My Mission  -->
 ## 🚀 My Mission 
 
-<img align="right" alt="Boy working on computer" width="300" src="BlackG.gif" /> 
 
 - To simplify complex data for easy interpretation.
 - To fulfill my dream of becoming a proficient Data Analyst.
