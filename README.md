@@ -146,7 +146,7 @@ and delivering data-driven solutions that create real business impact.
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeevgit8055hub&theme=nightowl"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeevgit8055hub&theme=nightowl&bg_color=000000&hide_border=true"/>
 </div>
 
 <!-- Typing Animation / 🤝 Thanks for Visiting! -->
