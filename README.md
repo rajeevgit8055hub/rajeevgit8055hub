@@ -122,7 +122,7 @@ and delivering data-driven solutions that create real business impact.
   <img  width="60" alt="WPS Office" src="OneNote.svg">
   <img  width="60" alt="WPS Office" src="Word.svg">
   <img  width="60" alt="WPS Office" src="coca-cola-2021.svg">
-  <img  width="60" alt="WPS Office" src="WPS Office.svg">
+  <img  width="60" alt="WPS Office" src="Office_365.svg">
   <img  width="60" alt="WPS Office" src="WPS Office.svg">
   <img  width="60" alt="WPS Office" src="WPS Office.svg">
   <img  width="60" alt="WPS Office" src="WPS Office.svg">
