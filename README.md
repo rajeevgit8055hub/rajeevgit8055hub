@@ -142,7 +142,7 @@ and delivering data-driven solutions that create real business impact.
 <p align="center">
   <img  width="50" alt="LinkedIn" src="LinkedIn.svg">
   <img  width="60" alt="Computer" src="CHMT.svg">
-  <img  width="60" alt="Excel" src="Excelold.svg">
+  <img  width="50" alt="Excel" src="Excelold.svg">
   <img  width="50" alt="Power Query" src="Power Query.svg">
   <img  width="50" alt="Github" src="GitViolet.svg">
   <img  width="60" alt="Coca Cola" src="Coca Cola.svg">
