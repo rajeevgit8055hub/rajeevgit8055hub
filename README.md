@@ -92,7 +92,7 @@ and delivering data-driven solutions that create real business impact.
 <img alt="Tools" src="Techskills.jpg" />
 
 <p align="center"> 
-  <img  width="40" alt="Microsoft365" src="Microsoft365.svg">
+  <img  width="30" alt="Microsoft365" src="Microsoft365.svg">
   <img  width="30" alt="Office_365" src="Office_365.svg">
   <img  width="40" alt="Excel" src="Excel.svg">
   <img  width="50" alt="MIS" src="MIS.svg">
@@ -110,10 +110,10 @@ and delivering data-driven solutions that create real business impact.
   <img  width="40" alt="Python" src="Python.svg">
   <img  width="50" alt="PostgreSQL" src="PostgreSQL.svg">
   <img  width="30" alt="SQL" src="SQL.svg">
-  <img  width="50" alt="Git" src="Git.svg">
-  <img  width="50" alt="Gitbash" src="GitBash.svg">
+  <img  width="40" alt="Git" src="Git.svg">
+  <img  width="40" alt="Gitbash" src="GitBash.svg">
   <img  width="40" alt="Github" src="GitViolet.svg">
-  <img  width="80" alt="WPS Office" src="WPS Office.svg">
+  <img  width="70" alt="WPS Office" src="WPS Office.svg">
   <img  width="50" alt="VBA" src="VBA.png">
   <img  width="40" alt="OpenAI" src="OpenAI.svg">
   <img  width="40" alt="Canva" src="Canva.svg">
