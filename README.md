@@ -94,30 +94,30 @@ and delivering data-driven solutions that create real business impact.
 <p align="center"> 
   <img  width="40" alt="Microsoft365" src="Microsoft365.svg">
   <img  width="40" alt="Office_365" src="Office_365.svg">
-  <img  width="50" alt="Excel" src="Excel.svg">
+  <img  width="40" alt="Excel" src="Excel.svg">
   <img  width="50" alt="MIS" src="MIS.svg">
   <img  width="40" alt="Power Query" src="Power Query.svg">
   <img  width="50" alt="Power Pivot" src="Power Pivot.svg">
-  <img  width="50" alt="Access" src="Access.svg">
-  <img  width="50" alt="PowerPoint" src="PowerPoint.svg">
-  <img  width="50" alt="Outlook" src="Outlook.svg">
-  <img  width="50" alt="OneNote" src="OneNote.svg"> 
+  <img  width="40" alt="Access" src="Access.svg">
+  <img  width="40" alt="PowerPoint" src="PowerPoint.svg">
+  <img  width="40" alt="Outlook" src="Outlook.svg">
+  <img  width="40" alt="OneNote" src="OneNote.svg"> 
   <img  width="40" alt="Google Sheets" src="Google Sheets.svg">
   <img  width="40" alt="Tableau" src="Tableau.svg">
-  <img  width="40" alt="Power BI" src="Power BI.svg">
+  <img  width="30" alt="Power BI" src="Power BI.svg">
   <img  width="50" alt="HTML5" src="HTML5.svg">
-  <img  width="40" alt="CSS" src="CSS.svg">
+  <img  width="30" alt="CSS" src="CSS.svg">
   <img  width="40" alt="Python" src="Python.svg">
-  <img  width="60" alt="PostgreSQL" src="PostgreSQL.svg">
+  <img  width="50" alt="PostgreSQL" src="PostgreSQL.svg">
   <img  width="30" alt="SQL" src="SQL.svg">
-  <img  width="50" alt="Git" src="Git.svg">
-  <img  width="50" alt="Gitbash" src="GitBash.svg">
-  <img  width="50" alt="Github" src="GitViolet.svg">
+  <img  width="40" alt="Git" src="Git.svg">
+  <img  width="40" alt="Gitbash" src="GitBash.svg">
+  <img  width="40" alt="Github" src="GitViolet.svg">
   <img  width="80" alt="WPS Office" src="WPS Office.svg">
-  <img  width="60" alt="VBA" src="VBA.png">
-  <img  width="50" alt="OpenAI" src="OpenAI.svg">
-  <img  width="50" alt="Canva" src="Canva.svg">
-  <img  width="50" alt="Gmail" src="ColorGmail.svg">
+  <img  width="40" alt="VBA" src="VBA.png">
+  <img  width="40" alt="OpenAI" src="OpenAI.svg">
+  <img  width="40" alt="Canva" src="Canva.svg">
+  <img  width="40" alt="Gmail" src="ColorGmail.svg">
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> --> 
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/> -->
@@ -211,6 +211,6 @@ and delivering data-driven solutions that create real business impact.
 <!-- ![Repositories](https://img.shields.io/github/repo-count/rajeevgit8055hub?color=blue&style=for-the-badge) -->
 <!--my_image ![GitHub Contributions](https://github.com/rajeevgit8055hub.png?tab=overview&theme=midnight-purple) -->
 
-<img align="centre" width="300" alt="GitCover" src="Gitcolor.png" />
+<img align="right" width="300" alt="GitCover" src="Gitcolor.png" />
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
