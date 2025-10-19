@@ -3,6 +3,8 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 
 <!-- Header Section -->
 
+<img align="right" alt="R" width="100" src="R.svg" /> 
+
 [![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet)](https://github.com/rajeevgit8055hub)
 [![Followers](https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=social)](https://github.com/rajeevgit8055hub?tab=followers)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rajeevgit8055hub.rajeevgit8055hub)
@@ -156,8 +158,8 @@ and delivering data-driven solutions that create real business impact.
 <!-- ## 📬 Connect with Me -->
 ## 📬 Connect with Me
 
-<!-- <img align="right" alt="GitCover" src="NeonGlobe.jpg" /> -->
-<img alt="GitCover" src="Technoglob.jpg" />
+<!-- <img align="right" alt="Technology" src="NeonGlobe.jpg" /> -->
+<img alt="GitCover" src="Technoglobe.jpg" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Reach+me+via+X,+LinkedIn,+GitHub,+Email+or+my+Website+🌐;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
 
@@ -209,6 +211,6 @@ and delivering data-driven solutions that create real business impact.
 <!-- ![Repositories](https://img.shields.io/github/repo-count/rajeevgit8055hub?color=blue&style=for-the-badge) -->
 <!--my_image ![GitHub Contributions](https://github.com/rajeevgit8055hub.png?tab=overview&theme=midnight-purple) -->
 
-<img width="500" alt="GitCover" src="Gitcolor.png" />
+<img width="400" alt="GitCover" src="Gitcolor.png" />
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
