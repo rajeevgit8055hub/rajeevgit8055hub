@@ -140,10 +140,10 @@ and delivering data-driven solutions that create real business impact.
 ## 💫 Things I Love
 
 <p align="center">
-  <img  width="60" alt="LinkedIn" src="LinkedIn.svg">
+  <img  width="50" alt="LinkedIn" src="LinkedIn.svg">
   <img  width="60" alt="Computer" src="CHMT.svg">
   <img  width="60" alt="Excel" src="Excelold.svg">
-  <img  width="40" alt="Power Query" src="Power Query.svg">
+  <img  width="50" alt="Power Query" src="Power Query.svg">
   <img  width="50" alt="Github" src="GitViolet.svg">
   <img  width="60" alt="Coca Cola" src="Coca Cola.svg">
   <img  width="60" alt="Yamaha" src="Yamaha.svg">
