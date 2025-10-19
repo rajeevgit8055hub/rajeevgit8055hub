@@ -21,7 +21,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <!-- 👤 About Me -->
 ## 👤 About Me
 
-<img align="right" alt="Boy working on computer" width="350" src="Techoboy.jpg" /> 
+<img align="right" alt="Boy working on computer" width="400" src="Techoboy.jpg" /> 
 
 I’m passionate about turning raw data into meaningful business insights.
 With strong expertise in Microsoft 365 and growing proficiency in modern data tools like
@@ -34,7 +34,7 @@ and delivering data-driven solutions that create real business impact.
 <!-- 🚀 My Mission  -->
 ## 🚀 My Mission 
 
-<img align="right" alt="Boy working on computer" width="350" src="BlackG.gif" />
+<img align="right" alt="Boy working on computer" width="400" src="BlackG.gif" />
 
 - To simplify complex data for easy interpretation.
 - To fulfill my dream of becoming a proficient Data Analyst.
@@ -64,7 +64,7 @@ and delivering data-driven solutions that create real business impact.
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<!--![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) -->
 ![Business Insights](https://img.shields.io/badge/Business%20Insights-2F4F4F?style=for-the-badge&logo=bar-chart&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajeevgit8055hub)
