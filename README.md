@@ -1,9 +1,9 @@
 # Hi, i'm_rajeev
 Data enthusiast exploring real-world solutions through Excel automation & BI tools.
 
-<!-- Header Section -->
+<img align="right" alt="R" width="50" src="R.svg" />
 
-<img align="right" alt="R" width="100" src="R.svg" /> 
+<!-- Header Section --> 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet)](https://github.com/rajeevgit8055hub)
 [![Followers](https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=social)](https://github.com/rajeevgit8055hub?tab=followers)
