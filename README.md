@@ -45,7 +45,7 @@ and delivering data-driven solutions that create real business impact.
 <!-- 💻 My Skills -->
 ## 💻 My Skills
 
-<img alt="Boy working on computer" src="MySkills.png" />
+<img alt="MySkills" src="MySkills.png" />
 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -87,7 +87,7 @@ and delivering data-driven solutions that create real business impact.
 <!-- ⚙️ Tools -->
 ## ⚙️ Tools
 
-<img alt="Boy working on computer" src="Techskills.jpg" />
+<img alt="Tools" src="Techskills.jpg" />
 
 <p align="center"> 
   <img  width="40" alt="Microsoft365" src="Microsoft365.svg">
@@ -157,7 +157,7 @@ and delivering data-driven solutions that create real business impact.
 ## 📬 Connect with Me
 
 <!-- <img align="right" alt="GitCover" src="NeonGlobe.jpg" /> -->
-<img alt="GitCover" src="Technoglobe.jpg" />
+<img alt="GitCover" src="Technoglob.jpg" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Reach+me+via+X,+LinkedIn,+GitHub,+Email+or+my+Website+🌐;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
 
