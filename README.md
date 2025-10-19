@@ -108,9 +108,9 @@ and delivering data-driven solutions that create real business impact.
   <img  width="40" alt="Python" src="Python.svg">
   <img  width="60" alt="PostgreSQL" src="PostgreSQL.svg">
   <img  width="30" alt="SQL" src="SQL.svg">
-  <img  width="50" alt="Git" src="git-icon.svg">
-  <img  width="50" alt="Gitbash" src="git-bash.svg">
-  <img  width="50" alt="Github" src="github-icon-2.svg">
+  <img  width="50" alt="Git" src="Git.svg">
+  <img  width="50" alt="Gitbash" src="Gitbash.svg">
+  <img  width="50" alt="Github" src="Github.svg">
   <img  width="80" alt="WPS Office" src="WPS Office.svg">
   <img  width="60" alt="VBA" src="VBA.png">
   <img  width="50" alt="OpenAI" src="OpenAI.svg">
@@ -140,8 +140,8 @@ and delivering data-driven solutions that create real business impact.
 ## 💫 Things I Love
 
 <p align="center">
-  <img  width="60" alt="Google" src="LinkedIN.svg">
-  <img  width="60" height="40" alt="Coca Cola" src="Coca Cola.svg">
+  <img  width="60" alt="LinkedIn" src="LinkedIN.svg">
+  <img  width="60" height="100" alt="Coca Cola" src="Coca Cola.svg">
   <img  width="60" alt="Yamaha" src="Yamaha.svg">
   <img  width="60" alt="Coffee" src="Nestle.svg">
   <img  width="50" alt="Computer" src="Computer.svg">
