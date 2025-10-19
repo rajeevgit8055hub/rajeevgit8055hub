@@ -19,7 +19,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <!-- 👤 About Me -->
 ## 👤 About Me
 
-<img align="right" alt="Boy working on computer" width="350" src="Techoboy.jpg" /> 
+<img align="right" alt="Boy working on computer" width="400" src="Techoboy.jpg" /> 
 
 I’m passionate about turning raw data into meaningful business insights.
 With strong expertise in Microsoft 365 and growing proficiency in modern data tools like
@@ -32,7 +32,7 @@ and delivering data-driven solutions that create real business impact.
 <!-- 🚀 My Mission  -->
 ## 🚀 My Mission 
 
-<img align="right" alt="Boy working on computer" width="350" src="BlackG.gif" />
+<img align="right" alt="Boy working on computer" width="400" src="BlackG.gif" />
 
 - To simplify complex data for easy interpretation.
 - To fulfill my dream of becoming a proficient Data Analyst.
