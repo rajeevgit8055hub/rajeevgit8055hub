@@ -64,14 +64,14 @@ and delivering data-driven solutions that create real business impact.
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=white)
 ![Business Insights](https://img.shields.io/badge/Business%20Insights-2F4F4F?style=for-the-badge&logo=bar-chart&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajeevgit8055hub)
-![Data Cleaning & Transformation](https://img.shields.io/badge/Data%20Cleaning%20%26%20Transformation-4682B4?style=for-the-badge&logo=powerbi&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+![Data Cleaning & Transformation](https://img.shields.io/badge/Data%20Cleaning%20%26%20Transformation-4682B4?style=for-the-badge&logo=powerbi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!-- ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)-->
 <!--![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) -->
 <!-- ![Word](https://img.shields.io/badge/Word-0078D7?style=for-the-badge&logo=microsoft-word&logoColor=white) -->
 <!-- ![CHMT](https://img.shields.io/badge/CHMT-008080?style=for-the-badge&logo=read-the-docs&logoColor=white) -->
