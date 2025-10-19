@@ -64,7 +64,6 @@ and delivering data-driven solutions that create real business impact.
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white)
-<!--![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) -->
 ![Business Insights](https://img.shields.io/badge/Business%20Insights-2F4F4F?style=for-the-badge&logo=bar-chart&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajeevgit8055hub)
@@ -73,6 +72,7 @@ and delivering data-driven solutions that create real business impact.
 ![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!--![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) -->
 <!-- ![Word](https://img.shields.io/badge/Word-0078D7?style=for-the-badge&logo=microsoft-word&logoColor=white) -->
 <!-- ![CHMT](https://img.shields.io/badge/CHMT-008080?style=for-the-badge&logo=read-the-docs&logoColor=white) -->
 <!--![Publisher](https://img.shields.io/badge/Publisher-FFB000?style=for-the-badge&logo=microsoft-office&logoColor=white) -->
@@ -93,7 +93,7 @@ and delivering data-driven solutions that create real business impact.
 
 <p align="center"> 
   <img  width="40" alt="Microsoft365" src="Microsoft365.svg">
-  <img  width="40" alt="Office_365" src="Office_365.svg">
+  <img  width="30" alt="Office_365" src="Office_365.svg">
   <img  width="40" alt="Excel" src="Excel.svg">
   <img  width="50" alt="MIS" src="MIS.svg">
   <img  width="40" alt="Power Query" src="Power Query.svg">
@@ -110,11 +110,11 @@ and delivering data-driven solutions that create real business impact.
   <img  width="40" alt="Python" src="Python.svg">
   <img  width="50" alt="PostgreSQL" src="PostgreSQL.svg">
   <img  width="30" alt="SQL" src="SQL.svg">
-  <img  width="40" alt="Git" src="Git.svg">
-  <img  width="40" alt="Gitbash" src="GitBash.svg">
+  <img  width="50" alt="Git" src="Git.svg">
+  <img  width="50" alt="Gitbash" src="GitBash.svg">
   <img  width="40" alt="Github" src="GitViolet.svg">
   <img  width="80" alt="WPS Office" src="WPS Office.svg">
-  <img  width="40" alt="VBA" src="VBA.png">
+  <img  width="50" alt="VBA" src="VBA.png">
   <img  width="40" alt="OpenAI" src="OpenAI.svg">
   <img  width="40" alt="Canva" src="Canva.svg">
   <img  width="40" alt="Gmail" src="ColorGmail.svg">
