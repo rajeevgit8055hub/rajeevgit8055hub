@@ -150,6 +150,7 @@ and delivering data-driven solutions that create real business impact.
   <img  width="40" alt="Github" src="GitViolet.svg">
   <img  width="60" alt="Coca Cola" src="Coca Cola.svg">
   <img  width="60" alt="Yamaha" src="Yamaha.svg">
+  <img  width="60" alt="KitKat" src="KitKat.svg">
   
   
 </p>
