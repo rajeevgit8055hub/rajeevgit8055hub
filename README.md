@@ -151,6 +151,9 @@ and delivering data-driven solutions that create real business impact.
   <img  width="60" alt="KitKat" src="KitKat.svg">
   <img  width="60" alt="Coca Cola" src="Coca Cola.svg">
   <img  width="60" alt="Yamaha" src="Yamaha.svg">
+  <img  width="60" alt="RG" src="RG.svg">
+  <img  width="60" alt="SG" src="SG.svg">
+  <img  width="60" alt="SB" src="SB.svg">
 </p>
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
