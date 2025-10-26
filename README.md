@@ -1,7 +1,7 @@
 # Hi, i'm_rajeev
 Data enthusiast exploring real-world solutions through Excel automation & BI tools.
 
-<img align="right" alt="R" width="50" src="R.svg" />
+<img align="right" alt="R" width="50" src="RT.svg" />
 
 <!-- Header Section --> 
 
