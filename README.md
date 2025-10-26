@@ -22,7 +22,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 ## 👤 About Me
 
 <img align="right" alt="Boy working on computer" width="400" src="Techoboy.jpg" /> 
-
+<br>
 I’m passionate about turning raw data into meaningful business insights.
 With strong expertise in Microsoft 365 and growing proficiency in modern data tools like
 Power BI, SQL, and Python, I focus on optimizing reports, automating workflows,
