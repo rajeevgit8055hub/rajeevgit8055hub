@@ -1,7 +1,7 @@
 # Hi, i'm_rajeev
 Data enthusiast exploring real-world solutions through Excel automation & BI tools.
 
-<img align="right" alt="R" width="50" src="D.svg" />
+<img align="right" alt="R" width="50" src="R.svg" />
 
 <!-- Header Section --> 
 
@@ -103,6 +103,7 @@ and delivering data-driven solutions that create real business impact.
   <img  width="40" alt="PowerPoint" src="PowerPoint.svg">
   <img  width="40" alt="Outlook" src="Outlook.svg">
   <img  width="40" alt="OneNote" src="OneNote.svg"> 
+   <img  width="40" alt="Publisher" src="Publisher.svg"> 
   <img  width="40" alt="Google Sheets" src="Google Sheets.svg">
   <img  width="40" alt="Tableau" src="Tableau.svg">
   <img  width="30" alt="Power BI" src="Power BI.svg">
@@ -148,17 +149,18 @@ and delivering data-driven solutions that create real business impact.
   <img  width="40" alt="LinkedIn" src="LinkedIn.svg">
   <img  width="60" alt="Computer" src="CHMT.svg">
   <img  width="40" alt="Excel" src="Excelold.svg">
-  <img  width="40" alt="Power Query" src="Power Query.svg">
+ 
   <img  width="40" alt="Github" src="GitViolet.svg">
   <img  width="60" alt="Coca Cola" src="Coca Cola.svg">
   <img  width="60" alt="Yamaha" src="Yamaha.svg">
-  <img  width="60" alt="KitKat" src="KitKat.svg">
-  <img  width="60" alt="Coffee" src="Coffee cup.svg">
-  <img  width="60" alt="Pikachu" src="Pikachu.svg">
-  <img  width="60" alt="Pokemon" src="Pokemon.svg">
-  <img  width="60" alt="SpotifyText" src="SpotifyText.svg">
-  <img  width="60" alt="Spotify" src="Spotify.svg">
+  <img  width="50" alt="Coffee" src="Coffee cup.svg">
+  <img  width="40" alt="Spotify" src="Spotify.svg"> 
+  <!-- <img  width="60" alt="KitKat" src="KitKat.svg"> -->
+  <!-- <img  width="60" alt="Pikachu" src="Pikachu.svg"> -->
+  <!-- <img  width="60" alt="SpotifyText" src="SpotifyText.svg"> -->
+  <!-- <img  width="60" alt="Pokemon" src="Pokemon.svg"> -->
   <!-- <img  width="60" alt="RG" src="RG.svg"> -->
+  <!-- <img  width="40" alt="Power Query" src="Power Query.svg"> -->
 </p>
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
