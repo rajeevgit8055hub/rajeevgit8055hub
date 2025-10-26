@@ -106,6 +106,7 @@ and delivering data-driven solutions that create real business impact.
   <img  width="40" alt="Google Sheets" src="Google Sheets.svg">
   <img  width="40" alt="Tableau" src="Tableau.svg">
   <img  width="30" alt="Power BI" src="Power BI.svg">
+  <img  width="30" alt="Data VIsualization" src="Data.svg">
   <img  width="50" alt="HTML5" src="HTML5.svg">
   <img  width="30" alt="CSS" src="CSS.svg">
   <img  width="40" alt="Python" src="Python.svg">
@@ -118,6 +119,8 @@ and delivering data-driven solutions that create real business impact.
   <img  width="50" alt="VBA" src="VBA.png">
   <img  width="40" alt="OpenAI" src="OpenAI.svg">
   <img  width="40" alt="Canva" src="Canva.svg">
+  <img  width="40" alt="Gmail" src="ColorGmail.svg">
+  <img  width="40" alt="Forms" src="Forms.svg">
   <img  width="40" alt="Gmail" src="ColorGmail.svg">
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> --> 
