@@ -93,12 +93,12 @@ and delivering data-driven solutions that create real business impact.
 <img alt="Tools" src="Techskills.jpg" />
 
 <p align="center"> 
-  <img  width="30" alt="Microsoft365" src="Microsoft365.svg">
+  <img  width="40" alt="Microsoft365" src="Microsoft365.svg">
   <img  width="30" alt="Office_365" src="Office_365.svg">
   <img  width="40" alt="Excel" src="Excel.svg">
   <img  width="50" alt="MIS" src="MIS.svg">
   <img  width="40" alt="Power Query" src="Power Query.svg">
-  <img  width="50" alt="Power Pivot" src="Power Pivot.svg">
+  <img  width="40" alt="Power Pivot" src="Power Pivot.svg">
   <img  width="40" alt="Access" src="Access.svg">
   <img  width="40" alt="PowerPoint" src="PowerPoint.svg">
   <img  width="40" alt="Outlook" src="Outlook.svg">
@@ -114,14 +114,14 @@ and delivering data-driven solutions that create real business impact.
   <img  width="50" alt="PostgreSQL" src="PostgreSQL.svg">
   <img  width="30" alt="SQL" src="SQL.svg">
   <img  width="40" alt="Git" src="Git.svg">
-  <img  width="40" alt="Gitbash" src="GitBash.svg">
   <img  width="40" alt="Github" src="GitViolet.svg">
   <img  width="70" alt="WPS Office" src="WPS Office.svg">
   <img  width="50" alt="VBA" src="VBA.png">
   <img  width="40" alt="OpenAI" src="OpenAI.svg">
   <img  width="40" alt="Canva" src="Canva.svg">
   <img  width="40" alt="Gmail" src="ColorGmail.svg">
-  <img  width="20" alt="Forms" src="Googe Forms.svg">
+  <img  width="30" alt="Forms" src="Googe Forms.svg">
+  <!-- <img  width="40" alt="Gitbash" src="GitBash.svg"> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> --> 
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/> -->
