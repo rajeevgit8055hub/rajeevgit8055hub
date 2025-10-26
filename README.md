@@ -94,7 +94,7 @@ and delivering data-driven solutions that create real business impact.
 
 <p align="center"> 
   <img  width="40" alt="Microsoft365" src="Microsoft365.svg">
-  <img  width="30" alt="Office_365" src="Office_365.svg">
+  <img  width="40" alt="Office_365" src="Office_365.svg">
   <img  width="40" alt="Excel" src="Excel.svg">
   <img  width="50" alt="MIS" src="MIS.svg">
   <img  width="40" alt="Power Query" src="Power Query.svg">
