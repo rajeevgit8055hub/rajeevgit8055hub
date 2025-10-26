@@ -1,7 +1,7 @@
 # Hi, i'm_rajeev
 Data enthusiast exploring real-world solutions through Excel automation & BI tools.
 
-<img align="right" alt="R" width="50" src="R.svg" />
+<img align="right" alt="R" width="50" src="D.svg" />
 
 <!-- Header Section --> 
 
@@ -120,8 +120,7 @@ and delivering data-driven solutions that create real business impact.
   <img  width="40" alt="OpenAI" src="OpenAI.svg">
   <img  width="40" alt="Canva" src="Canva.svg">
   <img  width="40" alt="Gmail" src="ColorGmail.svg">
-  <img  width="40" alt="Forms" src="Forms.svg">
-  <img  width="40" alt="Gmail" src="ColorGmail.svg">
+  <img  width="40" alt="Forms" src="Googe Forms.svg">
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> --> 
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/> -->
@@ -151,9 +150,14 @@ and delivering data-driven solutions that create real business impact.
   <img  width="40" alt="Excel" src="Excelold.svg">
   <img  width="40" alt="Power Query" src="Power Query.svg">
   <img  width="40" alt="Github" src="GitViolet.svg">
-  <img  width="60" alt="KitKat" src="KitKat.svg">
   <img  width="60" alt="Coca Cola" src="Coca Cola.svg">
   <img  width="60" alt="Yamaha" src="Yamaha.svg">
+  <img  width="60" alt="KitKat" src="KitKat.svg">
+  <img  width="60" alt="Coffee" src="Coffee cup.svg">
+  <img  width="60" alt="Pikachu" src="Pikachu.svg">
+  <img  width="60" alt="Pokemon" src="Pokemon.svg">
+  <img  width="60" alt="SpotifyText" src="SpotifyText.svg">
+  <img  width="60" alt="Spotify" src="Spotify.svg">
   <!-- <img  width="60" alt="RG" src="RG.svg"> -->
 </p>
 
