@@ -103,7 +103,7 @@ and delivering data-driven solutions that create real business impact.
   <img  width="40" alt="PowerPoint" src="PowerPoint.svg">
   <img  width="40" alt="Outlook" src="Outlook.svg">
   <img  width="40" alt="OneNote" src="OneNote.svg"> 
-   <img  width="40" alt="Publisher" src="Publisher.svg"> 
+  <img  width="40" alt="Publisher" src="Publisher.svg"> 
   <img  width="40" alt="Google Sheets" src="Google Sheets.svg">
   <img  width="40" alt="Tableau" src="Tableau.svg">
   <img  width="30" alt="Power BI" src="Power BI.svg">
