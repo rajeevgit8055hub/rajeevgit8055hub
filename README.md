@@ -47,7 +47,7 @@ and delivering data-driven solutions that create real business impact.
 <!-- 💻 My Skills -->
 ## 💻 My Skills
 
-<img alt="MySkills" src="MySkills.png" />
+<img alt="MySkills" src="PersonSvg.svg" />
 <!-- <img alt="MySkills" src="Skill.png" /> -->
 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
