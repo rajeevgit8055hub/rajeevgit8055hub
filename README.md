@@ -150,7 +150,7 @@ and delivering data-driven solutions that create real business impact.
   <img  width="60" alt="Computer" src="CHMT.svg">
   <img  width="40" alt="Excel" src="Excelold.svg">
   <img  width="40" alt="Github" src="GitViolet.svg">
-  <img  width="40" alt="Spotify" src="Music.svg"> 
+  <img  width="40" alt="Spotify" src="Spotify.svg"> 
   <img  width="60" alt="Coca Cola" src="Coca Cola.svg">
   <img  width="60" alt="Yamaha" src="Yamaha.svg">
   <img  width="50" alt="Coffee" src="Coffee cup.svg">
