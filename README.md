@@ -182,10 +182,13 @@ and delivering data-driven solutions that create real business impact.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <!-- ## 💫 Things I Love -->
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50">&nbsp;***Things I Love***
+<!-- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50">&nbsp;***Things I Love*** -->
 
-<img src="Things Love.gif" width="100" alt="Connect With Me"/> 
-<img src="Things Love1.webp" width="100" alt="Connect With Me"/> 
+<img src="Things Love.gif" width="50" alt="Connect With Me"/> 
+<img src="Things Love1.webp" align="right" width="100" alt="Connect With Me"/> 
+<p align="right">
+  <img src="Things Love1.webp" width="100" alt="Connect With Me"/>
+</p>
 
 <p align="center">
   <img  width="40" alt="LinkedIn" src="LinkedIn.svg">
