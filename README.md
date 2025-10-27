@@ -184,7 +184,7 @@ and delivering data-driven solutions that create real business impact.
 <!-- ## 💫 Things I Love -->
 <!-- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50">&nbsp;***Things I Love*** -->
 
-<img src="Things Love.gif" width="50" alt="Things i love"/><img src="Things Love1.webp" width="300" alt="Things i love"/> 
+<img src="Things Love.gif" width="50" alt="Things i love"/><img src="Things Love1.webp" width="200" alt="Things i love"/> 
 
 <p align="center">
   <img  width="40" alt="LinkedIn" src="LinkedIn.svg">
@@ -206,7 +206,7 @@ and delivering data-driven solutions that create real business impact.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
    
 <!-- ## 📬 Connect with Me -->
-<img src="https://media.giphy.com/media/l3vR9Oqg3w1rKQJwE/giphy.gif" width="50"><img src="Contact+me.gif" width="120" alt="Connect With Me"/> 
+<img src="https://media.giphy.com/media/l3vR9Oqg3w1rKQJwE/giphy.gif" width="60"><img src="Contact+me.gif" width="120" alt="Connect With Me"/> 
 
 <!-- <img alt="GitCover" src="Technoglobe.jpg" /> -->
 
