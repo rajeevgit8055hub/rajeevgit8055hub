@@ -1,7 +1,7 @@
 # Hi I'm Rajeev
 Data enthusiast exploring real-world solutions through Excel automation & BI tools.
 
-![Tech Stack](https://img.shields.io/badge/Excel|SQL|Power_BI|Access|Python|GitHub-217346?style=for-the-badge&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/Excel|SQL|Power_BI|Access|Power Query|GitHub-217346?style=for-the-badge&logoColor=white)
 
 <img align="right" alt="Rajeev" width="50" src="R.svg" />
 
