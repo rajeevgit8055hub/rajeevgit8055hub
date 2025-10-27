@@ -237,20 +237,7 @@ and delivering data-driven solutions that create real business impact.
 <!-- ![GitHub Streak](https://github-readme-streak-stats-username.vercel.app/rajeevgit8055hub?theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats-username.vercel.app/rajeevgit8055hub?theme=dark&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark) 
- [https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark](https://github-readme-streak-stats-username.vercel.app/<YOUR_GITHUB_USERNAME>?theme=dark
-) -->
-
-
-
-<!-- 📊 Stats & Top Languages Side by Side -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=midnight-purple" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=midnight-purple" height="170"/>
-</div>
-
-
-
-
+ [https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark](https://github-readme-streak-stats-username.vercel.app/<YOUR_GITHUB_USERNAME>?theme=dark) -->
 
 <!--## 📊 Activity Graph -->
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgwbWpid3JycW56ZzVlcGc2aWExMzN3M25qY25pNzRoYjNqNWNobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d56Di5yqBRq9KnSZX6/giphy.webp" width="35">&nbsp;***Activity Graph*** 
