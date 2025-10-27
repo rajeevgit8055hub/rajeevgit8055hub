@@ -184,7 +184,7 @@ and delivering data-driven solutions that create real business impact.
 <!-- ## 💫 Things I Love -->
 <!-- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50">&nbsp;***Things I Love*** -->
 
-<img src="Things Love.gif" width="50" alt="Connect With Me"/><img src="Things Love1.webp" width="100" alt="Connect With Me"/> 
+<img src="Things Love.gif" width="50" alt="Connect With Me"/><img src="Things Love1.webp" width="500" alt="Connect With Me"/> 
 
 <p align="center">
   <img  width="40" alt="LinkedIn" src="LinkedIn.svg">
