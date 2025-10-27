@@ -9,41 +9,37 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rajeevgit8055hub.rajeevgit8055hub)
 ![Open Source](https://img.shields.io/badge/OS-Contributor-217346?style=for-the-badge&labelColor=00C4CC)
 ![Repositories](https://img.shields.io/badge/Repositories-23-F29111?style=for-the-badge&labelColor=D83B01)
+
 <!-- LinkedIn profile badge -->
-<!-- purple -->
-<a href="https://in.linkedin.com/in/rajeev-tiwari123">
-  <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-purple?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-</a>
-
-<!-- blue -->
-<a href="https://in.linkedin.com/in/rajeev-tiwari123">
-  <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-</a>
-
-<!-- light blue -->
-<a href="https://in.linkedin.com/in/rajeev-tiwari123">
-  <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-4169e1?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-</a>
-
-<!-- blue -->
-<a href="https://in.linkedin.com/in/rajeev-tiwari123">
-  <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-</a>
-
-<!-- charcoal black -->
-<a href="https://in.linkedin.com/in/rajeev-tiwari123">
-  <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-2C2C2C?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-</a>  
-
-<!-- violet -->
-<a href="https://in.linkedin.com/in/rajeev-tiwari123">
-  <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-673AB7?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-</a>
-
 <!-- teal -->
 <a href="https://in.linkedin.com/in/rajeev-tiwari123">
   <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-008080?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
 </a>
+
+<!-- purple 
+<a href="https://in.linkedin.com/in/rajeev-tiwari123">
+  <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-purple?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+</a> -->
+
+<!-- blue
+<a href="https://in.linkedin.com/in/rajeev-tiwari123">
+  <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+</a> -->
+
+<!-- light blue
+<a href="https://in.linkedin.com/in/rajeev-tiwari123">
+  <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-4169e1?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+</a> -->
+
+<!-- charcoal black
+<a href="https://in.linkedin.com/in/rajeev-tiwari123">
+  <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-2C2C2C?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+</a> -->  
+
+<!-- violet
+<a href="https://in.linkedin.com/in/rajeev-tiwari123">
+  <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-673AB7?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+</a> -->
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://in.linkedin.com/in/rajeev-tiwari123) -->
 <!-- 🔗 [Connect with me on LinkedIn](https://in.linkedin.com/in/rajeev-tiwari123) -->
