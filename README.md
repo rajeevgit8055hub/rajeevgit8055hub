@@ -87,7 +87,8 @@ and delivering data-driven solutions that create real business impact.
 <!-- ## 💻 Skills & Expertise -->
 <!-- <h2><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50">&nbsp;Skills & Expertise</h2> -->
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50"><img src="Skiil1.gif" width="50">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50"><img src="Skills.gif" width="50">
+
 
 <img alt="MySkills" src="MySkills.png" />
 
