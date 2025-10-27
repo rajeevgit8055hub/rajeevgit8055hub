@@ -2,7 +2,10 @@
 Data enthusiast exploring real-world solutions through Excel automation & BI tools.
 
 <!-- Tech Stack Badge -->
-![Tech Stack](https://img.shields.io/badge/Excel|SQL|Power_BI|Access|Power_Query|GitHub-orange?style=for-the-badge&logoColor=black)
+![Tech Stack](https://img.shields.io/badge/Excel|SQL|Power_BI|Access|Power_Query|GitHub-c8f7c5?style=for-the-badge&logoColor=black&labelColor=ffffff)
+![Tech Stack](https://img.shields.io/badge/Excel|SQL|Power_BI|Access|Power_Query|GitHub-dcdcdc?style=for-the-badge&logoColor=black)
+![Tech Stack](https://img.shields.io/badge/Excel|SQL|Power_BI|Access|Power_Query|GitHub-b3e5fc?style=for-the-badge&logoColor=black)
+
 
 <img align="right" alt="Rajeev" width="50" src="R.svg" />
 
