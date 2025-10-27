@@ -1,34 +1,6 @@
 # Hi I'm Rajeev
 Data enthusiast exploring real-world solutions through Excel automation & BI tools.
 
-<!-- Tech Stack Badge -->
-<!-- 💻 Tech Stack Section -->
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30">&nbsp;***Tech Stack***
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/MS_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_Query-4CAF50?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/MS_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_Query-4CAF50?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-
-
-
 <img align="right" alt="Rajeev" width="50" src="R.svg" />
 
 <!-- Header Section -->
@@ -107,6 +79,8 @@ and delivering data-driven solutions that create real business impact.
 
 <!-- 💻 My Skills -->
 ## 💻 My Skills
+<!-- 💻 Tech Stack Section -->
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30">&nbsp;***Tech Stack***
 
 <!-- <img alt="MySkills" src="PersonSvg.svg" /> -->
 <img alt="MySkills" src="MySkills.png" />
