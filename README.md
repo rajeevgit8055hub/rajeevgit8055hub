@@ -60,7 +60,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 
 <!-- <h2><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30">👨‍💼 About Me</h2> -->
 
-<!-- <img align="right" alt="Boy working on computer" width="400" src="Techoboy.jpg" /> -->
+<img align="right" alt="Boy working on computer" width="400" src="Blue Boy.gif" />
 
 I’m passionate about turning raw data into meaningful business insights.
 With strong expertise in Microsoft 365 and growing proficiency in modern data tools like
@@ -85,7 +85,9 @@ and delivering data-driven solutions that create real business impact.
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- ## 💻 Skills & Expertise -->
-<h2><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50">&nbsp;Skills & Expertise</h2>
+<!-- <h2><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50">&nbsp;Skills & Expertise</h2> -->
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50"><img src="Skiils.gif" width="50">
 
 <img alt="MySkills" src="MySkills.png" />
 
