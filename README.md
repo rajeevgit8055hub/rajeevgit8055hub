@@ -184,6 +184,9 @@ and delivering data-driven solutions that create real business impact.
 <!-- ## 💫 Things I Love -->
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50">&nbsp;***Things I Love***
 
+<img src="Things Love.gif" width="100" alt="Connect With Me"/> 
+<img src="Things Love1.gif" width="100" alt="Connect With Me"/> 
+
 <p align="center">
   <img  width="40" alt="LinkedIn" src="LinkedIn.svg">
   <img  width="60" alt="Computer" src="CHMT.svg">
@@ -206,7 +209,7 @@ and delivering data-driven solutions that create real business impact.
 <!-- ## 📬 Connect with Me -->
 <img src="https://media.giphy.com/media/l3vR9Oqg3w1rKQJwE/giphy.gif" width="50">&nbsp;<img src="Contact+me.gif" width="100" alt="Connect With Me"/> 
 
-<img alt="GitCover" src="Technoglobe.jpg" />
+<!-- <img alt="GitCover" src="Technoglobe.jpg" /> -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Reach+me+via+X,+LinkedIn,+GitHub,+Email+or+my+Website+🌐;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
 
