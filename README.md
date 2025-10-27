@@ -1,4 +1,4 @@
-# Hi, i'm_rajeev
+# Hi I'm Rajeev
 Data enthusiast exploring real-world solutions through Excel automation & BI tools.
 
 <img align="right" alt="R" width="50" src="R.svg" />
