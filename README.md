@@ -183,7 +183,7 @@ and delivering data-driven solutions that create real business impact.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <!-- ## 💫 Things I Love -->
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***Things I Love***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50">&nbsp;***Things I Love***
 
 <p align="center">
   <img  width="40" alt="LinkedIn" src="LinkedIn.svg">
@@ -205,9 +205,9 @@ and delivering data-driven solutions that create real business impact.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
    
 <!-- ## 📬 Connect with Me -->
-<img src="https://media.giphy.com/media/l3vR9Oqg3w1rKQJwE/giphy.gif" width="30">&nbsp;***Connect with Me*** 
+<img src="https://media.giphy.com/media/l3vR9Oqg3w1rKQJwE/giphy.gif" width="50">&nbsp;***Connect with Me*** 
 <p align="center">
-  <img src="URL_OF_SELECTED_GIF" width="120" alt="Connect With Me"/>
+  <img src="" width="120" alt="Connect With Me"/>
 </p>
 
 
