@@ -79,8 +79,9 @@ and delivering data-driven solutions that create real business impact.
 
 <!-- 💻 My Skills -->
 ## 💻 My Skills
-<!-- 💻 Tech Stack Section -->
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30">&nbsp;***Tech Stack***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***Skills & Expertise***
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">&nbsp;***Core Skills***
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30">&nbsp;***Skills***
 
 <!-- <img alt="MySkills" src="PersonSvg.svg" /> -->
 <img alt="MySkills" src="MySkills.png" />
@@ -123,7 +124,9 @@ and delivering data-driven solutions that create real business impact.
 <!-- ![seaborn](https://img.shields.io/badge/seaborn-1a73e8?style=for-the-badge&logo=seaborn&logoColor=white) -->
 
 <!-- ⚙️ Tools -->
-## ⚙️ Tools
+<!-- ## ⚙️ Tools -->
+<!-- 💻 Tech Stack Section -->
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30">&nbsp;***Tech Stack***
 
 <img alt="Tools" src="Techskills.jpg" />
 
