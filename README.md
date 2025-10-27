@@ -5,7 +5,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <img align="right" alt="Rajeev" width="50" src="R.svg" />
 
 <!-- Header Section -->
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50">&nbsp;
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">&nbsp;
 <!-- <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="30">&nbsp; -->
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet)](https://github.com/rajeevgit8055hub)
@@ -128,7 +128,7 @@ and delivering data-driven solutions that create real business impact.
 
 
 <!-- ⚙️ Tech Stack -->
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50">&nbsp;***⚙️ Tech Stack***
+<h2><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50">&nbsp;Tech Stack</h2>
 
 <img alt="Tools" src="Techskills.jpg" />
 
@@ -183,8 +183,7 @@ and delivering data-driven solutions that create real business impact.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <!-- ## 💫 Things I Love -->
-<!-- ## 💫 Things I Love -->
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***💫 Things I Love***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***Things I Love***
 
 <p align="center">
   <img  width="40" alt="LinkedIn" src="LinkedIn.svg">
@@ -206,10 +205,12 @@ and delivering data-driven solutions that create real business impact.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
    
 <!-- ## 📬 Connect with Me -->
-<!-- ## 📬 Connect with Me -->
-<img src="https://media.giphy.com/media/l3vR9Oqg3w1rKQJwE/giphy.gif" width="30">&nbsp;***📬 Connect with Me*** 
+<img src="https://media.giphy.com/media/l3vR9Oqg3w1rKQJwE/giphy.gif" width="30">&nbsp;***Connect with Me*** 
+<p align="center">
+  <img src="URL_OF_SELECTED_GIF" width="120" alt="Connect With Me"/>
+</p>
 
-<!-- <img align="right" alt="Technology" src="NeonGlobe.jpg" /> -->
+
 <img alt="GitCover" src="Technoglobe.jpg" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Reach+me+via+X,+LinkedIn,+GitHub,+Email+or+my+Website+🌐;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
