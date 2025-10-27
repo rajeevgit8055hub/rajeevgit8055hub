@@ -127,9 +127,9 @@ and delivering data-driven solutions that create real business impact.
 
 
 <!-- ⚙️ Tech Stack -->
-<h2><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40">&nbsp;Tech Stack</h2>
+<h2><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40">Tech Stack</h2>
 
-<img alt="Tools" src="Techskills.jpg" />
+<img alt="Tools" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
 
 <p align="center"> 
   <img  width="40" alt="Microsoft365" src="Microsoft365.svg">
@@ -184,7 +184,7 @@ and delivering data-driven solutions that create real business impact.
 <!-- ## 💫 Things I Love -->
 <!-- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50">&nbsp;***Things I Love*** -->
 
-<img src="Things Love.gif" width="50" alt="Connect With Me"/><img src="Things Love1.webp" width="500" alt="Connect With Me"/> 
+<img src="Things Love.gif" width="50" alt="Connect With Me"/><img src="Things Love1.webp" width="200" alt="Connect With Me"/> 
 
 <p align="center">
   <img  width="40" alt="LinkedIn" src="LinkedIn.svg">
