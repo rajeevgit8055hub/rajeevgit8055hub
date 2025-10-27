@@ -53,7 +53,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <!-- <img align="right" alt="Boy working on computer" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" /> -->
 
 <!-- 👤 About Me -->
-<h2><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30">&nbsp;About Me</h2>
+<h2><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50">&nbsp;About Me</h2>
 <!-- <h2><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30">&nbsp;👨‍💼 About Me</h2> -->
 
 <img align="right" alt="Boy working on computer" width="400" src="Techoboy.jpg" /> 
@@ -67,7 +67,7 @@ and delivering data-driven solutions that create real business impact.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <!-- 🚀 My Mission  -->
-<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="30">&nbsp;***My Mission***
+<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="50">&nbsp;***My Mission***
 <!-- <h2><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">&nbsp;🎯 My Mission</h2> -->
 
 <img align="right" alt="Boy working on computer" width="400" src="BlackG.gif" />
