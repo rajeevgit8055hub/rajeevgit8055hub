@@ -5,10 +5,8 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <img align="right" alt="Rajeev" width="50" src="R.svg" />
 
 <!-- Header Section -->
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">&nbsp;
-<h2><img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="30">&nbsp;📊 GitHub Stats & Insights</h2>
-<h2><img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="30">&nbsp;🚀 My GitHub Journey</h2>
-<h2><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30">&nbsp;💻 GitHub Overview</h2>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50">&nbsp;
+<!-- <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="30">&nbsp; -->
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet)](https://github.com/rajeevgit8055hub)
 [![Followers](https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=social)](https://github.com/rajeevgit8055hub?tab=followers)
