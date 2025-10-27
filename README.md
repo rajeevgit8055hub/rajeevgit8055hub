@@ -206,8 +206,21 @@ and delivering data-driven solutions that create real business impact.
    
 <!-- ## 📬 Connect with Me -->
 <img src="https://media.giphy.com/media/l3vR9Oqg3w1rKQJwE/giphy.gif" width="50">&nbsp;***Connect with Me*** 
+
 <p align="center">
-  <img src="" width="120" alt="Connect With Me"/>
+  <img src="Contact gif2.gif" width="120" alt="Connect With Me"/>
+</p>
+<p align="center">
+  <img src="Contact gif1.gif" width="120" alt="Connect With Me"/>
+</p>
+<p align="center">
+  <img src="Contact gif.gif" width="120" alt="Connect With Me"/>
+</p>
+<p align="center">
+  <img src="Violet Contact.gif" width="120" alt="Connect With Me"/>
+</p>
+<p align="center">
+  <img src="Contact+me.gif" width="120" alt="Connect With Me"/>
 </p>
 
 
