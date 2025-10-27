@@ -127,6 +127,10 @@ and delivering data-driven solutions that create real business impact.
 <!-- 💻 Tech Stack Section -->
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30">&nbsp;***Tech Stack***
 
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30">&nbsp;***💫Things I Love***
+
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***Skills & Expertise***
 <img alt="Tools" src="Techskills.jpg" />
 
 <p align="center"> 
@@ -181,9 +185,7 @@ and delivering data-driven solutions that create real business impact.
 
 <!-- ## 💫 Things I Love -->
 <!-- ## 💫 Things I Love -->
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30">&nbsp;***💫Things I Love***
-<img src="https://media.giphy.com/media/l3vR9Oqg3w1rKQJwE/giphy.gif" width="30">&nbsp;***Things I Love***
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***Things I Love***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***💫 Things I Love***
 
 <p align="center">
   <img  width="40" alt="LinkedIn" src="LinkedIn.svg">
@@ -205,7 +207,8 @@ and delivering data-driven solutions that create real business impact.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
    
 <!-- ## 📬 Connect with Me -->
-## 📬 Connect with Me
+<!-- ## 📬 Connect with Me -->
+<img src="https://media.giphy.com/media/l3vR9Oqg3w1rKQJwE/giphy.gif" width="30">&nbsp;***📬 Connect with Me*** 
 
 <!-- <img align="right" alt="Technology" src="NeonGlobe.jpg" /> -->
 <img alt="GitCover" src="Technoglobe.jpg" />
