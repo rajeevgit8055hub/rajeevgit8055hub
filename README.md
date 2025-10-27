@@ -81,6 +81,8 @@ and delivering data-driven solutions that create real business impact.
 <!-- ## 💻 My Skills -->
 <!-- 💻 Tech Stack Section -->
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30">&nbsp;***💻 Skills & Expertise***
+<h2><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30">&nbsp;💻 Skills & Expertise</h2>
+
 
 <!-- <img alt="MySkills" src="PersonSvg.svg" /> -->
 <img alt="MySkills" src="MySkills.png" />
