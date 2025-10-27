@@ -1,5 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">&nbsp;Hi I'm Rajeev
-<h2><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30">&nbsp;💻 Skills & Expertise</h2>
+<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">&nbsp;Hi I'm Rajeev</h2>
 #
 Data enthusiast exploring real-world solutions through Excel automation & BI tools.
 
@@ -55,6 +54,9 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 
 <!-- 👤 About Me -->
 ## 👤 About Me
+<h2><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30">&nbsp;👤 About Me</h2>
+<h2><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30">&nbsp;👨‍💼 About Me</h2>
+
 
 <img align="right" alt="Boy working on computer" width="400" src="Techoboy.jpg" /> 
 
