@@ -1,4 +1,5 @@
 # Hi I'm Rajeev
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">&nbsp;***Hi I'm Rajeev***
 Data enthusiast exploring real-world solutions through Excel automation & BI tools.
 
 <img align="right" alt="Rajeev" width="50" src="R.svg" />
@@ -78,10 +79,8 @@ and delivering data-driven solutions that create real business impact.
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- 💻 My Skills -->
-## 💻 My Skills
+<!-- ## 💻 My Skills -->
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***Skills & Expertise***
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">&nbsp;***Core Skills***
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30">&nbsp;***Skills***
 
 <!-- <img alt="MySkills" src="PersonSvg.svg" /> -->
 <img alt="MySkills" src="MySkills.png" />
@@ -181,7 +180,10 @@ and delivering data-driven solutions that create real business impact.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <!-- ## 💫 Things I Love -->
-## 💫 Things I Love
+<!-- ## 💫 Things I Love -->
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30">&nbsp;***💫Things I Love***
+<img src="https://media.giphy.com/media/l3vR9Oqg3w1rKQJwE/giphy.gif" width="30">&nbsp;***Things I Love***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***Things I Love***
 
 <p align="center">
   <img  width="40" alt="LinkedIn" src="LinkedIn.svg">
