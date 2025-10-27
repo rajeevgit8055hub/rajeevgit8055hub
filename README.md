@@ -1,6 +1,8 @@
 # Hi I'm Rajeev
 Data enthusiast exploring real-world solutions through Excel automation & BI tools.
 
+![Tech Stack](https://img.shields.io/badge/Excel|SQL|Power_BI|Access|Python|GitHub-217346?style=for-the-badge&logoColor=white)
+
 <img align="right" alt="Rajeev" width="50" src="R.svg" />
 
 <!-- Header Section -->
@@ -173,7 +175,7 @@ and delivering data-driven solutions that create real business impact.
   <!--  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg"      alt="SeaBorn"  width="40" height="40"/> --> 
 </p>
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <!-- ## 💫 Things I Love -->
 ## 💫 Things I Love
@@ -195,7 +197,7 @@ and delivering data-driven solutions that create real business impact.
   <!-- <img  width="40" alt="Power Query" src="Power Query.svg"> -->
 </p>
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
    
 <!-- ## 📬 Connect with Me -->
 ## 📬 Connect with Me
@@ -214,11 +216,13 @@ and delivering data-driven solutions that create real business impact.
 <a href="rajeevtiwari8055@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/>
 </a> -->
 
-< <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ## 📊 GitHub Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevgit8055hub&theme=midnight_purple)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=midnight-purple)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=midnight-purple)
