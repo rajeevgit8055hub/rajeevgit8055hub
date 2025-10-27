@@ -85,7 +85,6 @@ and delivering data-driven solutions that create real business impact.
 
 <!-- ## 💻 Skills & Expertise -->
 <h2><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50">&nbsp;Skills & Expertise</h2>
-<!-- <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30">&nbsp;***Skills & Expertise*** -->
 
 <img alt="MySkills" src="MySkills.png" />
 
@@ -128,7 +127,7 @@ and delivering data-driven solutions that create real business impact.
 
 
 <!-- ⚙️ Tech Stack -->
-<h2><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50">&nbsp;Tech Stack</h2>
+<h2><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40">&nbsp;Tech Stack</h2>
 
 <img alt="Tools" src="Techskills.jpg" />
 
