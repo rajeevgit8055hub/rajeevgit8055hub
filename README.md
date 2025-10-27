@@ -35,11 +35,17 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
   <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-4169E1?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
 </a>
 
-<!-- teal -->
+<!-- charcoal black -->
+<a href="https://in.linkedin.com/in/rajeev-tiwari123">
+  <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-2C2C2C?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+</a>  
+
+<!-- violet -->
 <a href="https://in.linkedin.com/in/rajeev-tiwari123">
   <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-673AB7?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
 </a>
 
+<!-- teal -->
 <a href="https://in.linkedin.com/in/rajeev-tiwari123">
   <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-008080?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
 </a>
