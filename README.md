@@ -67,10 +67,8 @@ and delivering data-driven solutions that create real business impact.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <!-- 🚀 My Mission  -->
-## 🚀 My Mission 
-<h2><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">&nbsp;🎯 My Mission</h2>
-<h2><img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="30">&nbsp;🚀 My Mission</h2>
-
+<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="30">&nbsp;***My Mission***
+<!-- <h2><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">&nbsp;🎯 My Mission</h2> -->
 
 <img align="right" alt="Boy working on computer" width="400" src="BlackG.gif" />
 
@@ -83,11 +81,9 @@ and delivering data-driven solutions that create real business impact.
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- ## 💻 Skills & Expertise -->
-<!-- 💻 Tech Stack Section -->
-<!-- <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30">&nbsp;***💻 Skills & Expertise*** -->
 <h2><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30">&nbsp;💻 Skills & Expertise</h2>
+<!-- <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30">&nbsp;***💻 Skills & Expertise*** -->
 
-<!-- <img alt="MySkills" src="PersonSvg.svg" /> -->
 <img alt="MySkills" src="MySkills.png" />
 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
