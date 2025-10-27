@@ -1,7 +1,8 @@
 # Hi I'm Rajeev
 Data enthusiast exploring real-world solutions through Excel automation & BI tools.
 
-![Tech Stack](https://img.shields.io/badge/Excel|SQL|Power_BI|Access|Power Query|GitHub-217346?style=for-the-badge&logoColor=white)
+<!-- Tech Stack Badge -->
+![Tech Stack](https://img.shields.io/badge/Excel|SQL|Power_BI|Access|Power_Query|GitHub-217346?style=for-the-badge&logoColor=white)
 
 <img align="right" alt="Rajeev" width="50" src="R.svg" />
 
@@ -222,6 +223,7 @@ and delivering data-driven solutions that create real business impact.
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
+<!-- Profile Summary Card -->
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevgit8055hub&theme=midnight_purple)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=midnight-purple)
@@ -237,6 +239,18 @@ and delivering data-driven solutions that create real business impact.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark) 
  [https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark](https://github-readme-streak-stats-username.vercel.app/<YOUR_GITHUB_USERNAME>?theme=dark
 ) -->
+
+
+
+<!-- 📊 Stats & Top Languages Side by Side -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=midnight-purple" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=midnight-purple" height="170"/>
+</div>
+
+
+
+
 
 <!--## 📊 Activity Graph -->
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgwbWpid3JycW56ZzVlcGc2aWExMzN3M25qY25pNzRoYjNqNWNobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d56Di5yqBRq9KnSZX6/giphy.webp" width="35">&nbsp;***Activity Graph*** 
