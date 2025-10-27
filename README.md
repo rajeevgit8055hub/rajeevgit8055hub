@@ -221,5 +221,196 @@ and delivering data-driven solutions that create real business impact.
 <!--my_image ![GitHub Contributions](https://github.com/rajeevgit8055hub.png?tab=overview&theme=midnight-purple) -->
 
 <img width="300" alt="GitCover" src="Gitcolor.png" />
-
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+
+
+
+
+
+
+
+
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rajeev-tiwari123" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rajeev-tiwari123?trk=profile-badge">Rajeev Tiwari</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="rajeev-tiwari123" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rajeev-tiwari123?trk=profile-badge">Rajeev Tiwari</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="rajeev-tiwari123" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rajeev-tiwari123?trk=profile-badge">Rajeev Tiwari</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="rajeev-tiwari123" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rajeev-tiwari123?trk=profile-badge">Rajeev Tiwari</a></div>
+   
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!-- LinkedIn Official Advance Badge Code (Centered Only) -->
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div class="badge-base LI-profile-badge"
+       data-locale="en_US"
+       data-size="large"
+       data-theme="dark"
+       data-type="HORIZONTAL"
+       data-vanity="rajeev-tiwari123"
+       data-version="v1">
+    <a class="badge-base__link LI-simple-link"
+       href="https://in.linkedin.com/in/rajeev-tiwari123?trk=profile-badge">
+       Rajeev Tiwari
+    </a>
+  </div>
+</div>
+ 
+
+------------------------------------------------------------------------------------------------------------------------  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://in.linkedin.com/in/rajeev-tiwari123)
+
+<a href="https://in.linkedin.com/in/rajeev-tiwari123">
+  <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+</a>
+
+
+🔗 [Connect with me on LinkedIn](https://in.linkedin.com/in/rajeev-tiwari123)
+
+----------------------------------------------------------------------------------
+
+<!-- LinkedIn Official Advance Badge Code -->
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<!-- Right aligned container -->
+<div style="display: flex; justify-content: flex-end; padding: 20px;">
+  <div class="badge-base LI-profile-badge"
+       data-locale="en_US"
+       data-size="medium"
+       data-theme="dark"
+       data-type="VERTICAL"
+       data-vanity="rajeev-tiwari123"
+       data-version="v1">
+    <a class="badge-base__link LI-simple-link"
+       href="https://in.linkedin.com/in/rajeev-tiwari123?trk=profile-badge">
+       Rajeev Tiwari
+    </a>
+  </div>
+</div>
+
+------------------------------------------------------------------------------------------
+
+<!-- LinkedIn Official Advance Badge Code with Right Alignment -->
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<!-- 🔹 Parent Section -->
+<section style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; padding: 40px; background: linear-gradient(135deg, #0A66C2, #004182); border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.2); color: white; font-family: Arial, sans-serif;">
+
+  <!-- 🔸 Left Side Content -->
+  <div style="flex: 1; min-width: 250px; padding-right: 20px;">
+    <h2 style="font-size: 28px; margin-bottom: 10px;">Let's Connect on LinkedIn 🤝</h2>
+    <p style="font-size: 16px; line-height: 1.6;">
+      I’m always open to professional networking, learning, and collaboration opportunities.
+      Connect with me on LinkedIn to stay updated and grow together!
+    </p>
+  </div>
+
+  <!-- 🔸 Right Side LinkedIn Badge -->
+  <div style="flex: 1; min-width: 250px; display: flex; justify-content: center;">
+    <div class="badge-base LI-profile-badge"
+         data-locale="en_US"
+         data-size="medium"
+         data-theme="dark"
+         data-type="VERTICAL"
+         data-vanity="rajeev-tiwari123"
+         data-version="v1">
+      <a class="badge-base__link LI-simple-link"
+         href="https://in.linkedin.com/in/rajeev-tiwari123?trk=profile-badge">
+         Rajeev Tiwari
+      </a>
+    </div>
+  </div>
+
+</section>
+
+
+----------------------------------------------------------------------
+
+<!-- 🟦 Step 1: LinkedIn की Official Script 
+     यह script LinkedIn के badge को लोड करने का काम करती है।
+     इसे आप अपनी HTML page में सिर्फ एक बार ही जोड़ें -->
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<!-- 🟦 Step 2: आपका LinkedIn Badge Container 
+     नीचे दिया गया div आपके LinkedIn प्रोफाइल कार्ड (badge) को दिखाएगा। 
+     data-theme="dark" का मतलब है dark mode, 
+     और data-size="medium" से badge का आकार तय होता है। -->
+<div class="badge-base LI-profile-badge"
+     data-locale="en_US"          <!-- भाषा (यहां English - US) -->
+     data-size="medium"           <!-- बैज का साइज (small, medium, large, extra-large में से कोई भी) -->
+     data-theme="dark"            <!-- थीम (light या dark) -->
+     data-type="VERTICAL"         <!-- लेआउट प्रकार (VERTICAL या HORIZONTAL) -->
+     data-vanity="rajeev-tiwari123"  <!-- आपका LinkedIn vanity URL username -->
+     data-version="v1">           <!-- LinkedIn badge का version -->
+     
+  <!-- नीचे का लिंक असल में आपके प्रोफाइल तक पहुँचने का मार्ग है -->
+  <a class="badge-base__link LI-simple-link"
+     href="https://in.linkedin.com/in/rajeev-tiwari123?trk=profile-badge">
+     Rajeev Tiwari
+  </a>
+</div>
+
+------------------------------------------------------------------------------------------
+
+<!-- LinkedIn Script -->
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<!-- Transparent Container with Particle Background -->
+<section style="position: relative; padding: 50px; text-align: center;">
+  
+  <!-- Particle effect background (optional div) -->
+  <div id="particles-bg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1; opacity: 0.5;"></div>
+  
+  <!-- Transparent LinkedIn Badge Section -->
+  <div style="position: relative; z-index: 2; backdrop-filter: blur(4px); background: rgba(255, 255, 255, 0.05); border-radius: 20px; display: inline-block; padding: 20px;">
+    <h2 style="color: white; margin-bottom: 15px;">Connect with Me on LinkedIn</h2>
+
+    <div class="badge-base LI-profile-badge"
+         data-locale="en_US"
+         data-size="medium"
+         data-theme="dark"
+         data-type="VERTICAL"
+         data-vanity="rajeev-tiwari123"
+         data-version="v1">
+      <a class="badge-base__link LI-simple-link"
+         href="https://in.linkedin.com/in/rajeev-tiwari123?trk=profile-badge">
+         Rajeev Tiwari
+      </a>
+    </div>
+  </div>
+
+</section>
+
+----------------------------------------------------------------------------------
+
+<!-- Step 1: LinkedIn Script -->
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<!-- Step 2: Stylish LinkedIn Badge Section -->
+<section style="display:flex; justify-content:center; align-items:center; flex-direction:column; background:linear-gradient(135deg, #0A66C2, #004182); padding:40px 20px; border-radius:20px; box-shadow:0 4px 20px rgba(0,0,0,0.2); color:white; font-family:Arial, sans-serif; text-align:center;">
+  
+  <h2 style="margin-bottom:10px; font-size:28px; font-weight:600;">Connect with Me on LinkedIn</h2>
+  <p style="max-width:500px; font-size:16px; margin-bottom:25px;">
+    I'm active on LinkedIn — let's connect professionally and grow together 🤝
+  </p>
+
+  <!-- LinkedIn Profile Badge -->
+  <div class="badge-base LI-profile-badge"
+       data-locale="en_US"
+       data-size="medium"
+       data-theme="light"
+       data-type="VERTICAL"
+       data-vanity="rajeev-tiwari123"
+       data-version="v1">
+    <a class="badge-base__link LI-simple-link"
+       href="https://in.linkedin.com/in/rajeev-tiwari123?trk=profile-badge">
+       Rajeev Tiwari
+    </a>
+  </div>
+
+</section>
+
+
+                     
