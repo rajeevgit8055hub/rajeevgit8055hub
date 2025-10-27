@@ -81,6 +81,8 @@ and delivering data-driven solutions that create real business impact.
 <!-- 💻 My Skills -->
 <!-- ## 💻 My Skills -->
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***Skills & Expertise***
+<!-- 💻 Tech Stack Section -->
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30">&nbsp;******Skills & Expertise
 
 <!-- <img alt="MySkills" src="PersonSvg.svg" /> -->
 <img alt="MySkills" src="MySkills.png" />
@@ -124,13 +126,14 @@ and delivering data-driven solutions that create real business impact.
 
 <!-- ⚙️ Tools -->
 <!-- ## ⚙️ Tools -->
-<!-- 💻 Tech Stack Section -->
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30">&nbsp;***Tech Stack***
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30">&nbsp;***💫Things I Love***
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30">&nbsp;***⚙️ Tech Stack***
 
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***Skills & Expertise***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***Skills & Expertise***
+
 <img alt="Tools" src="Techskills.jpg" />
 
 <p align="center"> 
