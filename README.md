@@ -21,7 +21,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <a href="https://in.linkedin.com/in/rajeev-tiwari123">
   <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-008080?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
 </a>
-<img width="50" align="right" alt="GitCover" src="Gitcolor.png" />
+<img width="50" align="right" alt="GitCover" src="Lens1.gif" />
 
 <!-- purple
 <a href="https://in.linkedin.com/in/rajeev-tiwari123">
