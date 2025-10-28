@@ -216,36 +216,27 @@ and delivering data-driven solutions that create real business impact.
 Showcasing my practical experience across data and technology tools — from cleaning and transforming data to creating insightful visualizations.
 Each project reflects my ability to turn raw information into meaningful, business-ready insights.
 
-- 📊 [**Excel Data Analysis Report**](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard)  
-  _Analyzed business data using Pivot Tables, charts, and formulas to uncover actionable insights._
+- 📊 [**Hospital Emergency Room Dashboard**](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard)
 
-- 🧩 [**Power Query – Multi-Extension Data Cleaning**](https://github.com/rajeevgit8055hub/PowerQuery-MultiExtension)  
-  _Cleaned and merged multiple file formats (.csv, .txt, .xlsx, .pdf, .accdb) using Power Query for unified reporting._
+- 🧩 [**Unified-Multi-Extension-Folder-Based-Data-Cleaning**](https://github.com/rajeevgit8055hub/Unified-Multi-Extension-Folder-Based-Data-Cleaning)
 
 - 🖼️ [**PowerPoint / Business Insights Decks**](https://github.com/rajeevgit8055hub/Business-Insights-Decks)  
-  _Designed interactive and storytelling presentations with visuals highlighting business KPIs and insights._
 
-- 🧠 [**SQL Data Exploration Project**](https://github.com/rajeevgit8055hub/SQL-Data-Exploration)  
-  _Performed complex queries, joins, and aggregations to analyze organizational data and generate reports._
+- 🧠 [**NETFLIX Data SQL Analysis**](https://github.com/rajeevgit8055hub/NETFLIX-Data-SQL-Analysis)
+ 
+- 📈 [**Nescafe Driving Coffee Sales Excellence**](https://github.com/rajeevgit8055hub/Nescafe-Driving-Coffee-Sales-Excellence)  
 
-- 📈 [**Power BI Dashboard – Sales & Performance Insights**](https://github.com/rajeevgit8055hub/PowerBI-Sales-Dashboard)  
-  _Built interactive dashboards to visualize revenue trends, KPIs, and customer segmentation._
+- 📉 [**HSBC Strategic Stakeholder Intelligence**](https://github.com/rajeevgit8055hub/HSBC-Strategic-Stakeholder-Intelligence)
 
-- 📉 [**Tableau Visualization Project**](https://github.com/rajeevgit8055hub/Tableau-Visualization)  
-  _Created advanced charts and dashboards to present clear and impactful business stories._
+- 🌐 [**Dynamic Neon Glow Website**](https://github.com/rajeevgit8055hub/rajeevtiwari.github.io)
 
-- 🌐 [**Web Development (HTML / CSS)**](https://github.com/rajeevgit8055hub/Web-Portfolio)  
-  _Developed responsive and animated portfolio websites with modern UI effects and clean code._
+- 🗃️ [**SmartBite Online Food Delivery DBMS**](https://github.com/rajeevgit8055hub/SmartBite-Online-Food-Delivery-DBMS)
 
-- 🗃️ [**Access Database Management System**](https://github.com/rajeevgit8055hub/Access-Database)  
-  _Designed a relational database in MS Access with automated forms, reports, and query-based workflows._
+- ⚙️ [**Dynamic Developer Hub**](https://github.com/rajeevgit8055hub)
 
 ---
 
-- ⚙️ [**Advanced & Dynamic GitHub Profile**](https://github.com/rajeevgit8055hub/rajeevgit8055hub)  
-  _Created a professional and interactive GitHub profile featuring skills, projects, and visual GitHub stats._
-
----
+<img src="Blub.gif" width="50">
 
 💡 **Tip:**  
 Each project represents one of my core technical skills — showcasing my ability to build, analyze, and visualize data efficiently.
