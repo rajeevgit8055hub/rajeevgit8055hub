@@ -131,7 +131,7 @@ and delivering data-driven solutions that create real business impact.
 
 <!-- ⚙️ Tech Stack -->
 <!-- <h2><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40">Tech Stack</h2> -->
-<h2><img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="50"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">Tech Stack</h2>
+<h2><img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="50">Tech Stack<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"></h2>
 
 <img alt="Tools" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" height="200" />
 
@@ -209,7 +209,7 @@ and delivering data-driven solutions that create real business impact.
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
    
 <!-- ## 📬 Connect with Me -->
-<img align="right" alt="Orange Meter" width="50" src="Orange Loading.gif" /><img src="Contact+me.gif" width="100" alt="Connect With Me"/> 
+<img alt="Orange Meter" width="50" src="Orange Loading.gif" /><img src="Contact+me.gif" width="100" alt="Connect With Me"/> 
 <!-- <img src="https://media.giphy.com/media/l3vR9Oqg3w1rKQJwE/giphy.gif" width="60"><img src="Contact+me.gif" width="100" alt="Connect With Me"/> -->
 <!-- <img alt="GitCover" src="Technoglobe.jpg" /> -->
 
