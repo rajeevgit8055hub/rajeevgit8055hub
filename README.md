@@ -211,7 +211,7 @@ and delivering data-driven solutions that create real business impact.
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- ## 📂 Featured Projects -->
-<img src="Triangle.gif" width="50"><img src="Projects.gif" width="200">
+<img src="Projects.gif" width="50"><img src="Projects.gif" width="150">
    
 <!-- ## 📬 Connect with Me -->
 <img alt="Orange Meter" width="80" src="Orange Loading.gif" /><img src="Contact+me.gif" width="100" alt="Connect With Me"/>
