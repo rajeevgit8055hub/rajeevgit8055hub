@@ -209,7 +209,7 @@ and delivering data-driven solutions that create real business impact.
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
    
 <!-- ## 📬 Connect with Me -->
-<h1><img alt="Orange Meter" width="80" src="Orange Loading.gif" /><img src="Contact+me.gif" width="100" alt="Connect With Me"/></h1>
+<img alt="Orange Meter" width="80" src="Orange Loading.gif" /><img src="Contact+me.gif" width="100" alt="Connect With Me"/>
 <!-- <img src="https://media.giphy.com/media/l3vR9Oqg3w1rKQJwE/giphy.gif" width="60"><img src="Contact+me.gif" width="100" alt="Connect With Me"/> -->
 <!-- <img alt="GitCover" src="Technoglobe.jpg" /> -->
 
