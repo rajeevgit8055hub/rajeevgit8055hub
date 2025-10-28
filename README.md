@@ -1,4 +1,4 @@
-<h2><img src="Biometric.gif" width="50">&nbsp;Hi I'm Rajeev</h2><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
+<h2><img src="Biometric.gif" width="50">&nbsp;Hi I'm Rajeev<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"></h2>
 <!-- <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">&nbsp;Hi I'm Rajeev</h2> -->
 
 Data enthusiast exploring real-world solutions through Excel automation & BI tools.
