@@ -1,4 +1,4 @@
-<h2><img src="Biometric.gif" width="50">&nbsp;Hi I'm Rajeev</h2>
+<h2><img src="Biometric.gif" width="50">&nbsp;Hi I'm Rajeev</h2><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
 <!-- <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">&nbsp;Hi I'm Rajeev</h2> -->
 
 Data enthusiast exploring real-world solutions through Excel automation & BI tools.
@@ -6,8 +6,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <img align="right" alt="Rajeev" width="50" src="R.svg" />
 
 <!-- Header Section -->
-<img src="Loop.gif" width="50"> 
-<!-- <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> -->
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> 
 <!-- <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="30">-->
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet)](https://github.com/rajeevgit8055hub)
