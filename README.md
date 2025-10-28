@@ -57,7 +57,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <!-- <img align="right" alt="Boy working on computer" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" /> -->
 
 <!-- 👤 About Me -->
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50"><img src="About me 2.gif" width="150">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50"><img src="About me 2.gif" width="100">
 
 <!-- <h2><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30">👨‍💼 About Me</h2> -->
 
@@ -88,8 +88,7 @@ and delivering data-driven solutions that create real business impact.
 
 <!-- ## 💻 Skills & Expertise -->
 <!-- <h2><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50">&nbsp;Skills & Expertise</h2> -->
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50"><img src="Skills2.gif" width="150">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50"><img src="Skills2.gif" width="100">
 
 
 <img alt="MySkills" src="MySkills.png" />
@@ -190,7 +189,7 @@ and delivering data-driven solutions that create real business impact.
 
 <!-- ## 💫 Things I Love -->
 <!-- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50">&nbsp;***Things I Love*** -->
-<img src="Things Love.gif" width="50" alt="Things i love"/><img src="Things Love1.webp" width="200" alt="Things i love"/> 
+<img src="Things Love.gif" width="50" alt="Things i love"/><img src="Things Love1.webp" width="150" alt="Things i love"/> 
 
 <p align="center">
   <img  width="40" alt="LinkedIn" src="LinkedIn.svg">
@@ -212,7 +211,7 @@ and delivering data-driven solutions that create real business impact.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
    
 <!-- ## 📬 Connect with Me -->
-<img src="Contact gif2.gif" width="60"><img src="Contact+me.gif" width="120" alt="Connect With Me"/> 
+<img src="Contact gif2.gif" width="60"><img src="Contact+me.gif" width="100" alt="Connect With Me"/> 
 <!-- <img src="https://media.giphy.com/media/l3vR9Oqg3w1rKQJwE/giphy.gif" width="60"><img src="Contact+me.gif" width="120" alt="Connect With Me"/> -->
 <img alt="MySkills" src="Technology1.gif" />
 <!-- <img alt="GitCover" src="Technoglobe.jpg" /> -->
