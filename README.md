@@ -75,7 +75,7 @@ and delivering data-driven solutions that create real business impact.
 <!-- <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="50"><img src="Mission1.gif" width="150"> -->
 <!-- <h2><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">&nbsp;🎯 My Mission</h2> -->
 
-<img align="right" alt="Boy working on computer" width="350" src="BlackG.gif" />
+<img align="right" alt="Boy working on computer" width="400" src="BlackG.gif" />
 
 - To simplify complex data for easy interpretation.
 - To fulfill my dream of becoming a proficient Data Analyst.
