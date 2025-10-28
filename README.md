@@ -71,7 +71,7 @@ and delivering data-driven solutions that create real business impact.
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- 🚀 My Mission  -->
-<img src="Superhero.gif" width="50"><img src="Mission.gif" width="150">
+<img src="Superhero.gif" width="50"><img src="Neon Mission.gif" width="150">
 <!-- <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="50"><img src="Mission1.gif" width="150"> -->
 <!-- <h2><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">&nbsp;🎯 My Mission</h2> -->
 
