@@ -234,7 +234,6 @@ and delivering data-driven solutions that create real business impact.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=midnight-purple)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=midnight-purple)
-<img alt="MySkills" align="right" width="100" src="Loop.gif" />
 
 <!--## 📊 GitHub Streak -->
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark) -->
