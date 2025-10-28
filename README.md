@@ -92,8 +92,7 @@ and delivering data-driven solutions that create real business impact.
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50"><img src="Skills2.gif" width="150">
 
 
-<!-- <img alt="MySkills" src="MySkills.png" /> -->
-<img alt="MySkills" src="Technology1.gif" />
+<img alt="MySkills" src="MySkills.png" />
 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -213,7 +212,8 @@ and delivering data-driven solutions that create real business impact.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
    
 <!-- ## 📬 Connect with Me -->
-<img src="https://media.giphy.com/media/l3vR9Oqg3w1rKQJwE/giphy.gif" width="60"><img src="Contact+me.gif" width="120" alt="Connect With Me"/> 
+<img src="Contact gif2.gif" width="60"><img src="Contact+me.gif" width="120" alt="Connect With Me"/> 
+<!-- <img src="https://media.giphy.com/media/l3vR9Oqg3w1rKQJwE/giphy.gif" width="60"><img src="Contact+me.gif" width="120" alt="Connect With Me"/> -->
 <img alt="MySkills" src="Technology1.gif" />
 <!-- <img alt="GitCover" src="Technoglobe.jpg" /> -->
 
@@ -270,6 +270,6 @@ and delivering data-driven solutions that create real business impact.
 <!--my_image ![GitHub Contributions](https://github.com/rajeevgit8055hub.png?tab=overview&theme=midnight-purple) -->
 
 <!-- <img width="300" alt="GitCover" src="Gitcolor.png" /> -->
-<img alt="MySkills" src="Technology1.gif" />
+<img alt="MySkills" src="Loop.gif" />
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->                 
