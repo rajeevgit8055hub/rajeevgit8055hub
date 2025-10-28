@@ -3,7 +3,7 @@
 
 Data enthusiast exploring real-world solutions through Excel automation & BI tools.
 
-<img align="right" alt="Rajeev" width="50" src="RF.svg" />
+<img align="right" alt="Rajeev" width="50" src="RG.svg" />
 
 <!-- Header Section -->
 <!-- <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> -->
