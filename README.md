@@ -62,7 +62,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 
 <!-- <h2><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30">👨‍💼 About Me</h2> -->
 
-<img align="right" alt="Boy working on computer" width="400" src="Blue Boy.gif" />
+<img align="right" alt="Boy working on computer" width="300" src="Blue Boy.gif" />
 
 I’m passionate about turning raw data into meaningful business insights.
 With strong expertise in Microsoft 365 and growing proficiency in modern data tools like
