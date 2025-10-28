@@ -236,6 +236,7 @@ and delivering data-driven solutions that create real business impact.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=midnight-purple)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=midnight-purple)
+<img alt="MySkills" align="right" width="100" src="Loop.gif" />
 
 <!--## 📊 GitHub Streak -->
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark) -->
@@ -267,6 +268,5 @@ and delivering data-driven solutions that create real business impact.
 <!--my_image ![GitHub Contributions](https://github.com/rajeevgit8055hub.png?tab=overview&theme=midnight-purple) -->
 
 <!-- <img width="300" alt="GitCover" src="Gitcolor.png" /> -->
-<img alt="MySkills" src="Loop.gif" />
-
+<!-- <img alt="MySkills" src="Loop.gif" /> -->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->                 
