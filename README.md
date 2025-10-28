@@ -231,7 +231,6 @@ and delivering data-driven solutions that create real business impact.
 
 <!-- Profile Summary Card -->
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevgit8055hub&theme=midnight_purple)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=midnight-purple)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=midnight-purple)
 
