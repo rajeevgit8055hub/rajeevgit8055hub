@@ -211,14 +211,16 @@ and delivering data-driven solutions that create real business impact.
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- ## 📂 Featured Projects -->
-<img src="Neon Columns.gif" width="50"><img src="Projects.gif" width="150">
+<img src="Neon Columns.gif" width="40"><img src="Projects.gif" width="150">
 
 Showcasing my practical experience across data and technology tools — from cleaning and transforming data to creating insightful visualizations.
 Each project reflects my ability to turn raw information into meaningful, business-ready insights.
 
 - 📊 [**Hospital Emergency Room Dashboard**](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard)
 
-- 🧩 [**Unified-Multi-Extension-Folder-Based-Data-Cleaning**](https://github.com/rajeevgit8055hub/Unified-Multi-Extension-Folder-Based-Data-Cleaning)
+- 🧩 [**Unified Multi Extension Folder Based Data Cleaning**](https://github.com/rajeevgit8055hub/Unified-Multi-Extension-Folder-Based-Data-Cleaning)
+
+- 🗃️ [**SmartBite Online Food Delivery DBMS**](https://github.com/rajeevgit8055hub/SmartBite-Online-Food-Delivery-DBMS)
 
 - 🖼️ [**PowerPoint / Business Insights Decks**](https://github.com/rajeevgit8055hub/Business-Insights-Decks)  
 
@@ -230,18 +232,16 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 - 🌐 [**Dynamic Neon Glow Website**](https://github.com/rajeevgit8055hub/rajeevtiwari.github.io)
 
-- 🗃️ [**SmartBite Online Food Delivery DBMS**](https://github.com/rajeevgit8055hub/SmartBite-Online-Food-Delivery-DBMS)
+- 🎓 [**Verified Digital Credentials**](https://github.com/rajeevgit8055hub/Verified-Digital-Credentials)
 
 - ⚙️ [**Dynamic Developer Hub**](https://github.com/rajeevgit8055hub)
 
----
+<!-- ## 💡 ##Tip: -->
+<h2><img src="Bulb.gif" width="50">Tip:</h2>
 
-<img src="Bulb.gif" width="50">
-<img src="Black Bulb.gif" width="50">
-<img src="Black Bulb1.gif" width="50">
-
-💡 **Tip:**  
 Each project represents one of my core technical skills — showcasing my ability to build, analyze, and visualize data efficiently.
+
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- ## 📬 Connect with Me -->
 <img alt="Orange Meter" width="80" src="Orange Loading.gif" /><img src="Contact+me.gif" width="100" alt="Connect With Me"/>
