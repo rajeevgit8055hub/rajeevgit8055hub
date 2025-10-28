@@ -226,7 +226,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 ---
 
-- 🖼️ [**Business Insights Decks**]([https://github.com/rajeevgit8055hub/Business-Insights-Decks](https://github.com/rajeevgit8055hub/Business-Insights-Decks))  
+- 🖼️ [**PowerPoint / Business Insights Decks**](https://github.com/rajeevgit8055hub/Business-Insights-Decks)  
   _Designed interactive and storytelling presentations with visuals highlighting business KPIs and insights._
 
 ---
