@@ -8,7 +8,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <!-- Header Section -->
 <!-- <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> -->
 <!-- <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="30">-->
-<img width="30" alt="GitCover" src="Gitcolor.png" /><img width="300" height="50" alt="GitCover" src="Loading.gif" />
+<img width="30" alt="GitCover" src="Gitcolor.png" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet)](https://github.com/rajeevgit8055hub)
 [![Followers](https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=social)](https://github.com/rajeevgit8055hub?tab=followers)
@@ -212,7 +212,7 @@ and delivering data-driven solutions that create real business impact.
 <img alt="Orange Meter" width="80" src="Orange Loading.gif" /><img src="Contact+me.gif" width="100" alt="Connect With Me"/>
 <!-- <img src="https://media.giphy.com/media/l3vR9Oqg3w1rKQJwE/giphy.gif" width="60"><img src="Contact+me.gif" width="100" alt="Connect With Me"/> -->
 <!-- <img alt="GitCover" src="Technoglobe.jpg" /> -->
-<img alt="Loading" src="Under Loading.gif" />
+<img alt="Loading" height="200" src="Under Loading.gif" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Reach+me+via+X,+LinkedIn,+GitHub,+Email+or+my+Website+🌐;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
 
