@@ -21,7 +21,6 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <a href="https://in.linkedin.com/in/rajeev-tiwari123">
   <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-008080?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
 </a>
-<img width="50" align="right" alt="GitCover" src="Lens1.gif" />
 
 <!-- purple
 <a href="https://in.linkedin.com/in/rajeev-tiwari123">
@@ -213,6 +212,7 @@ and delivering data-driven solutions that create real business impact.
 <img alt="Orange Meter" width="80" src="Orange Loading.gif" /><img src="Contact+me.gif" width="100" alt="Connect With Me"/>
 <!-- <img src="https://media.giphy.com/media/l3vR9Oqg3w1rKQJwE/giphy.gif" width="60"><img src="Contact+me.gif" width="100" alt="Connect With Me"/> -->
 <!-- <img alt="GitCover" src="Technoglobe.jpg" /> -->
+<img alt="Loading" src="Loading.gif" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Reach+me+via+X,+LinkedIn,+GitHub,+Email+or+my+Website+🌐;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
 
@@ -235,7 +235,7 @@ and delivering data-driven solutions that create real business impact.
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevgit8055hub&theme=midnight_purple)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=midnight-purple)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=midnight-purple)
-<img align="right" alt="Loop" width="120" src="Color Loop.gif" />
+<img align="right" alt="Loop" width="120" src="Lens1.gif" />
 
 <!--## 📊 GitHub Streak -->
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark) -->
