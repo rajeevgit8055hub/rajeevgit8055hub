@@ -1,4 +1,4 @@
-<h2><img src="Biometric.gif" width="50">&nbsp;Hi I'm Rajeev<img width="40" align="right" alt="GitCover" src="Gitcolor.png" /> </h2>
+<h2><img width="40" align="right" alt="GitCover" src="Gitcolor.png" />&nbsp;Hi I'm Rajeev</h2>
 <!-- <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">&nbsp;Hi I'm Rajeev</h2> -->
 
 Data enthusiast exploring real-world solutions through Excel automation & BI tools.
@@ -59,7 +59,8 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <!-- <img align="right" alt="Boy working on computer" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" /> -->
 
 <!-- 👤 About Me -->
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50"><img src="About me 2.gif" width="100">
+<!--<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50"> -->
+<img src="Biometric.gif" width="50"><img src="About me 2.gif" width="100">
 <!-- <h2><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30">👨‍💼 About Me</h2> -->
 <img align="right" alt="Boy working on computer" width="400" src="Blue Boy.gif" />
 
