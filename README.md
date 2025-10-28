@@ -8,7 +8,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <!-- Header Section -->
 <!-- <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> -->
 <!-- <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="30">-->
-<img width="50" alt="GitCover" src="Gitcolor.png" />
+<img width="40" alt="GitCover" src="Gitcolor.png" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet)](https://github.com/rajeevgit8055hub)
 [![Followers](https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=social)](https://github.com/rajeevgit8055hub?tab=followers)
@@ -90,9 +90,8 @@ and delivering data-driven solutions that create real business impact.
 <!-- ## 💻 Skills & Expertise -->
 <!-- <h2><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50">&nbsp;Skills & Expertise</h2> -->
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50"><img src="Skills2.gif" width="100">
-
-<img alt="MySkills" src="Technology1.gif" />
-<!-- <img alt="MySkills" src="MySkills.png" /> -->
+<!-- <img alt="MySkills" src="Technology1.gif" /> -->
+<img alt="MySkills" src="MySkills.png" />
 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -136,7 +135,7 @@ and delivering data-driven solutions that create real business impact.
 <!-- <h2><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40">Tech Stack</h2> -->
 <h2><img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="50">Tech Stack</h2>
 
-<img alt="Tools" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
+<img alt="Tools" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
 
 <p align="center"> 
   <img  width="40" alt="Microsoft365" src="Microsoft365.svg">
