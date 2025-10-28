@@ -237,6 +237,8 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ---
 
 <img src="Bulb.gif" width="50">
+<img src="Black Bulb.gif" width="50">
+<img src="Black Bulb1.gif" width="50">
 
 💡 **Tip:**  
 Each project represents one of my core technical skills — showcasing my ability to build, analyze, and visualize data efficiently.
