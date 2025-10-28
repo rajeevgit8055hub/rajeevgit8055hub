@@ -211,8 +211,59 @@ and delivering data-driven solutions that create real business impact.
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- ## 📂 Featured Projects -->
-<img src="Projects.gif" width="50"><img src="Projects.gif" width="150">
-   
+<img src="Neon Columns.gif" width="50"><img src="Projects.gif" width="150">
+
+Showcasing my practical experience across data and technology tools — from cleaning and transforming data to creating insightful visualizations.
+Each project reflects my ability to turn raw information into meaningful, business-ready insights.
+
+- 📊 [Excel Data Analysis Report](https://github.com/rajeevgit8055hub/Excel-Insights)  
+  _Analyzed business data using Pivot Tables, charts, and formulas to uncover actionable insights._
+
+---
+
+- 🧩 [Power Query – Multi-Extension Data Cleaning](https://github.com/rajeevgit8055hub/PowerQuery-MultiExtension)  
+  _Cleaned and merged multiple file formats (.csv, .txt, .xlsx, .pdf, .accdb) using Power Query for unified reporting._
+
+---
+
+- 🖼️ [PowerPoint / Business Insights Decks]([https://github.com/rajeevgit8055hub/Business-Insights-Decks](https://github.com/rajeevgit8055hub/Business-Insights-Decks))  
+  _Designed interactive and storytelling presentations with visuals highlighting business KPIs and insights._
+
+---
+
+- 🧠 [SQL Data Exploration Project](https://github.com/rajeevgit8055hub/SQL-Data-Exploration)  
+  _Performed complex queries, joins, and aggregations to analyze organizational data and generate reports._
+
+---
+
+- 📈 [Power BI Dashboard – Sales & Performance Insights](https://github.com/rajeevgit8055hub/PowerBI-Sales-Dashboard)  
+  _Built interactive dashboards to visualize revenue trends, KPIs, and customer segmentation._
+
+---
+
+- 📉 [Tableau Visualization Project](https://github.com/rajeevgit8055hub/Tableau-Visualization)  
+  _Created advanced charts and dashboards to present clear and impactful business stories._
+
+---
+
+- 🌐 [Web Development (HTML / CSS)](https://github.com/rajeevgit8055hub/Web-Portfolio)  
+  _Developed responsive and animated portfolio websites with modern UI effects and clean code._
+
+---
+
+- 🗃️ [Access Database Management System](https://github.com/rajeevgit8055hub/Access-Database)  
+  _Designed a relational database in MS Access with automated forms, reports, and query-based workflows._
+
+---
+
+- ⚙️ [Advanced & Dynamic GitHub Profile](https://github.com/rajeevgit8055hub/rajeevgit8055hub)  
+  _Created a professional and interactive GitHub profile featuring skills, projects, and visual GitHub stats._
+
+---
+
+💡 **Tip:**  
+Each project represents one of my core technical skills — showcasing my ability to build, analyze, and visualize data efficiently.
+
 <!-- ## 📬 Connect with Me -->
 <img alt="Orange Meter" width="80" src="Orange Loading.gif" /><img src="Contact+me.gif" width="100" alt="Connect With Me"/>
 <!-- <img src="https://media.giphy.com/media/l3vR9Oqg3w1rKQJwE/giphy.gif" width="60"><img src="Contact+me.gif" width="100" alt="Connect With Me"/> -->
