@@ -234,7 +234,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 - 🎓 [**Verified Digital Credentials**](https://github.com/rajeevgit8055hub/Verified-Digital-Credentials)
 
-- ⚙️ [**Dynamic Developer Hub**](https://github.com/rajeevgit8055hub)
+- 💻 [**Dynamic Developer Hub**](https://github.com/rajeevgit8055hub)
 
 <!-- ## 💡 ##Tip: -->
 <img src="Bulb.gif" width="40">Each project represents one of my core technical skills — showcasing my ability to build, analyze, and visualize data efficiently.
