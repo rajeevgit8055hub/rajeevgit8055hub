@@ -237,7 +237,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 - 💻 [**Dynamic Developer Hub**](https://github.com/rajeevgit8055hub)
 
 <!-- ## 💡 ##Tip: -->
-<img src="Bulb.gif" width="40"><img src="Tips.gif" width="100">Each project represents one of my core technical skills — showcasing my ability to build, analyze, and visualize data efficiently.
+<img src="Bulb.gif" width="40"><img src="Tips.gif" width="50">Each project represents one of my core technical skills — showcasing my ability to build, analyze, and visualize data efficiently.
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
