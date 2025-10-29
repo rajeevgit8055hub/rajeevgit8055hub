@@ -316,6 +316,19 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 
 
+<!-- Total Contributions, Join Date, Repo Count (Summary small) -->
+![Stats Overview](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajeevgit8055hub&theme=midnight_purple)
+
+<!-- Commit Distribution Chart (Hourly/Weekly Pattern) -->
+![Commits Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajeevgit8055hub&theme=midnight_purple)
+
+<!-- Language per Repo (Pie Style) -->
+![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajeevgit8055hub&theme=midnight_purple)
+
+<!-- Language per Commit (Pie Style) -->
+![Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajeevgit8055hub&theme=midnight_purple)
+
+
 <!-- ![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/output/github-contribution-grid-snake.svg) -->
 ![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/github-contribution-grid-snake.svg)
 
