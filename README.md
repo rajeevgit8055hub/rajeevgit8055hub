@@ -262,7 +262,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- ## 🚀 GitHub Performance Overview -->
-<h2><img src="Performance.gif" width="40"><img src="Github Overview.gif" width="150">GitHub Performance Overview</h2>
+<img src="Performance.gif" width="50"><img src="Github Overview.gif" height="100" width="200">
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
