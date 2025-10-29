@@ -303,4 +303,15 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- <img width="300" alt="GitCover" src="Gitcolor.png" /> -->
 <!-- <img alt="MySkills" src="Loop.gif" /> -->
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->                 
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->      
+
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=drisDev8&label=Profile%20Views&color=8A2BE2&style=for-the-badge)
+[![trophy](https://github-profile-trophy.vercel.app/?username=drisDev8&theme=onedark&title=Stars,Commits,Followers,Repositories,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+## 🌟 Featured Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=drisDev8&repo=Patient-Data-Case-Study-Project&theme=midnight-purple)](https://github.com/drisDev8/Patient-Data-Case-Study-Project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=drisDev8&repo=E-commerce-Analysis_SQL_Project&theme=midnight-purple)](https://github.com/drisDev8/E-commerce-Analysis_SQL_Project)
+![Snake animation](https://raw.githubusercontent.com/drisDev8/drisDev8/output/github-contribution-grid-snake.svg)
+
