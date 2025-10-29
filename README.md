@@ -92,7 +92,7 @@ and delivering data-driven solutions that create real business impact.
 <!-- <h2><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50">&nbsp;Skills & Expertise</h2> -->
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50"><img src="Skills2.gif" width="100">
 <!-- <img alt="MySkills" src="Technology1.gif" /> -->
-<img alt="MySkills" src="MySkills.png" />
+<!-- <img alt="MySkills" src="MySkills.png" /> -->
 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
