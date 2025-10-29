@@ -309,9 +309,9 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&label=Profile%20Views&color=8A2BE2&style=for-the-badge)
-[![trophy](https://github-profile-trophy.vercel.app/?username=drisDev8&theme=onedark&title=Stars,Commits,Followers,Repositories,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&title=Stars,Commits,Followers,Repositories,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🌟 Featured Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=drisDev8&repo=Patient-Data-Case-Study-Project&theme=midnight-purple)](https://github.com/drisDev8/Patient-Data-Case-Study-Project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=drisDev8&repo=E-commerce-Analysis_SQL_Project&theme=midnight-purple)](https://github.com/drisDev8/E-commerce-Analysis_SQL_Project)
-![Snake animation](https://raw.githubusercontent.com/drisDev8/drisDev8/output/github-contribution-grid-snake.svg)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Patient-Data-Case-Study-Project&theme=midnight-purple)](https://github.com/rajeevgit8055hub/Patient-Data-Case-Study-Project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=E-commerce-Analysis_SQL_Project&theme=midnight-purple)](https://github.com/rajeevgit8055hub/E-commerce-Analysis_SQL_Project)
+![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-contribution-grid-snake.svg)
 
