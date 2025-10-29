@@ -214,8 +214,9 @@ and delivering data-driven solutions that create real business impact.
 <!-- ## 📂 Featured Projects -->
 <img src="Neon Columns.gif" width="40"><img src="Projects.gif" width="150">
 
-Showcasing my practical experience across data and technology tools — from cleaning and transforming data to creating insightful visualizations.
+<!-- Showcasing my practical experience across data and technology tools — from cleaning and transforming data to creating insightful visualizations.
 Each project reflects my ability to turn raw information into meaningful, business-ready insights.
+-->
 
 <!-- - 📊 [**Hospital Emergency Room Dashboard**](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard) -->
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Hospital-Emergency-Room-Dashboard&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard)
@@ -255,7 +256,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Verified-Digital-Credentials&theme=midnight-purple)](https://github.com/rajeevgit8055hub/Verified-Digital-Credentials) -->
 
 <!-- ## 💡 ##Tip: -->
-<img src="Bulb.gif" width="40"><img src="Tips.gif" width="60">🌟 Each project represents one of my core technical skills — showcasing my ability to build, analyze, and visualize data efficiently.
+<img src="Bulb.gif" width="40"><img src="Tips.gif" width="60">🌟 Each project embodies my commitment to transforming data and ideas into impactful outcomes — from dynamic data models and interactive dashboards to professional business presentations and insightful reports. These works reflect both technical precision and a deep understanding of business storytelling.
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
