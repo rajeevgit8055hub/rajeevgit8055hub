@@ -164,7 +164,7 @@ and delivering data-driven solutions that create real business impact.
   <img  width="50" alt="VBA" src="VBA.png">
   <img  width="40" alt="OpenAI" src="OpenAI.svg">
   <img  width="40" alt="Canva" src="Canva.svg">
-  <img  width="40" alt="Gmail" src="ColorGmail.svg">
+  <img  width="40" alt="Gmail" src="VS code.svg">
   <img  width="30" alt="Forms" src="Googe Forms.svg">
   <!-- <img  width="40" alt="Gitbash" src="GitBash.svg"> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> -->
