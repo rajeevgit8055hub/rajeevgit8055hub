@@ -11,6 +11,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 
 <!-- <img width="40" alt="GitCover" src="Gitcolor.png" /> -->
 
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&label=Profile%20Views&color=8A2BE2&style=for-the-badge) -->
 [![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet)](https://github.com/rajeevgit8055hub)
 [![Followers](https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=social)](https://github.com/rajeevgit8055hub?tab=followers)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rajeevgit8055hub.rajeevgit8055hub)
@@ -260,19 +261,28 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
-<!-- ## 📊 GitHub Stats -->
+<!-- ## 🚀 GitHub Performance Overview -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
-<!-- Profile Summary Card -->
+<!-- 🪪 Profile Summary Card -->
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevgit8055hub&theme=midnight_purple)
+
+<!-- 💎 GitHub Trophy -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&title=Stars,Commits,Followers,Repositories,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&title=Stars,Commits,Followers,Repositories,PullRequest&no-frame=true&no-bg=false&bgColor=000000&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<!-- 📊 GitHub Stats (Main) -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=midnight-purple)
+
+<!-- 💬 Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=midnight-purple)
 <img align="right" alt="GitHub Lens" width="120" src="Lens1.gif" />
 
-<!--## 📊 GitHub Streak -->
+<!--## 🔥 GitHub Streak -->
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark) -->
-
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark&background=000000&ring=BA68C8&fire=BA68C8&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA) -->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark&background=000000&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA)
@@ -282,7 +292,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark) 
  [https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark](https://github-readme-streak-stats-username.vercel.app/<YOUR_GITHUB_USERNAME>?theme=dark) -->
 
-<!--## 📊 Activity Graph -->
+<!--## 📈 Activity Graph -->
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgwbWpid3JycW56ZzVlcGc2aWExMzN3M25qY25pNzRoYjNqNWNobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d56Di5yqBRq9KnSZX6/giphy.webp" width="35">&nbsp;***Activity Graph*** 
 
 <div align="center">
@@ -293,6 +303,10 @@ Each project reflects my ability to turn raw information into meaningful, busine
 </div> -->
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+
+<!-- 🐍 Snake Contribution Animation -->
+<!-- ![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/github-contribution-grid-snake.svg)
 
 <!-- Typing Animation / 🤝 Thanks for Visiting! -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+GitHub+profile!;Let’s+connect+and+grow+together+in+the+data+world+🚀;Feel+free+to+check+out+my+repositories+and+ongoing+projects.)](https://git.io/typing-svg)
@@ -308,29 +322,28 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&label=Profile%20Views&color=8A2BE2&style=for-the-badge)
-[![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&title=Stars,Commits,Followers,Repositories,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## 🌟 Featured Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Patient-Data-Case-Study-Project&theme=midnight-purple)](https://github.com/rajeevgit8055hub/Patient-Data-Case-Study-Project)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=E-commerce-Analysis_SQL_Project&theme=midnight-purple)](https://github.com/rajeevgit8055hub/E-commerce-Analysis_SQL_Project)
 
 
 
-<!-- Total Contributions, Join Date, Repo Count (Summary small) -->
+<!-- ## 🚀 GitHub Performance Overview -->
+
+<!-- Total Contributions, Join Date, Repo Count (Summary small)
 ![Stats Overview](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajeevgit8055hub&theme=midnight_purple)
+-->
 
-<!-- Commit Distribution Chart (Hourly/Weekly Pattern) -->
+<!-- Commit Distribution Chart (Hourly/Weekly Pattern)
 ![Commits Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajeevgit8055hub&theme=midnight_purple)
+-->
 
-<!-- Language per Repo (Pie Style) -->
+<!-- Language per Repo (Pie Style)
 ![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajeevgit8055hub&theme=midnight_purple)
+-->
 
-<!-- Language per Commit (Pie Style) -->
+<!-- Language per Commit (Pie Style) 
 ![Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajeevgit8055hub&theme=midnight_purple)
-
-
-<!-- ![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/output/github-contribution-grid-snake.svg) -->
-![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/github-contribution-grid-snake.svg)
-
-
-
+-->
