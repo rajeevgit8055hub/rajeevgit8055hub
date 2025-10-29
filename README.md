@@ -308,7 +308,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=[drisDev8](https://github.com/rajeevgit8055hub)&label=Profile%20Views&color=8A2BE2&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&label=Profile%20Views&color=8A2BE2&style=for-the-badge)
 [![trophy](https://github-profile-trophy.vercel.app/?username=drisDev8&theme=onedark&title=Stars,Commits,Followers,Repositories,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🌟 Featured Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=drisDev8&repo=Patient-Data-Case-Study-Project&theme=midnight-purple)](https://github.com/drisDev8/Patient-Data-Case-Study-Project)
