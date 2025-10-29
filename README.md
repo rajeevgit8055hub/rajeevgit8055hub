@@ -214,8 +214,8 @@ and delivering data-driven solutions that create real business impact.
 <!-- ## 📂 Featured Projects -->
 <img src="Neon Columns.gif" width="40"><img src="Projects.gif" width="150">
 
-<!-- Showcasing my practical experience across data and technology tools — from cleaning and transforming data to creating insightful visualizations.
-Each project reflects my ability to turn raw information into meaningful, business-ready insights. -->
+Showcasing my practical experience across data and technology tools — from cleaning and transforming data to creating insightful visualizations.
+Each project reflects my ability to turn raw information into meaningful, business-ready insights.
 
 <!-- - 📊 [**Hospital Emergency Room Dashboard**](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard) -->
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Hospital-Emergency-Room-Dashboard&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard)
