@@ -314,3 +314,11 @@ Each project reflects my ability to turn raw information into meaningful, busine
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Patient-Data-Case-Study-Project&theme=midnight-purple)](https://github.com/rajeevgit8055hub/Patient-Data-Case-Study-Project)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=E-commerce-Analysis_SQL_Project&theme=midnight-purple)](https://github.com/rajeevgit8055hub/E-commerce-Analysis_SQL_Project)
 
+
+
+![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/github-contribution-grid-snake.svg)
+
+
+
