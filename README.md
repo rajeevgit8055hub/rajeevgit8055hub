@@ -262,6 +262,8 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- ## 🚀 GitHub Performance Overview -->
+<h2><img src="Performance.gif" width="40"><img src="Github Overview.gif" width="150">GitHub Performance Overview</h2>
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
@@ -325,15 +327,30 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 
 ## 🌟 Featured Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Patient-Data-Case-Study-Project&theme=midnight-purple)](https://github.com/rajeevgit8055hub/Patient-Data-Case-Study-Project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=E-commerce-Analysis_SQL_Project&theme=midnight-purple)](https://github.com/rajeevgit8055hub/E-commerce-Analysis_SQL_Project)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Hospital-Emergency-Room-Dashboard&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Unified-Multi-Extension-Folder-Based-Data-Cleaning&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Unified-Multi-Extension-Folder-Based-)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=SmartBite-Online-Food-Delivery-DBMS&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/SmartBite-Online-Food-Delivery-DBMS)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Business-Insights-Decks&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Business-Insights-Decks)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=LoveForever-A-Heartfelt-Digital-Promise&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/LoveForever-A-Heartfelt-Digital-Promise)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=NETFLIX-Data-SQL-Analysis&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/NETFLIX-Data-SQL-Analysis)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Nescafe-Driving-Coffee-Sales-Excellence&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Nescafe-Driving-Coffee-Sales-Excellence)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=HSBC-Strategic-Stakeholder-Intelligence&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/HSBC-Strategic-Stakeholder-Intelligence)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=rajeevtiwari.github.io&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/rajeevtiwari.github.io)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=rajeevgit8055hub&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/rajeevgit8055hub)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Verified-Digital-Credentials&theme=midnight-purple&cache_bust=1)](https://github.com/rajeevgit8055hub/Verified-Digital-Credentials)
 
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Verified-Digital-Credentials&theme=midnight-purple)](https://github.com/rajeevgit8055hub/Verified-Digital-Credentials)
-
 
 
 <!-- ## 🚀 GitHub Performance Overview -->
