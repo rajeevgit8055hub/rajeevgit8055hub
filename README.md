@@ -269,18 +269,9 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevgit8055hub&theme=midnight_purple)
 
 <!-- 💎 GitHub Trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&title=Stars,Commits,Followers,Repositories,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&title=Stars,Commits,Followers,Repositories,PullRequest&no-frame=true&no-bg=false&bgColor=000000&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&title=Stars,Commits,Followers,Repositories,PullRequest&no-frame=true&no-bg=false&bgColor=000000&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&no-frame=true&no-bg=true&background=000000)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&no-frame=true&no-bg=false&bgColor=000000)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&no-frame=true&no-bg=false&bgColor=000000&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
 
 <!-- 📊 GitHub Stats (Main) -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=midnight-purple)
@@ -335,6 +326,11 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ## 🌟 Featured Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Patient-Data-Case-Study-Project&theme=midnight-purple)](https://github.com/rajeevgit8055hub/Patient-Data-Case-Study-Project)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=E-commerce-Analysis_SQL_Project&theme=midnight-purple)](https://github.com/rajeevgit8055hub/E-commerce-Analysis_SQL_Project)
+
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Verified-Digital-Credentials&theme=midnight-purple)](https://github.com/rajeevgit8055hub/Verified-Digital-Credentials)
+
 
 
 
