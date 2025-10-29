@@ -277,6 +277,9 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&no-frame=true&no-bg=false&bgColor=000000)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&no-frame=true&no-bg=false&bgColor=000000&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
 <!-- 📊 GitHub Stats (Main) -->
