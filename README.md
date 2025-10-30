@@ -386,17 +386,19 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajeevgit8055hub&theme=midnight_purple)
 -->
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgwbWpid3JycW56ZzVlcGc2aWExMzN3M25qY25pNzRoYjNqNWNobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d56Di5yqBRq9KnSZX6/giphy.webp" width="35">&nbsp;***Activity Graph***
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZjNTh1N2d3N3h0eHh3c2p6Y3h6aGZyZjR2aTNlNHplZ3RvbXZjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Tz1KKZyZsQ0Zy/giphy.webp" width="35">&nbsp;***Snake Contribution Animation***
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZpcDNtYnV4dXdwM2h3N3EwbWg0bGFxNTN6Y3VwejB1Z3F5YzE2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TK5KD6d7b1o2JlD3uZ/giphy.webp" width="35">&nbsp;***GitHub Trophies***
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1xd2RhdHh5OGF4ZzVtZG1wZ3ppYXhpcWFsNDB5em8yZDAwd3pzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XZlf2POt5zdNu/giphy.webp" width="35">&nbsp;***Snake Contribution Animation***
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFibGZjZjBnMWlsZzJid3Vub3V0bjd5bTJub3Z4eXFiMjRlMnMwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RKZ9KzCcxMd0k/giphy.webp" width="35">&nbsp;***Profile Summary Card***
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5sc3YzYXQ1ZzI1dzNqenQ1ZmxsZzE2dDlqdzZmZ3d5bW5jajl0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEKcOWl8RMLde/giphy.webp" width="35">&nbsp;***Snake Contribution Animation***
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmM5aTViZGEzMmYyZW1yMTZ2b3FwaHFmM2Uyc29uZ21iNmY1OG5rNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZVik7pBtu9dNS/giphy.webp" width="35">&nbsp;***GitHub Stats***
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZjaDhrMzd4cW9xZmF5eXNzd3J5aTJlbnZ2MW10M3Nxd2Z4eDhwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPwoeGErMmaI43a/giphy.webp" width="35">&nbsp;***Snake Contribution Animation***
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg3bnJtZjFhNXFta3YzOGZmdHBqYWFwbjZtY2gwbzhjM2tkNnM3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LHZyixOnHwDDy/giphy.webp" width="35">&nbsp;***Top Languages***
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR2Y3V0cDViZDI5ZjcwZ3N3dnE1cmZ1cnhocmtmZm5uOXVpMTc5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HUpt2s9Pclgt9Vm/giphy.webp" width="35">&nbsp;***GitHub Streak***
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDYzMWEyYmhhc2d1aWxjdnN2NnU0c2Zhb2p6dWZoZ3A0bzE1dDd1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ibOLsCZWzKfK8qFvJp/giphy.webp" width="35">&nbsp;***Profile Summary Card***
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd3bzhkYmZlczF4b3hxd3FpdDdzOTU0aTF6bDd4a2h1MnUwN2ZtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VbnUQpnihPSIgIXuZv/giphy.webp" width="35">&nbsp;***Snake Contribution Animation***
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl0czdwYzQ2YmVhY2lzajFwN3VhcTZwOHMwcjBzZWpoYmpoc2JrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KEWtwCzzgq2TK/giphy.webp" width="35">&nbsp;***Profile Summary Card***
 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDN6b2FpdG5iNXE1bjJraXc0d3hoM2h2eXhsd2xkbXh6ZWZpdjA4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FoVzfcqCDSb7zCynOp/giphy.webp" width="35">&nbsp;***Profile Summary Card***
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpocjE0Y3ZibG5iaGh0cjd3dWtsZDY0cGd5czN2ZXg3dWxkMjh5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l1J3preURPiwjRPvG/giphy.webp" width="35">&nbsp;***Profile Summary Card***
