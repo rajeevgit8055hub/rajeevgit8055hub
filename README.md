@@ -402,3 +402,12 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDN6b2FpdG5iNXE1bjJraXc0d3hoM2h2eXhsd2xkbXh6ZWZpdjA4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FoVzfcqCDSb7zCynOp/giphy.webp" width="35">&nbsp;***Profile Summary Card***
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpocjE0Y3ZibG5iaGh0cjd3dWtsZDY0cGd5czN2ZXg3dWxkMjh5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l1J3preURPiwjRPvG/giphy.webp" width="35">&nbsp;***Profile Summary Card***
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtzcHJocnUwYXQ3NmFub3ZobnU1a3RjYzd3ZmEyc2Ftd3UyMmJqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUOwG2A4j6p2B1Wg3y/giphy.webp" width="35">&nbsp;***Snake Contribution Animation***
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWR3cGg1N3dmcG9xZml0c2t0aWhuN2x3bnQzN2lrbjFtcTh6c2hyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H7P2rMDE5oY3m/giphy.webp" width="35">&nbsp;***Snake Contribution Animation***
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRsdWh6Mjd0OHNydTV5YW5sNm9zbXZkOGZpN2U5OHc2bzBpYnNtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPnAiaMCws8nOsE/giphy.webp" width="35">&nbsp;***Snake Contribution Animation***
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFwc3FvM3BtcDQ4ajRzOXlvaXQyNTlmcmlzOHNjNGc1Y3RzZWR1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VbnUQpnihPSIgIXuZv/giphy.webp" width="35">&nbsp;***Snake Contribution Animation***
+
