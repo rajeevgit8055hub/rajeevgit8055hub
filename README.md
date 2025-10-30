@@ -411,3 +411,10 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFwc3FvM3BtcDQ4ajRzOXlvaXQyNTlmcmlzOHNjNGc1Y3RzZWR1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VbnUQpnihPSIgIXuZv/giphy.webp" width="35">&nbsp;***Snake Contribution Animation***
 
+
+
+![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-contribution-grid-snake.svg)
+
+
