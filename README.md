@@ -18,59 +18,6 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 ![Open Source](https://img.shields.io/badge/OS-Contributor-217346?style=for-the-badge&labelColor=00C4CC)
 ![Repositories](https://img.shields.io/badge/Repositories-23-F29111?style=for-the-badge&labelColor=D83B01)
 
-<p align="center">
-<!-- 🌐 Repository Views -->
-![Repository Views](https://img.shields.io/badge/Repository%20Views-1.2k-1E90FF?style=for-the-badge&logo=github&logoColor=white)
-
-<!-- 👥 Unique Visitors -->
-![Unique Visitors](https://img.shields.io/badge/Unique%20Visitors-800-FF69B4?style=for-the-badge&logo=github&logoColor=white)
-
-<!-- 📦 Clones -->
-![Clones](https://img.shields.io/badge/Clones-340-FFA500?style=for-the-badge&logo=git&logoColor=white)
-
-<!-- 🍴 Forks -->
-![Forks](https://img.shields.io/badge/Forks-45-32CD32?style=for-the-badge&logo=git&logoColor=white)
-
-<!-- ⭐ Stars -->
-![Stars](https://img.shields.io/badge/Stars-120-FFD700?style=for-the-badge&logo=github&logoColor=black)
-
-<!-- 🔗 Referrers -->
-![Referrers](https://img.shields.io/badge/Top%20Referrers-GitHub%20Search-9370DB?style=for-the-badge&logo=google&logoColor=white)
-
-<!-- 🧠 Contributions -->
-![Contributions](https://img.shields.io/badge/Contributions-2.3k-00CED1?style=for-the-badge&logo=githubactions&logoColor=white)
-
-<!-- 🪪 Bio / About -->
-![About Me](https://img.shields.io/badge/Bio-Creative%20Open%20Source%20Developer-FF4500?style=for-the-badge&logo=aboutdotme&logoColor=white)
-
-
-<!-- 🧩 Animated Gradient Badges (Professional Metrics) -->
-
-<!-- 🌐 Repository Views -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=4000&pause=1000&color=00C0FF,FF00FF,FEE140&center=true&vCenter=true&width=260&lines=Repository+Views:+1.2k" alt="Repository Views"/>
-
-<!-- 👥 Unique Visitors -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FF69B4,8A2BE2,1E90FF&center=true&vCenter=true&width=260&lines=Unique+Visitors:+800" alt="Unique Visitors"/>
-
-<!-- 📦 Clones -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FFA500,FF4500,FF6347&center=true&vCenter=true&width=260&lines=Clones:+340" alt="Clones"/>
-
-<!-- 🍴 Forks -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=32CD32,00FA9A,ADFF2F&center=true&vCenter=true&width=260&lines=Forks:+45" alt="Forks"/>
-
-<!-- ⭐ Stars -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FFD700,FFA500,FFFF00&center=true&vCenter=true&width=260&lines=Stars:+120" alt="Stars"/>
-
-<!-- 🔗 Referrers -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=9370DB,BA55D3,DA70D6&center=true&vCenter=true&width=320&lines=Top+Referrers:+GitHub+Search" alt="Referrers"/>
-
-<!-- 🧠 Contributions -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00CED1,00FFFF,20B2AA&center=true&vCenter=true&width=300&lines=Contributions:+2.3k" alt="Contributions"/>
-
-<!-- 🪪 Bio / About -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FF4500,FF6347,FF7F50&center=true&vCenter=true&width=450&lines=Bio:+Creative+Open+Source+Developer" alt="About Me"/></p>
-
-
 <!-- LinkedIn profile badge -->
 <!-- teal -->
 <a href="https://in.linkedin.com/in/rajeev-tiwari123">
