@@ -395,6 +395,23 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 
 
+<p align="center">
+  <a href="https://gist.github.com/rajeevgit8055hub" target="_blank">
+    <img src="https://img.shields.io/badge/%20Open%20Gist%20Now-Explore%20My%20Code%20Snippets-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1B1B1B" alt="Open Gist"/>
+  </a>
+</p>
+
+
+## 🧠 Code Snippets  
+> 📘 Mini projects, experiments, and logic building — all in one place.
+
+<p align="center">
+  <a href="https://gist.github.com/rajeevgit8055hub" target="_blank">
+    <img src="https://img.shields.io/badge/➡️%20Open%20Gist%20Now-Explore%20My%20Code%20Snippets-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1B1B1B&color=00FFFF" alt="Open Gist"/>
+  </a>
+</p>
+
+
 <!-- Dynamic Repositories Badge (Enable Later) -->
 <!-- ![Repositories](https://img.shields.io/github/repo-count/rajeevgit8055hub?color=blue&style=for-the-badge) -->
 <!--my_image ![GitHub Contributions](https://github.com/rajeevgit8055hub.png?tab=overview&theme=midnight-purple) -->
