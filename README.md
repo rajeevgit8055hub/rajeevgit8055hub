@@ -17,6 +17,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rajeevgit8055hub.rajeevgit8055hub)
 ![Open Source](https://img.shields.io/badge/OS-Contributor-217346?style=for-the-badge&labelColor=00C4CC)
 ![Repositories](https://img.shields.io/badge/Repositories-23-F29111?style=for-the-badge&labelColor=D83B01)
+<!-- ![Following](https://img.shields.io/badge/Following-5-00C4CC?style=for-the-badge&logo=github&logoColor=white) -->
 
 <!-- LinkedIn profile badge -->
 <!-- teal -->
@@ -397,5 +398,18 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- ![Repos](https://img.shields.io/badge/Repositories-23-F29111?style=for-the-badge&labelColor=D83B01) -->
 <!-- ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-217346?style=for-the-badge&labelColor=00C4CC) -->
 
-![Following](https://img.shields.io/badge/Following-5-00C4CC?style=for-the-badge&logo=github&logoColor=white)
+
+
+<!-- 🧠 CONTRIBUTION STATS -->
+![GitHub Stars](https://img.shields.io/github/stars/rajeevgit8055hub?affiliations=OWNER&style=for-the-badge&logo=github)
+![GitHub Forks](https://img.shields.io/github/forks/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=git)
+![Commits](https://badgen.net/github/commits/rajeevgit8055hub/rajeevgit8055hub?icon=github&label=Total%20Commits)
+![Contributions](https://badgen.net/badge/Contributions/Active/green?icon=github)
+![PRs](https://img.shields.io/github/issues-pr/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=github)
+![Issues](https://img.shields.io/github/issues/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=git)
+![Repo Size](https://img.shields.io/github/repo-size/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
+![Code Size](https://img.shields.io/github/languages/code-size/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
+![Lines of Code](https://img.shields.io/tokei/lines/github/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
+
 
