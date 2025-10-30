@@ -311,8 +311,13 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <img align="right" alt="GitHub Lens" width="120" src="Lens1.gif" />
 
 <!--## 🔥 GitHub Streak -->
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR2Y3V0cDViZDI5ZjcwZ3N3dnE1cmZ1cnhocmtmZm5uOXVpMTc5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HUpt2s9Pclgt9Vm/giphy.webp" width="30">&nbsp;***GitHub Streak***
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDN6b2FpdG5iNXE1bjJraXc0d3hoM2h2eXhsd2xkbXh6ZWZpdjA4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FoVzfcqCDSb7zCynOp/giphy.webp" width="35">&nbsp;***GitHub Streak***
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark&background=000000&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark&background=000000&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark&background=000000&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
+
 
 <!--## 🔥 GitHub Streak -->
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark) -->
@@ -369,23 +374,20 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajeevgit8055hub&theme=midnight_purple)
 -->
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZjNTh1N2d3N3h0eHh3c2p6Y3h6aGZyZjR2aTNlNHplZ3RvbXZjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Tz1KKZyZsQ0Zy/giphy.webp" width="35">&nbsp;***colors cubes***
+<!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZjNTh1N2d3N3h0eHh3c2p6Y3h6aGZyZjR2aTNlNHplZ3RvbXZjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Tz1KKZyZsQ0Zy/giphy.webp" width="35">&nbsp;***colors cubes*** -->
 
-<img src="Python.gif" width="35">&nbsp;***Snake Contribution Animation***
+<!-- <img src="Python.gif" width="35">&nbsp;***Snake Contribution Animation*** -->
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5sc3YzYXQ1ZzI1dzNqenQ1ZmxsZzE2dDlqdzZmZ3d5bW5jajl0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEKcOWl8RMLde/giphy.webp" width="35">&nbsp;***running man***
+<!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR2Y3V0cDViZDI5ZjcwZ3N3dnE1cmZ1cnhocmtmZm5uOXVpMTc5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HUpt2s9Pclgt9Vm/giphy.webp" width="30">&nbsp;***computer screen*** -->
 
+<!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDN6b2FpdG5iNXE1bjJraXc0d3hoM2h2eXhsd2xkbXh6ZWZpdjA4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FoVzfcqCDSb7zCynOp/giphy.webp" width="35">&nbsp;***computer screen*** -->
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDN6b2FpdG5iNXE1bjJraXc0d3hoM2h2eXhsd2xkbXh6ZWZpdjA4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FoVzfcqCDSb7zCynOp/giphy.webp" width="35">&nbsp;***computer screen***
+<!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpocjE0Y3ZibG5iaGh0cjd3dWtsZDY0cGd5czN2ZXg3dWxkMjh5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l1J3preURPiwjRPvG/giphy.webp" width="35">&nbsp;***boy running*** -->
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpocjE0Y3ZibG5iaGh0cjd3dWtsZDY0cGd5czN2ZXg3dWxkMjh5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l1J3preURPiwjRPvG/giphy.webp" width="35">&nbsp;***boy running***
+<!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRsdWh6Mjd0OHNydTV5YW5sNm9zbXZkOGZpN2U5OHc2bzBpYnNtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPnAiaMCws8nOsE/giphy.webp" width="35">&nbsp;***cat on laptop*** -->
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRsdWh6Mjd0OHNydTV5YW5sNm9zbXZkOGZpN2U5OHc2bzBpYnNtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPnAiaMCws8nOsE/giphy.webp" width="35">&nbsp;***cat on laptop***
+<!-- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFwc3FvM3BtcDQ4ajRzOXlvaXQyNTlmcmlzOHNjNGc1Y3RzZWR1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VbnUQpnihPSIgIXuZv/giphy.webp" width="35">&nbsp;***cat on laptop*** -->
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFwc3FvM3BtcDQ4ajRzOXlvaXQyNTlmcmlzOHNjNGc1Y3RzZWR1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VbnUQpnihPSIgIXuZv/giphy.webp" width="35">&nbsp;***cat on laptop***
+<!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmM5aTViZGEzMmYyZW1yMTZ2b3FwaHFmM2Uyc29uZ21iNmY1OG5rNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZVik7pBtu9dNS/giphy.webp" width="35">&nbsp;***GitHub Stats*** -->
 
-
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmM5aTViZGEzMmYyZW1yMTZ2b3FwaHFmM2Uyc29uZ21iNmY1OG5rNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZVik7pBtu9dNS/giphy.webp" width="35">&nbsp;***GitHub Stats***
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd3bzhkYmZlczF4b3hxd3FpdDdzOTU0aTF6bDd4a2h1MnUwN2ZtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VbnUQpnihPSIgIXuZv/giphy.webp" width="35">&nbsp;***cat working on computer***
+<!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd3bzhkYmZlczF4b3hxd3FpdDdzOTU0aTF6bDd4a2h1MnUwN2ZtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VbnUQpnihPSIgIXuZv/giphy.webp" width="35">&nbsp;***cat working on computer*** -->
