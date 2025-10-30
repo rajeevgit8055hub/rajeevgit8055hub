@@ -374,6 +374,17 @@ Each project reflects my ability to turn raw information into meaningful, busine
   </a>
 </p>
 
+## 🧠 Code Snippets  
+> 💡 A curated collection of short, practical code examples — from Excel formulas to SQL queries, Power BI logic, and mini analytical experiments.  
+> 📘 Each snippet reflects my daily learning, logical thinking, and problem-solving approach.
+
+<p align="center">
+  <a href="https://gist.github.com/rajeevgit8055hub" target="_blank">
+    <img src="https://img.shields.io/badge/➡️%20Open%20Gist-Explore%20Code%20Snippets-00FFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117&color=00FFFF" alt="Open Gist"/>
+  </a>
+</p>
+
+
 
 
 
