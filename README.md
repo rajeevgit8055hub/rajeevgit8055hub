@@ -285,6 +285,18 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
+
+
+<!--## 🏆 GitHub Trophies -->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZpcDNtYnV4dXdwM2h3N3EwbWg0bGFxNTN6Y3VwejB1Z3F5YzE2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TK5KD6d7b1o2JlD3uZ/giphy.webp" width="35">&nbsp;***GitHub Trophies***
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
+</div>
+
+
+
+
 <!-- 💎 GitHub Trophy -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&title=Stars,Commits,Followers,Repositories,PullRequest&no-frame=true&no-bg=false&bgColor=000000&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy) -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=drisDev8&theme=midnight_purple)](https://github.com/ryo-ma/github-profile-trophy) -->
