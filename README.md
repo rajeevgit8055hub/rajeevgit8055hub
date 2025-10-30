@@ -439,29 +439,11 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![Integrity Checked](https://img.shields.io/badge/Integrity-Checked-brightgreen?style=for-the-badge&logo=trustpilot)
 ![Project Status](https://img.shields.io/badge/Status-Stable-00C4CC?style=for-the-badge&logo=dependabot)
 
-## 📊 GitHub Stats
-![Rajeev’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF)
+![3D Contributions](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-contribution-grid-snake.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FFFF)
+## 🌍 Global Visitors
+![Visitor Map](https://api.visitorbadge.io/api/VisitorHit?user=rajeevgit8055hub&repo=rajeevgit8055hub&countColor=%2300C4CC)
 
----
+![World Map](https://github.com/ashutosh00710/github-readme-activity-graph/raw/master/world-map.gif)
 
-## 🏆 Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=darkhub&margin-w=10&no-frame=true&row=1)
-
----
-
-## ⚡ Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajeevgit8055hub&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
-
----
-
-## 🔥 Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=tokyonight&background=000000&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=AAAAAA)
-![Metrics](https://metrics.lecoq.io/rajeevgit8055hub?template=classic&config.timezone=Asia%2FKolkata)
-
----
----
-
-
-
+[![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy_me_a_coffee-F4B400?style=for-the-badge)](https://buymeacoffee.com/rajeevgit8055hub)
