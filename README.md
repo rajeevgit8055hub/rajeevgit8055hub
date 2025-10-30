@@ -344,6 +344,9 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- Typing Animation / 🤝 Thanks for Visiting! -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+GitHub+profile!;Let’s+connect+and+grow+together+in+the+data+world+🚀;Feel+free+to+check+out+my+repositories+and+ongoing+projects.)](https://git.io/typing-svg)
 
+<!-- ✍️ Code Snippet 
+➡️ [Open Gist](https://gist.github.com/rajeevgit8055hub) -->
+
 <!-- ![Typing SVG - Thin](https://readme-typing-svg.demolab.com?font=Poppins&weight=200&size=22&pause=1000&color=00FFFF&width=900&lines=welcome+to+rajeev%27s+github+universe!;aspiring+data+analyst+%7C+Excel+Access+Power+Query+%7C+SQL+Power+BI+Tableau;VBA+%7C+Lifelong+Learner+%7C+Tech+Enthusiast) -->
 
 <!-- ![Typing SVG - Thick](https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=22&pause=1000&color=00FFFF&width=900&lines=welcome+to+rajeev%27s+github+universe!;aspiring+data+analyst+%7C+Excel+Access+Power+Query+%7C+SQL+Power+BI+Tableau;VBA+%7C+Lifelong+Learner+%7C+Tech+Enthusiast) -->
@@ -416,7 +419,8 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=darkhub&margin-w=10&no-frame=true&row=1) -->
 
 <!-- Neon Activity Graph -->
-<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajeevgit8055hub&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) -->
+<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajeevgit8055hub&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajeevgit8055hub&theme=react-dark) -->
 
 <!-- Mediumslateblue Streak -->
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=tokyonight&background=000000&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=AAAAAA) -->
@@ -441,13 +445,13 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![Project Status](https://img.shields.io/badge/Status-Stable-00C4CC?style=for-the-badge&logo=dependabot)
 
 <!-- 🌟 Crafted with Love Typing Animation -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FFA500&center=true&vCenter=true&width=700&lines=✨+Crafted+with+❤️+by+Rajeev+Tiwari;💡+A+Professional+GitHub+Profile+Built+with+Passion+and+Precision;🤝+Created+with+the+Support+of+OpenAI's+Intelligent+Assistance;🚀+Empowering+Learning,+Data,+and+Innovation!)
+<!-- 🌌 Thin Font Typing Animation -->
+<!-- 🌌 Thin Font Typing Animation -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=200&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Welcome+to+Rajeev's+GitHub+Universe!;Aspiring+Data+Analyst+%7C+Excel+%7C+Access+%7C+Power+Query+%7C+SQL;Power+BI+%7C+Tableau+%7C+VBA;Lifelong+Learner+%7C+Tech+Enthusiast;Crafted+with+%E2%9D%A4%EF%B8%8F+by+Rajeev+Tiwari+%7C+With+OpenAI+Support)
 
-## ✍️ Code Snippet
-A glimpse into my Power Query transformations 👇  
-➡️ [Open Gist](https://gist.github.com/rajeevgit8055hub)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajeevgit8055hub&theme=react-dark)
 
-![3D Contribution](./profile-3d-contrib/profile-night-view.svg)
+
+
+
 
