@@ -274,6 +274,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 [![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajeevgit8055hub)
 [![Email](https://img.shields.io/badge/Email-B22222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeevtiwari8055@gmail.com)
 [![Website](https://img.shields.io/badge/Website-008080?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)
+<!-- [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy_me_a_coffee-F4B400?style=for-the-badge)](https://buymeacoffee.com/rajeevgit8055hub) -->
 <!-- <a href="https://www.linkedin.com/in/rajeev-tiwari123"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/></a>
 <a href="rajeevtiwari8055@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/>
 </a> -->
@@ -439,11 +440,14 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![Integrity Checked](https://img.shields.io/badge/Integrity-Checked-brightgreen?style=for-the-badge&logo=trustpilot)
 ![Project Status](https://img.shields.io/badge/Status-Stable-00C4CC?style=for-the-badge&logo=dependabot)
 
-![3D Contributions](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-contribution-grid-snake.svg)
+<!-- 🌟 Crafted with Love Typing Animation -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FFA500&center=true&vCenter=true&width=700&lines=✨+Crafted+with+❤️+by+Rajeev+Tiwari;💡+A+Professional+GitHub+Profile+Built+with+Passion+and+Precision;🤝+Created+with+the+Support+of+OpenAI's+Intelligent+Assistance;🚀+Empowering+Learning,+Data,+and+Innovation!)
 
-## 🌍 Global Visitors
-![Visitor Map](https://api.visitorbadge.io/api/VisitorHit?user=rajeevgit8055hub&repo=rajeevgit8055hub&countColor=%2300C4CC)
+## ✍️ Code Snippet
+A glimpse into my Power Query transformations 👇  
+➡️ [Open Gist](https://gist.github.com/rajeevgit8055hub)
 
-![World Map](https://github.com/ashutosh00710/github-readme-activity-graph/raw/master/world-map.gif)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajeevgit8055hub&theme=react-dark)
 
-[![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy_me_a_coffee-F4B400?style=for-the-badge)](https://buymeacoffee.com/rajeevgit8055hub)
+![3D Contribution](./profile-3d-contrib/profile-night-view.svg)
+
