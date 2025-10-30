@@ -412,16 +412,13 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![Code Size](https://img.shields.io/github/languages/code-size/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
 ![Lines of Code](https://img.shields.io/tokei/lines/github/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
 
-!-- 💻 TECH & LANGUAGES -->
-![Languages Used](https://img.shields.io/github/languages/count/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
-![Top Language](https://img.shields.io/github/languages/top/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
-![HTML](https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/Style-CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/Logic-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Scripting-Python-3776AB?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/Database-SQL-lightgrey?style=for-the-badge&logo=postgresql)
-![Excel](https://img.shields.io/badge/Analytics-Excel-217346?style=for-the-badge&logo=microsoft-excel)
-![PowerBI](https://img.shields.io/badge/Dashboard-PowerBI-F2C811?style=for-the-badge&logo=power-bi)
 
+
+<!-- 🏆 EXTRA BADGES -->
+![License](https://img.shields.io/github/license/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
+![Build Status](https://img.shields.io/github/actions/workflow/status/rajeevgit8055hub/ci.yml?style=for-the-badge)
+![Deployment](https://img.shields.io/badge/Deployment-Auto-green?style=for-the-badge&logo=vercel)
+![Security](https://img.shields.io/badge/Security-Verified-brightgreen?style=for-the-badge&logo=github)
+![Inspiration](https://img.shields.io/badge/Inspiration-🔥_Always_Learning-red?style=for-the-badge)
 
 
