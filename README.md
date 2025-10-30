@@ -344,60 +344,18 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- Typing Animation / 🤝 Thanks for Visiting! -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+GitHub+profile!;Let’s+connect+and+grow+together+in+the+data+world+🚀;Feel+free+to+check+out+my+repositories+and+ongoing+projects.)](https://git.io/typing-svg)
 
-## ✍️ Code Snippets  
-➡️ [Open Gist](https://gist.github.com/rajeevgit8055hub) 
-
-## 🧠 Code Snippets  
-> 💬 A glimpse into my daily learning — from Excel formulas to SQL queries and Power BI logic.
-
-<p align="center">
-  <a href="https://gist.github.com/rajeevgit8055hub" target="_blank">
-    <img src="https://img.shields.io/badge/➡️%20Open%20Gist-Explore%20My%20Code%20Snippets-00FFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117&color=00FFFF" alt="Open Gist"/>
-  </a>
-</p>
-
-## 🧠 Code Snippets  
-> 💡 Explore short, practical code examples from my daily learning journey.
-
-<p align="center">
-  <a href="https://gist.github.com/rajeevgit8055hub" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20Gist-Click%20to%20View-F28C28?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Open Gist"/>
-  </a>
-</p>
-
-## 🧠 Code Snippets  
-> 📘 Mini projects, experiments, and logic building — all in one place.
-
-<p align="center">
-  <a href="https://gist.github.com/rajeevgit8055hub" target="_blank">
-    <img src="https://img.shields.io/badge/➡️%20Open%20Gist%20Now-View%20All%20Snippets-blueviolet?style=for-the-badge&logo=github&logoColor=white&labelColor=1B1B1B" alt="Open Gist"/>
-  </a>
-</p>
-
-## 🧠 Code Snippets  
-> 💡 A curated collection of short, practical code examples — from Excel formulas to SQL queries, Power BI logic, and mini analytical experiments.  
-> 📘 Each snippet reflects my daily learning, logical thinking, and problem-solving approach.
-
-<p align="center">
-  <a href="https://gist.github.com/rajeevgit8055hub" target="_blank">
-    <img src="https://img.shields.io/badge/➡️%20Open%20Gist-Explore%20Code%20Snippets-00FFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117&color=00FFFF" alt="Open Gist"/>
-  </a>
-</p>
-
-
-
-<p align="center">
-  <a href="https://gist.github.com/rajeevgit8055hub" target="_blank">
-    <img src="https://img.shields.io/badge/%20Open%20Gist%20Now-Explore%20My%20Code%20Snippets-00FFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117&color=00FFFF" alt="Open Gist"/>
-  </a>
-</p>
-
-
 
 
 <p align="center">
   <a href="https://gist.github.com/rajeevgit8055hub" target="_blank">
     <img src="https://img.shields.io/badge/%20Open%20Gist%20Now-Explore%20My%20Code%20Snippets-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1B1B1B" alt="Open Gist"/>
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://gist.github.com/rajeevgit8055hub" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Gist-Explore%20My%20Code%20Snippets-00FFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117&color=00FFFF" alt="Open Gist"/>
   </a>
 </p>
 
@@ -506,11 +464,6 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 
 
-<p align="center">
-  <a href="https://gist.github.com/rajeevgit8055hub" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20Gist-Explore%20My%20Code%20Snippets-00FFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117&color=00FFFF" alt="Open Gist"/>
-  </a>
-</p>
 
 
 
