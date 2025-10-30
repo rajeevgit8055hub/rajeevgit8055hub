@@ -480,3 +480,10 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![Integrity Checked](https://img.shields.io/badge/Integrity-Checked-brightgreen?style=for-the-badge&logo=trustpilot)
 ![Project Status](https://img.shields.io/badge/Status-Stable-00C4CC?style=for-the-badge&logo=dependabot)
 
+
+
+<p align="center">
+  <a href="https://gist.github.com/rajeevgit8055hub" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Gist-Explore%20My%20Code%20Snippets-00FFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117&color=00FFFF" alt="Open Gist"/>
+  </a>
+</p>
