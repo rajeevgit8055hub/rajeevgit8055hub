@@ -334,7 +334,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- 🐍 Snake Contribution Animation -->
-<img src="Python.gif" width="35">&nbsp;***Snake Contribution Animation***
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5sc3YzYXQ1ZzI1dzNqenQ1ZmxsZzE2dDlqdzZmZ3d5bW5jajl0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEKcOWl8RMLde/giphy.webp" width="35">&nbsp;&nbsp;***Snake Contribution Animation***
 <!-- ![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/output/github-contribution-grid-snake.svg) -->
 ![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/github-contribution-grid-snake.svg)
 
@@ -369,32 +369,20 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajeevgit8055hub&theme=midnight_purple)
 -->
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZjNTh1N2d3N3h0eHh3c2p6Y3h6aGZyZjR2aTNlNHplZ3RvbXZjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Tz1KKZyZsQ0Zy/giphy.webp" width="35">&nbsp;***Snake Contribution Animation***
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZjNTh1N2d3N3h0eHh3c2p6Y3h6aGZyZjR2aTNlNHplZ3RvbXZjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Tz1KKZyZsQ0Zy/giphy.webp" width="35">&nbsp;***colors cubes***
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1xd2RhdHh5OGF4ZzVtZG1wZ3ppYXhpcWFsNDB5em8yZDAwd3pzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XZlf2POt5zdNu/giphy.webp" width="35">&nbsp;***Snake Contribution Animation***
+<img src="Python.gif" width="35">&nbsp;***Snake Contribution Animation***
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5sc3YzYXQ1ZzI1dzNqenQ1ZmxsZzE2dDlqdzZmZ3d5bW5jajl0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEKcOWl8RMLde/giphy.webp" width="35">&nbsp;***Snake Contribution Animation***
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZjaDhrMzd4cW9xZmF5eXNzd3J5aTJlbnZ2MW10M3Nxd2Z4eDhwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPwoeGErMmaI43a/giphy.webp" width="35">&nbsp;***Snake Contribution Animation***
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5sc3YzYXQ1ZzI1dzNqenQ1ZmxsZzE2dDlqdzZmZ3d5bW5jajl0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEKcOWl8RMLde/giphy.webp" width="35">&nbsp;***running man***
 
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDYzMWEyYmhhc2d1aWxjdnN2NnU0c2Zhb2p6dWZoZ3A0bzE1dDd1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ibOLsCZWzKfK8qFvJp/giphy.webp" width="35">&nbsp;***Profile Summary Card***
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDN6b2FpdG5iNXE1bjJraXc0d3hoM2h2eXhsd2xkbXh6ZWZpdjA4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FoVzfcqCDSb7zCynOp/giphy.webp" width="35">&nbsp;***computer screen***
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl0czdwYzQ2YmVhY2lzajFwN3VhcTZwOHMwcjBzZWpoYmpoc2JrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KEWtwCzzgq2TK/giphy.webp" width="35">&nbsp;***Profile Summary Card***
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpocjE0Y3ZibG5iaGh0cjd3dWtsZDY0cGd5czN2ZXg3dWxkMjh5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l1J3preURPiwjRPvG/giphy.webp" width="35">&nbsp;***boy running***
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDN6b2FpdG5iNXE1bjJraXc0d3hoM2h2eXhsd2xkbXh6ZWZpdjA4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FoVzfcqCDSb7zCynOp/giphy.webp" width="35">&nbsp;***Profile Summary Card***
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRsdWh6Mjd0OHNydTV5YW5sNm9zbXZkOGZpN2U5OHc2bzBpYnNtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPnAiaMCws8nOsE/giphy.webp" width="35">&nbsp;***cat on laptop***
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpocjE0Y3ZibG5iaGh0cjd3dWtsZDY0cGd5czN2ZXg3dWxkMjh5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l1J3preURPiwjRPvG/giphy.webp" width="35">&nbsp;***Profile Summary Card***
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtzcHJocnUwYXQ3NmFub3ZobnU1a3RjYzd3ZmEyc2Ftd3UyMmJqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xUOwG2A4j6p2B1Wg3y/giphy.webp" width="35">&nbsp;***Snake Contribution Animation***
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWR3cGg1N3dmcG9xZml0c2t0aWhuN2x3bnQzN2lrbjFtcTh6c2hyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H7P2rMDE5oY3m/giphy.webp" width="35">&nbsp;***Snake Contribution Animation***
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRsdWh6Mjd0OHNydTV5YW5sNm9zbXZkOGZpN2U5OHc2bzBpYnNtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPnAiaMCws8nOsE/giphy.webp" width="35">&nbsp;***Snake Contribution Animation***
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFwc3FvM3BtcDQ4ajRzOXlvaXQyNTlmcmlzOHNjNGc1Y3RzZWR1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VbnUQpnihPSIgIXuZv/giphy.webp" width="35">&nbsp;***Snake Contribution Animation***
-
-
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFwc3FvM3BtcDQ4ajRzOXlvaXQyNTlmcmlzOHNjNGc1Y3RzZWR1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VbnUQpnihPSIgIXuZv/giphy.webp" width="35">&nbsp;***cat on laptop***
 
 
 
