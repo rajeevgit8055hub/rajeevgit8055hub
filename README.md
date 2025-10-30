@@ -390,7 +390,18 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 
 
-
+## Finish 
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+## Pending for Editing 
 
 
 
