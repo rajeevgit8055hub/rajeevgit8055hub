@@ -285,14 +285,14 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
-<!-- 🪪 Profile Summary Card -->
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevgit8055hub&theme=midnight_purple)
-
 <!-- 💎 GitHub Trophy -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&title=Stars,Commits,Followers,Repositories,PullRequest&no-frame=true&no-bg=false&bgColor=000000&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy) -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=drisDev8&theme=midnight_purple)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&no-frame=true&no-bg=true&background=000000)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- 🪪 Profile Summary Card -->
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevgit8055hub&theme=midnight_purple)
 
 <!-- 📊 GitHub Stats (Main) -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=midnight-purple)
