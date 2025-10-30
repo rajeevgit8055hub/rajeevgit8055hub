@@ -648,4 +648,47 @@ A glimpse into my Power Query transformations 👇
   <b>✨ Crafted with ❤️ by Rajeev Tiwari ✨</b>
 </p>
 
+![Coding Playlist](https://media.giphy.com/media/26xBukh1fV6gkMZ7S/giphy.gif)
+
+<!-- 🎧 CURRENTLY LISTENING - NEON GLOW -->
+<h2 align="center">🎧 Currently Vibing To</h2>
+<p align="center">
+  <a href="https://open.spotify.com/user/">
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00ffff&color=00ffff" alt="Spotify Now Playing" width="450" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🎵%20Now%20Playing%20-%20Neon%20Beats-00FFFF?style=for-the-badge&logo=spotify&logoColor=black">
+</p>
+
+
+<!-- 🎶 CURRENTLY LISTENING - AURORA GRADIENT -->
+<h2 align="center">🌈 Currently Listening To</h2>
+<p align="center">
+  <a href="https://open.spotify.com/user/">
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=1a1b27&border_color=E600FF&color=FF00FF" alt="Spotify Now Playing" width="460" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Vibes%20Live%20🔥-Purple_Aurora-FF00FF?style=for-the-badge&logo=spotify&logoColor=white">
+</p>
+
+
+<!-- 🎧 CURRENTLY LISTENING - CYBERWAVE MODE -->
+<h2 align="center">🪩 My Live Coding Soundtrack</h2>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/">
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=000000&border_color=00FFB2&color=00FFB2" alt="Now Playing" width="460"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00FFB2&center=true&vCenter=true&width=600&lines=⚡+Coding+With+Beats+On;🎶+Data+Flows+Better+With+Music;🚀+Stay+Focused,+Stay+Lyrical!" alt="Typing Animation">
+</p>
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/243079802-62e7a8a9-b79e-4d32-9b8d-85b3f54734d5.gif" width="400">
+</p>
 
