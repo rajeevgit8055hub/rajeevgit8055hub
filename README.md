@@ -269,7 +269,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
   </a>
 </p>
 
-<p><img src="Bulb Smie.gif" width="30" alt="Green Bulb"/>A curated collection of concise, practical code examples — spanning Excel formulas, SQL queries, VBA scripts, Power BI logic, and mini HTML-CSS analytical experiments.</p>
+<p><img src="Bulb Smile.gif" width="30" alt="Green Bulb"/>A curated collection of concise, practical code examples — spanning Excel formulas, SQL queries, VBA scripts, Power BI logic, and mini HTML-CSS analytical experiments.</p>
 <p><img src="Books.gif" width="30" alt="Book"/>Each snippet reflects my daily learning, logical thinking, and problem-solving approach.</p>
 
 <!-- ## 📬 Connect with Me -->
