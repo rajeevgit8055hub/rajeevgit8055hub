@@ -562,13 +562,8 @@ Each project reflects my ability to turn raw information into meaningful, busine
 </p>
 
 
-<!-- 🎧 FEATURED SONG - SAIYAARA -->
-<h2 align="center">🎶 Currently Listening: <span style="color:#00FFFF;">Saiyaara</span></h2>
-<h4 align="center">🎬 From the Movie: <span style="color:#FF00FF;">Ek Tha Tiger</span></h4>
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b6ad0ebacb6ef99ff3e2a8df" width="300" style="border-radius:20px; box-shadow: 0 0 25px #00FFFF;">
-</p>
+
 
 
 
