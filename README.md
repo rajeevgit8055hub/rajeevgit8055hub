@@ -386,6 +386,13 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 
 
+<p align="center">
+  <a href="https://gist.github.com/rajeevgit8055hub" target="_blank">
+    <img src="https://img.shields.io/badge/%20Open%20Gist%20Now-Explore%20My%20Code%20Snippets-00FFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117&color=00FFFF" alt="Open Gist"/>
+  </a>
+</p>
+
+
 
 
 <!-- Dynamic Repositories Badge (Enable Later) -->
