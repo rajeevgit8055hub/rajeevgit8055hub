@@ -343,6 +343,11 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- Typing Animation / 🤝 Thanks for Visiting! -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+GitHub+profile!;Let’s+connect+and+grow+together+in+the+data+world+🚀;Feel+free+to+check+out+my+repositories+and+ongoing+projects.)](https://git.io/typing-svg)
 
+<!-- ![Typing SVG - Thin](https://readme-typing-svg.demolab.com?font=Poppins&weight=200&size=22&pause=1000&color=00FFFF&width=900&lines=welcome+to+rajeev%27s+github+universe!;aspiring+data+analyst+%7C+Excel+Access+Power+Query+%7C+SQL+Power+BI+Tableau;VBA+%7C+Lifelong+Learner+%7C+Tech+Enthusiast) -->
+
+<!-- ![Typing SVG - Thick](https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=22&pause=1000&color=00FFFF&width=900&lines=welcome+to+rajeev%27s+github+universe!;aspiring+data+analyst+%7C+Excel+Access+Power+Query+%7C+SQL+Power+BI+Tableau;VBA+%7C+Lifelong+Learner+%7C+Tech+Enthusiast) -->
+
+
 <!-- Dynamic Repositories Badge (Enable Later) -->
 <!-- ![Repositories](https://img.shields.io/github/repo-count/rajeevgit8055hub?color=blue&style=for-the-badge) -->
 <!--my_image ![GitHub Contributions](https://github.com/rajeevgit8055hub.png?tab=overview&theme=midnight-purple) -->
@@ -430,18 +435,17 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 
 
-<!-- 🌟 BASIC STATS -->
-[![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet&style=for-the-badge)](https://github.com/rajeevgit8055hub)
-[![Followers](https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=for-the-badge&logo=github)](https://github.com/rajeevgit8055hub?tab=followers)
-[![Following](https://img.shields.io/github/following/rajeevgit8055hub?label=Following&style=for-the-badge)](https://github.com/rajeevgit8055hub?tab=following)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rajeevgit8055hub.rajeevgit8055hub)
-![Repos](https://img.shields.io/badge/Repositories-23-F29111?style=for-the-badge&labelColor=D83B01)
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-217346?style=for-the-badge&labelColor=00C4CC)
+<!-- 🧠 CONTRIBUTION STATS -->
+![GitHub Stars](https://img.shields.io/github/stars/rajeevgit8055hub?affiliations=OWNER&style=for-the-badge&logo=github)
+![GitHub Forks](https://img.shields.io/github/forks/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=git)
+![Commits](https://badgen.net/github/commits/rajeevgit8055hub/rajeevgit8055hub?icon=github&label=Total%20Commits)
+![Contributions](https://badgen.net/badge/Contributions/Active/green?icon=github)
+![PRs](https://img.shields.io/github/issues-pr/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=github)
+![Issues](https://img.shields.io/github/issues/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=git)
+![Repo Size](https://img.shields.io/github/repo-size/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
+![Code Size](https://img.shields.io/github/languages/code-size/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
+![Lines of Code](https://img.shields.io/tokei/lines/github/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
 
----
-
-![Typing SVG - Thin](https://readme-typing-svg.demolab.com?font=Poppins&weight=200&size=22&pause=1000&color=00FFFF&width=900&lines=welcome+to+rajeev%27s+github+universe!;aspiring+data+analyst+%7C+Excel+Access+Power+Query+%7C+SQL+Power+BI+Tableau;VBA+%7C+Lifelong+Learner+%7C+Tech+Enthusiast)
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=22&pause=1000&color=00FFFF&width=900&lines=welcome+to+rajeev%27s+github+universe!;aspiring+data+analyst+%7C+Excel+Access+Power+Query+%7C+SQL+Power+BI+Tableau;VBA+%7C+Lifelong+Learner+%7C+Tech+Enthusiast)
 
 
