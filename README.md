@@ -95,6 +95,8 @@ and delivering data-driven solutions that create real business impact.
 <!-- <img alt="MySkills" src="Technology1.gif" /> -->
 <!-- <img alt="MySkills" src="MySkills.png" /> -->
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=200&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Welcome+to+Rajeev's+GitHub+Universe!;Aspiring+Data+Analyst+%7C+Excel+%7C+Access+%7C+Power+Query+%7C+SQL;Power+BI+%7C+Tableau+%7C+VBA;Lifelong+Learner+%7C+Tech+Enthusiast;Crafted+with+%E2%9D%A4%EF%B8%8F+by+Rajeev+Tiwari+%7C+With+OpenAI+Support)
+
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-4F85C9?style=for-the-badge&logo=microsoft-powerquery&logoColor=white)
@@ -444,11 +446,161 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![Integrity Checked](https://img.shields.io/badge/Integrity-Checked-brightgreen?style=for-the-badge&logo=trustpilot)
 ![Project Status](https://img.shields.io/badge/Status-Stable-00C4CC?style=for-the-badge&logo=dependabot)
 
-<!-- 🌟 Crafted with Love Typing Animation -->
-<!-- 🌌 Thin Font Typing Animation -->
-<!-- 🌌 Thin Font Typing Animation -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=200&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Welcome+to+Rajeev's+GitHub+Universe!;Aspiring+Data+Analyst+%7C+Excel+%7C+Access+%7C+Power+Query+%7C+SQL;Power+BI+%7C+Tableau+%7C+VBA;Lifelong+Learner+%7C+Tech+Enthusiast;Crafted+with+%E2%9D%A4%EF%B8%8F+by+Rajeev+Tiwari+%7C+With+OpenAI+Support)
 
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213911631-472962fd-6c47-4e13-9010-871c53a37131.gif" width="100%">
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+## 🎧 Currently Listening To  
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/)
+
+![Coding Playlist](https://media.giphy.com/media/26xBukh1fV6gkMZ7S/giphy.gif)
+
+## 🧬 My Tech DNA
+
+🟩 Excel — Data Transformation  
+🟦 SQL — Query Logic  
+🟨 Power BI — Storytelling  
+🟪 Power Query — Cleansing Engine  
+🟥 HTML + CSS — UI Foundation  
+🟧 GitHub — Version Intelligence  
+⬛ Python — Future Integration
+
+## 🛰️ Mission Control Center
+🟢 Status: ACTIVE  
+🧭 Current Mission: Building Data Universe 🌌  
+🧰 Tools: Power Query | SQL | Power BI | Excel | Access  
+📡 Transmission: Daily Commits & Projects Updates  
+🪐 Next Launch: Advanced Power BI Automation Series  
+
+## 🌌 My Tech Orbit
+
+☀️ **Core Planet:** Power Query  
+🌍 **Orbit 1:** Excel | Power BI | SQL | Access  
+🌙 **Orbit 2:** Python | HTML | CSS | GitHub  
+🌠 **Orbit 3:** Tableau | VBA | Canva | Notion  
+
+
+## 🏆 Wall of Fame
+
+| Project | Description | 🌟 Stars |
+|----------|--------------|----------|
+| Multi-Extension Data Cleaner | Power Query + Excel | ⭐⭐⭐⭐ |
+| Business Insights Dashboard | Power BI | ⭐⭐⭐⭐⭐ |
+| SQL Practice Script Hub | PostgreSQL | ⭐⭐⭐⭐ |
+| Portfolio Website | HTML + CSS | ⭐⭐⭐⭐ |
+
+![3D Contributions](./profile-3d-contrib/profile-south-view.svg)
+
+![Heatmap](https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/profile-3d-contrib/profile-night-rainbow.svg)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=true&width=800&lines=Building+Automation+through+Excel+and+Power+Query!;Translating+Data+into+Business+Decisions!;Learning%2C+Creating%2C+Inspiring!)
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-49c3-a5de-21b58f9c22a5.gif" width="100%">
+</p>
+<p align="center">
+  <b>✨ Crafted with ❤️ by Rajeev Tiwari ✨</b>
+</p>
+
+![Coding Playlist](https://media.giphy.com/media/26xBukh1fV6gkMZ7S/giphy.gif)
+
+<!-- 🎧 CURRENTLY LISTENING - NEON GLOW -->
+<h2 align="center">🎧 Currently Vibing To</h2>
+<p align="center">
+  <a href="https://open.spotify.com/user/">
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00ffff&color=00ffff" alt="Spotify Now Playing" width="450" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🎵%20Now%20Playing%20-%20Neon%20Beats-00FFFF?style=for-the-badge&logo=spotify&logoColor=black">
+</p>
+
+
+<!-- 🎶 CURRENTLY LISTENING - AURORA GRADIENT -->
+<h2 align="center">🌈 Currently Listening To</h2>
+<p align="center">
+  <a href="https://open.spotify.com/user/">
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=1a1b27&border_color=E600FF&color=FF00FF" alt="Spotify Now Playing" width="460" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Vibes%20Live%20🔥-Purple_Aurora-FF00FF?style=for-the-badge&logo=spotify&logoColor=white">
+</p>
+
+
+<!-- 🎧 CURRENTLY LISTENING - CYBERWAVE MODE -->
+<h2 align="center">🪩 My Live Coding Soundtrack</h2>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/">
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=000000&border_color=00FFB2&color=00FFB2" alt="Now Playing" width="460"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00FFB2&center=true&vCenter=true&width=600&lines=⚡+Coding+With+Beats+On;🎶+Data+Flows+Better+With+Music;🚀+Stay+Focused,+Stay+Lyrical!" alt="Typing Animation">
+</p>
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/243079802-62e7a8a9-b79e-4d32-9b8d-85b3f54734d5.gif" width="400">
+</p>
+
+
+<!-- 🎧 FEATURED SONG - SAIYAARA -->
+<h2 align="center">🎶 Currently Listening: <span style="color:#00FFFF;">Saiyaara</span></h2>
+<h4 align="center">🎬 From the Movie: <span style="color:#FF00FF;">Ek Tha Tiger</span></h4>
+
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b6ad0ebacb6ef99ff3e2a8df" width="300" style="border-radius:20px; box-shadow: 0 0 25px #00FFFF;">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎧_Playing-Saiyaara_(Ek_Tha_Tiger)-00FFFF?style=for-the-badge&logo=spotify&logoColor=black">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=💫+Every+beat+tells+a+story...;🎵+Saiyaara+Saiyaara,+Main+Saiyaara;🌌+Forever+lost+in+melody...">
+</p>
+
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=000000&border_color=00ffff&color=00ffff)](https://open.spotify.com/user/)
+
+
+
+<!-- 🌠 FEATURED SONG: SAIYAARA -->
+<h2 align="center">🎧 Now Playing: <span style="color:#00FFFF;">Saiyaara</span></h2>
+<h3 align="center">🎬 Movie: <span style="color:#FF00FF;">Saiyaara</span> (Title Track)</h3>
+
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b6ad0ebacb6ef99ff3e2a8df" 
+       width="300" 
+       style="border-radius:20px; box-shadow:0 0 25px #00FFFF;">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎵_Playing-Saiyaara_(Movie_Saiyaara)-00FFFF?style=for-the-badge&logo=spotify&logoColor=black">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=💫+Saiyaara+Saiyaara,+Main+Saiyaara...;🎶+Lost+in+love,+beyond+the+stars;🌌+Music+that+touches+the+soul">
+</p>
+
+[![Saiyaara Track](https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=novatorem&bar_color=00FFFF&bar_color_cover=false)](https://open.spotify.com/track/4Gc5h2PaYgN3rGZV0Rlw0V)
 
 
 
