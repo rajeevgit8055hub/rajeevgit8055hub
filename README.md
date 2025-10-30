@@ -385,3 +385,18 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- Language per Commit (Pie Style) 
 ![Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajeevgit8055hub&theme=midnight_purple)
 -->
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgwbWpid3JycW56ZzVlcGc2aWExMzN3M25qY25pNzRoYjNqNWNobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d56Di5yqBRq9KnSZX6/giphy.webp" width="35">&nbsp;***Activity Graph***
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZpcDNtYnV4dXdwM2h3N3EwbWg0bGFxNTN6Y3VwejB1Z3F5YzE2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TK5KD6d7b1o2JlD3uZ/giphy.webp" width="35">&nbsp;***GitHub Trophies***
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFibGZjZjBnMWlsZzJid3Vub3V0bjd5bTJub3Z4eXFiMjRlMnMwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RKZ9KzCcxMd0k/giphy.webp" width="35">&nbsp;***Profile Summary Card***
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmM5aTViZGEzMmYyZW1yMTZ2b3FwaHFmM2Uyc29uZ21iNmY1OG5rNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZVik7pBtu9dNS/giphy.webp" width="35">&nbsp;***GitHub Stats***
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg3bnJtZjFhNXFta3YzOGZmdHBqYWFwbjZtY2gwbzhjM2tkNnM3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LHZyixOnHwDDy/giphy.webp" width="35">&nbsp;***Top Languages***
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR2Y3V0cDViZDI5ZjcwZ3N3dnE1cmZ1cnhocmtmZm5uOXVpMTc5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HUpt2s9Pclgt9Vm/giphy.webp" width="35">&nbsp;***GitHub Streak***
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd3bzhkYmZlczF4b3hxd3FpdDdzOTU0aTF6bDd4a2h1MnUwN2ZtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VbnUQpnihPSIgIXuZv/giphy.webp" width="35">&nbsp;***Snake Contribution Animation***
+
