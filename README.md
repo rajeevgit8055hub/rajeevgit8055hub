@@ -532,3 +532,65 @@ Each project reflects my ability to turn raw information into meaningful, busine
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox)](https://rajeevgit8055hub.github.io)
 [![Gmail](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeevdatahub@gmail.com)
 
+
+
+![3D Contributions](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-contribution-grid-snake.svg)
+
+## 🌍 Global Visitors
+![Visitor Map](https://api.visitorbadge.io/api/VisitorHit?user=rajeevgit8055hub&repo=rajeevgit8055hub&countColor=%2300C4CC)
+
+![World Map](https://github.com/ashutosh00710/github-readme-activity-graph/raw/master/world-map.gif)
+
+[![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy_me_a_coffee-F4B400?style=for-the-badge)](https://buymeacoffee.com/rajeevgit8055hub)
+
+---
+<p align="center">✨ Crafted with ❤️ by <b>Rajeev Tiwari</b> | Data Analyst & Creator ✨</p>
+
+## 🧩 Skill Graph
+
+Excel VBA & Automation      ████████████░░░░░░░   80%
+SQL & Database Management   █████████████░░░░░░   85%
+Power BI & Visualization    ██████████████░░░░░   90%
+Power Query & Data Cleaning ████████████████░░░   95%
+Python (Data)               █████████░░░░░░░░░░   70%
+HTML / CSS / Web Design     ████████░░░░░░░░░░░   65%
+
+## ✍️ Code Snippet
+A glimpse into my Power Query transformations 👇  
+➡️ [Open Gist](https://gist.github.com/rajeevgit8055hub)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajeevgit8055hub&theme=react-dark)
+
+![3D Contribution](./profile-3d-contrib/profile-night-view.svg)
+
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00FFFF&width=600&lines=Turning+Data+into+Decisions!;Designing+Dashboards+that+Speak+Insights!;Automating+Reports+with+Excel+and+Power+Query!)
+
+![Cert](https://img.shields.io/badge/Certification-IIT_Guwahati-blue?style=for-the-badge)
+![Cert](https://img.shields.io/badge/SQL-Certified-orange?style=for-the-badge)
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Power Query Merging Deep Dive](https://linkedin.com/in/rajeevgit8055hub)
+- [Excel VBA Automation Case Study](https://linkedin.com/in/rajeevgit8055hub)
+- [SQL Subqueries Explained Simply](https://linkedin.com/in/rajeevgit8055hub)
+<!-- BLOG-POST-LIST:END -->
+
+## 🌐 Network Insights
+![LinkedIn](https://img.shields.io/badge/LinkedIn-500%2B_Connections-blue?style=for-the-badge&logo=linkedin)
+![YouTube](https://img.shields.io/badge/YouTube-Coming_Soon-red?style=for-the-badge&logo=youtube)
+![GitHub Followers](https://img.shields.io/github/followers/rajeevgit8055hub?style=for-the-badge)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Rajeev+Tiwari;Data+Analyst+|+Excel+|+Power+BI+|+SQL;Creating+Insights+That+Drive+Business+Growth" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213911631-472962fd-6c47-4e13-9010-871c53a37131.gif" width="100%">
+</p>
+
+---
+<p align="center">
+  <i>“Data is not just numbers — it's the language of business.”</i><br>
+  <b>— Rajeev Tiwari</b>
+</p>
