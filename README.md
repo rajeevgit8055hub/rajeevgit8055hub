@@ -3,7 +3,7 @@
 
 Data enthusiast exploring real-world solutions through Excel automation & BI tools.
 
-<img align="right" alt="Rajeev" width="50" src="RV.svg" />
+<img align="right" alt="Rajeev" width="60" src="RV.svg" />
 
 <!-- Header Section -->
 <!-- <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> -->
@@ -213,7 +213,7 @@ and delivering data-driven solutions that create real business impact.
 
 <!-- ## 📂 Featured Projects -->
 <img src="Neon Columns.gif" width="40"><img src="Projects.gif" width="150">
-
+<img src="Web Dev1.gif" width="150">
 <!-- Showcasing my practical experience across data and technology tools — from cleaning and transforming data to creating insightful visualizations.
 Each project reflects my ability to turn raw information into meaningful, business-ready insights.
 -->
@@ -305,7 +305,8 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=midnight-purple)
 
 <!-- 💬 Top Languages -->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg3bnJtZjFhNXFta3YzOGZmdHBqYWFwbjZtY2gwbzhjM2tkNnM3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LHZyixOnHwDDy/giphy.webp" width="30">&nbsp;***Top Languages***
+<!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg3bnJtZjFhNXFta3YzOGZmdHBqYWFwbjZtY2gwbzhjM2tkNnM3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LHZyixOnHwDDy/giphy.webp" width="30">&nbsp;***Top Languages*** -->
+<img src="Technology.gif" width="30">&nbsp;***Top Languages***
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=midnight-purple)
 <img align="right" alt="GitHub Lens" width="120" src="Lens1.gif" />
 
