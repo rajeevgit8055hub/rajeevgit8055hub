@@ -262,7 +262,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- ## 📬 Connect with Me -->
 <img alt="Orange Meter" width="80" src="Orange Loading.gif" /><img src="Contact+me.gif" width="100" alt="Connect With Me"/>
-<h1><img src="Drawings.png" width="250" alt="Drawings"/></h1>
+<h1><img src="Drawings.png" width="400" alt="Drawings"/></h1>
 <!-- <img src="https://media.giphy.com/media/l3vR9Oqg3w1rKQJwE/giphy.gif" width="60"><img src="Contact+me.gif" width="100" alt="Connect With Me"/> -->
 <!-- <img alt="GitCover" src="Technoglobe.jpg" /> -->
 <!-- <img alt="Loading" height="250" width="500" src="Under Loading.gif" /> -->
