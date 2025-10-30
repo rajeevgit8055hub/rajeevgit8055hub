@@ -428,13 +428,10 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![Code Size](https://img.shields.io/github/languages/code-size/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
 
 
-## 🧩 Developer Badges
-![Contributor](https://img.shields.io/badge/Contributor-Active-00C4CC?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open%20Source-Lover-2ECC71?style=for-the-badge)
-![Bug Hunter](https://img.shields.io/badge/Bug%20Hunter-Debugger-F4B400?style=for-the-badge)
-![Code Reviewer](https://img.shields.io/badge/Code%20Reviewer-Insightful-00ADEF?style=for-the-badge)
-![Team Player](https://img.shields.io/badge/Team%20Player-Collaborative-6A1B9A?style=for-the-badge)
-![Continuous Learner](https://img.shields.io/badge/Learning-Always-FFA500?style=for-the-badge)
-![Problem Solver](https://img.shields.io/badge/Problem%20Solver-Analytical-217346?style=for-the-badge)
+## 🖼️ Dynamic Profile Animations
+![Snake Animation](https://github.com/rajeevgit8055hub/rajeevgit8055hub/blob/output/github-contribution-grid-snake.svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&width=435&lines=Welcome+to+Rajeev's+GitHub+Universe!;Data+Analyst+%7C+Excel+%7C+Power+BI+%7C+SQL;Lifelong+Learner+%7C+Tech+Enthusiast)
+
+---
 
 
