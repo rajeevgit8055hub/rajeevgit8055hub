@@ -570,9 +570,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
   <img src="https://i.scdn.co/image/ab67616d0000b273b6ad0ebacb6ef99ff3e2a8df" width="300" style="border-radius:20px; box-shadow: 0 0 25px #00FFFF;">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🎧_Playing-Saiyaara_(Ek_Tha_Tiger)-00FFFF?style=for-the-badge&logo=spotify&logoColor=black">
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=💫+Every+beat+tells+a+story...;🎵+Saiyaara+Saiyaara,+Main+Saiyaara;🌌+Forever+lost+in+melody...">
@@ -582,25 +580,6 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 
 
-<!-- 🌠 FEATURED SONG: SAIYAARA -->
-<h2 align="center">🎧 Now Playing: <span style="color:#00FFFF;">Saiyaara</span></h2>
-<h3 align="center">🎬 Movie: <span style="color:#FF00FF;">Saiyaara</span> (Title Track)</h3>
-
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b6ad0ebacb6ef99ff3e2a8df" 
-       width="300" 
-       style="border-radius:20px; box-shadow:0 0 25px #00FFFF;">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🎵_Playing-Saiyaara_(Movie_Saiyaara)-00FFFF?style=for-the-badge&logo=spotify&logoColor=black">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=💫+Saiyaara+Saiyaara,+Main+Saiyaara...;🎶+Lost+in+love,+beyond+the+stars;🌌+Music+that+touches+the+soul">
-</p>
-
-[![Saiyaara Track](https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=novatorem&bar_color=00FFFF&bar_color_cover=false)](https://open.spotify.com/track/4Gc5h2PaYgN3rGZV0Rlw0V)
 
 
 
