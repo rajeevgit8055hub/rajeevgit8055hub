@@ -114,6 +114,7 @@ and delivering data-driven solutions that create real business impact.
 ![Business Insights](https://img.shields.io/badge/Business%20Insights-2F4F4F?style=for-the-badge&logo=bar-chart&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajeevgit8055hub)
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code)
 ![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 ![Data Cleaning & Transformation](https://img.shields.io/badge/Data%20Cleaning%20%26%20Transformation-4682B4?style=for-the-badge&logo=powerbi&logoColor=white)
 <!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)-->
@@ -371,6 +372,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajeevgit8055hub&theme=midnight_purple)
 -->
 
+<!-- Gif Starts -->
 <!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZjNTh1N2d3N3h0eHh3c2p6Y3h6aGZyZjR2aTNlNHplZ3RvbXZjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Tz1KKZyZsQ0Zy/giphy.webp" width="35">&nbsp;***colors cubes*** -->
 
 <!-- <img src="Python.gif" width="35">&nbsp;***Snake Contribution Animation*** -->
@@ -389,6 +391,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd3bzhkYmZlczF4b3hxd3FpdDdzOTU0aTF6bDd4a2h1MnUwN2ZtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VbnUQpnihPSIgIXuZv/giphy.webp" width="35">&nbsp;***cat working on computer*** -->
 
+<!-- Gif end -->
 
 <!-- 🌟 BASIC STATS -->
 <!-- [![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet&style=for-the-badge)](https://github.com/rajeevgit8055hub) -->
@@ -398,6 +401,20 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- ![Repos](https://img.shields.io/badge/Repositories-23-F29111?style=for-the-badge&labelColor=D83B01) -->
 <!-- ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-217346?style=for-the-badge&labelColor=00C4CC) -->
 
+<!-- Neon Github Stats -->
+<!-- ![Rajeev’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF) -->
+
+<!-- Neon Top Languages -->
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FFFF) -->
+
+<!-- Purple Trophy -->
+<!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=darkhub&margin-w=10&no-frame=true&row=1) -->
+
+<!-- Neon Activity Graph -->
+<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajeevgit8055hub&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) -->
+
+<!-- Mediumslateblue Streak -->
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=tokyonight&background=000000&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=AAAAAA) -->
 
 
 <!-- 🧠 CONTRIBUTION STATS -->
@@ -410,29 +427,8 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![Last Commit](https://img.shields.io/github/last-commit/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=git)
 ![Repo Size](https://img.shields.io/github/repo-size/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
 ![Code Size](https://img.shields.io/github/languages/code-size/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
-![Lines of Code](https://img.shields.io/tokei/lines/github/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
-![Inspiration](https://img.shields.io/badge/Inspiration-🔥_Always_Learning-red?style=for-the-badge)
 
 
-## 📊 GitHub Stats
-![Rajeev’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FFFF)
 
----
-
-## 🏆 Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=darkhub&margin-w=10&no-frame=true&row=1)
-
----
-
-## ⚡ Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajeevgit8055hub&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
-
----
-
-## 🔥 Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=tokyonight&background=000000&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=AAAAAA)
-
----
 
