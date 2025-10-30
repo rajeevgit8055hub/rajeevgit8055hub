@@ -397,6 +397,5 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- ![Repos](https://img.shields.io/badge/Repositories-23-F29111?style=for-the-badge&labelColor=D83B01) -->
 <!-- ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-217346?style=for-the-badge&labelColor=00C4CC) -->
 
-[![Following](https://img.shields.io/badge/Following-{{FOLLOWING_COUNT}}-00C4CC?style=for-the-badge&logo=github)](https://github.com/rajeevgit8055hub?tab=following)
-![Following](https://img.shields.io/badge/Following-50-00C4CC?style=for-the-badge&logo=github&logoColor=white)
+![Following](https://img.shields.io/badge/Following-5-00C4CC?style=for-the-badge&logo=github&logoColor=white)
 
