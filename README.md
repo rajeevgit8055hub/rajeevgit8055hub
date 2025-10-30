@@ -362,9 +362,9 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- 🧠 Contribution Pulse -->
 ![GitHub Stars](https://img.shields.io/github/stars/rajeevgit8055hub?affiliations=OWNER&style=for-the-badge&logo=github)
-![GitHub Forks](https://img.shields.io/github/forks/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=git)
-![Commits](https://badgen.net/github/commits/rajeevgit8055hub/rajeevgit8055hub?icon=github&label=Total%20Commits)
 ![Contributions](https://badgen.net/badge/Contributions/Active/green?icon=github)
+![Commits](https://badgen.net/github/commits/rajeevgit8055hub/rajeevgit8055hub?icon=github&label=Total%20Commits)
+![GitHub Forks](https://img.shields.io/github/forks/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=git)
 ![PRs](https://img.shields.io/github/issues-pr/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=github)
 ![Issues](https://img.shields.io/github/issues/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=git)
