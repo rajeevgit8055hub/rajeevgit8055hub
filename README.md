@@ -285,17 +285,14 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
-
-
 <!--## 🏆 GitHub Trophies -->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZpcDNtYnV4dXdwM2h3N3EwbWg0bGFxNTN6Y3VwejB1Z3F5YzE2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TK5KD6d7b1o2JlD3uZ/giphy.webp" width="35">&nbsp;***GitHub Trophies***
+
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZpcDNtYnV4dXdwM2h3N3EwbWg0bGFxNTN6Y3VwejB1Z3F5YzE2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TK5KD6d7b1o2JlD3uZ/giphy.webp" width="35">&nbsp;***GitHub Trophies***
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
 </div>
-
-
-
 
 <!-- 💎 GitHub Trophy -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&title=Stars,Commits,Followers,Repositories,PullRequest&no-frame=true&no-bg=false&bgColor=000000&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy) -->
@@ -304,14 +301,26 @@ Each project reflects my ability to turn raw information into meaningful, busine
 [![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&no-frame=true&no-bg=true&background=000000)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- 🪪 Profile Summary Card -->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFibGZjZjBnMWlsZzJid3Vub3V0bjd5bTJub3Z4eXFiMjRlMnMwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RKZ9KzCcxMd0k/giphy.webp" width="35">&nbsp;***Profile Summary Card***
+
+<!-- 🪪 Profile Summary Card -->
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevgit8055hub&theme=midnight_purple)
+
+<!-- 📊 GitHub Stats (Main) -->
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmM5aTViZGEzMmYyZW1yMTZ2b3FwaHFmM2Uyc29uZ21iNmY1OG5rNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZVik7pBtu9dNS/giphy.webp" width="35">&nbsp;***GitHub Stats***
 
 <!-- 📊 GitHub Stats (Main) -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=midnight-purple)
 
 <!-- 💬 Top Languages -->
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg3bnJtZjFhNXFta3YzOGZmdHBqYWFwbjZtY2gwbzhjM2tkNnM3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LHZyixOnHwDDy/giphy.webp" width="35">&nbsp;***Top Languages***
+
+<!-- 💬 Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=midnight-purple)
 <img align="right" alt="GitHub Lens" width="120" src="Lens1.gif" />
+
+<!--## 🔥 GitHub Streak -->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR2Y3V0cDViZDI5ZjcwZ3N3dnE1cmZ1cnhocmtmZm5uOXVpMTc5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HUpt2s9Pclgt9Vm/giphy.webp" width="35">&nbsp;***GitHub Streak***
 
 <!--## 🔥 GitHub Streak -->
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark) -->
@@ -325,6 +334,9 @@ Each project reflects my ability to turn raw information into meaningful, busine
  [https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark](https://github-readme-streak-stats-username.vercel.app/<YOUR_GITHUB_USERNAME>?theme=dark) -->
 
 <!--## 📈 Activity Graph -->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgwbWpid3JycW56ZzVlcGc2aWExMzN3M25qY25pNzRoYjNqNWNobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d56Di5yqBRq9KnSZX6/giphy.webp" width="35">&nbsp;***Activity Graph***
+
+<!--## 📈 Activity Graph -->
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgwbWpid3JycW56ZzVlcGc2aWExMzN3M25qY25pNzRoYjNqNWNobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d56Di5yqBRq9KnSZX6/giphy.webp" width="35">&nbsp;***Activity Graph*** 
 
 <div align="center">
@@ -335,6 +347,9 @@ Each project reflects my ability to turn raw information into meaningful, busine
 </div> -->
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+
+<!-- 🐍 Snake Contribution Animation -->
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd3bzhkYmZlczF4b3hxd3FpdDdzOTU0aTF6bDd4a2h1MnUwN2ZtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VbnUQpnihPSIgIXuZv/giphy.webp" width="35">&nbsp;***Snake Contribution Animation***
 
 <!-- 🐍 Snake Contribution Animation -->
 <!-- ![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/output/github-contribution-grid-snake.svg) -->
