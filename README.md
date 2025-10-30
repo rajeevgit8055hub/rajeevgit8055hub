@@ -411,14 +411,28 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![Repo Size](https://img.shields.io/github/repo-size/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
 ![Code Size](https://img.shields.io/github/languages/code-size/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
 ![Lines of Code](https://img.shields.io/tokei/lines/github/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
-
-
-
-<!-- 🏆 EXTRA BADGES -->
-![License](https://img.shields.io/github/license/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
-![Build Status](https://img.shields.io/github/actions/workflow/status/rajeevgit8055hub/ci.yml?style=for-the-badge)
-![Deployment](https://img.shields.io/badge/Deployment-Auto-green?style=for-the-badge&logo=vercel)
-![Security](https://img.shields.io/badge/Security-Verified-brightgreen?style=for-the-badge&logo=github)
 ![Inspiration](https://img.shields.io/badge/Inspiration-🔥_Always_Learning-red?style=for-the-badge)
 
+
+## 📊 GitHub Stats
+![Rajeev’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FFFF)
+
+---
+
+## 🏆 Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=darkhub&margin-w=10&no-frame=true&row=1)
+
+---
+
+## ⚡ Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajeevgit8055hub&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
+
+---
+
+## 🔥 Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=tokyonight&background=000000&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=AAAAAA)
+
+---
 
