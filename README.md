@@ -434,13 +434,14 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 
 
-<!-- 🏆 EXTRA BADGES -->
-![License](https://img.shields.io/github/license/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
-![Build Status](https://img.shields.io/github/actions/workflow/status/rajeevgit8055hub/ci.yml?style=for-the-badge)
-![Deployment](https://img.shields.io/badge/Deployment-Auto-green?style=for-the-badge&logo=vercel)
+![Deployment](https://img.shields.io/badge/Deployment-Auto-brightgreen?style=for-the-badge&logo=vercel)
 ![Security](https://img.shields.io/badge/Security-Verified-brightgreen?style=for-the-badge&logo=github)
-![Inspiration](https://img.shields.io/badge/Inspiration-🔥_Always_Learning-red?style=for-the-badge)
 
+![Code Quality](https://img.shields.io/badge/Code%20Quality-A%2B-brightgreen?style=for-the-badge&logo=github)
+![Build Status](https://img.shields.io/badge/Build-Passing-success?style=for-the-badge&logo=githubactions&logoColor=white)
+![Verified Author](https://img.shields.io/badge/Author-Verified-blueviolet?style=for-the-badge&logo=github)
+![Integrity Checked](https://img.shields.io/badge/Integrity-Checked-brightgreen?style=for-the-badge&logo=trustpilot)
+![Project Status](https://img.shields.io/badge/Status-Stable-00C4CC?style=for-the-badge&logo=dependabot)
 
 
 
