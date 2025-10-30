@@ -95,8 +95,6 @@ and delivering data-driven solutions that create real business impact.
 <!-- <img alt="MySkills" src="Technology1.gif" /> -->
 <!-- <img alt="MySkills" src="MySkills.png" /> -->
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=200&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Welcome+to+Rajeev's+GitHub+Universe!;Aspiring+Data+Analyst+%7C+Excel+%7C+Access+%7C+Power+Query+%7C+SQL;Power+BI+%7C+Tableau+%7C+VBA;Lifelong+Learner+%7C+Tech+Enthusiast;Crafted+with+%E2%9D%A4%EF%B8%8F+by+Rajeev+Tiwari+%7C+With+OpenAI+Support)
-
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-4F85C9?style=for-the-badge&logo=microsoft-powerquery&logoColor=white)
@@ -346,12 +344,37 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- Typing Animation / 🤝 Thanks for Visiting! -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+GitHub+profile!;Let’s+connect+and+grow+together+in+the+data+world+🚀;Feel+free+to+check+out+my+repositories+and+ongoing+projects.)](https://git.io/typing-svg)
 
-<!-- ✍️ Code Snippet 
-➡️ [Open Gist](https://gist.github.com/rajeevgit8055hub) -->
+## ✍️ Code Snippets  
+➡️ [Open Gist](https://gist.github.com/rajeevgit8055hub) 
 
-![Typing SVG - Thin](https://readme-typing-svg.demolab.com?font=Poppins&weight=200&size=22&pause=1000&color=00FFFF&width=900&lines=welcome+to+rajeev%27s+github+universe!;aspiring+data+analyst+%7C+Excel+Access+Power+Query+%7C+SQL+Power+BI+Tableau;VBA+%7C+Lifelong+Learner+%7C+Tech+Enthusiast)
+## 🧠 Code Snippets  
+> 💬 A glimpse into my daily learning — from Excel formulas to SQL queries and Power BI logic.
 
-![Typing SVG - Thick](https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=22&pause=1000&color=00FFFF&width=900&lines=welcome+to+rajeev%27s+github+universe!;aspiring+data+analyst+%7C+Excel+Access+Power+Query+%7C+SQL+Power+BI+Tableau;VBA+%7C+Lifelong+Learner+%7C+Tech+Enthusiast)
+<p align="center">
+  <a href="https://gist.github.com/rajeevgit8055hub" target="_blank">
+    <img src="https://img.shields.io/badge/➡️%20Open%20Gist-Explore%20My%20Code%20Snippets-00FFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117&color=00FFFF" alt="Open Gist"/>
+  </a>
+</p>
+
+## 🧠 Code Snippets  
+> 💡 Explore short, practical code examples from my daily learning journey.
+
+<p align="center">
+  <a href="https://gist.github.com/rajeevgit8055hub" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Gist-Click%20to%20View-F28C28?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Open Gist"/>
+  </a>
+</p>
+
+## 🧠 Code Snippets  
+> 📘 Mini projects, experiments, and logic building — all in one place.
+
+<p align="center">
+  <a href="https://gist.github.com/rajeevgit8055hub" target="_blank">
+    <img src="https://img.shields.io/badge/➡️%20Open%20Gist%20Now-View%20All%20Snippets-blueviolet?style=for-the-badge&logo=github&logoColor=white&labelColor=1B1B1B" alt="Open Gist"/>
+  </a>
+</p>
+
+
 
 
 <!-- Dynamic Repositories Badge (Enable Later) -->
