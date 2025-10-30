@@ -262,14 +262,14 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- ## 🧠 Code Snippets  -->
-<h2><img src="Green Code1.gif" width="50" alt="Green Code1"/>Code Snippets </h2> 
+<h2><img src="Green Code1.gif" width="50" alt="Green Code1"/>Code Snippets</h2> 
 <p align="center">
   <a href="https://gist.github.com/rajeevgit8055hub" target="_blank">
     <img src="https://img.shields.io/badge/Open%20Gist%20Now-Explore%20My%20Code%20Snippets-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1B1B1B&color=00FFFF" alt="Open Gist"/>
   </a>
 </p>
 
-<p><img src="Green Bulb.gif" width="30" alt="Green Bulb"/>A curated collection of short, practical code examples — from Excel formulas to SQL queries, Power BI logic, and mini analytical experiments.</p>
+<p><img src="Green Bulb.gif" width="30" alt="Green Bulb"/>A curated collection of concise, practical code examples — spanning Excel formulas, SQL queries, VBA scripts, Power BI logic, and mini HTML-CSS analytical experiments.</p>
 <p><img src="Book.gif" width="30" alt="Book"/>Each snippet reflects my daily learning, logical thinking, and problem-solving approach.</p>
 
 <!-- ## 📬 Connect with Me -->
@@ -356,8 +356,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+GitHub+profile!;Let’s+connect+and+grow+together+in+the+data+world+🚀;Feel+free+to+check+out+my+repositories+and+ongoing+projects.)](https://git.io/typing-svg) -->
 
 <!-- 🧠 Contribution Pulse -->
-<p><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50" alt="Contribution Pulse Animation"> <img width="150" alt="Contribution Pulse"src="Contribution.gif"><img width="60" alt="Contribution Pulse"src="Pulse.gif"> 
-</p>
+<h1><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50" alt="Contribution Pulse Animation">Contribution Pulse<img width="60" alt="Contribution Pulse"src="Pulse.gif"></h1>
 
 <!-- https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB4a3Z2b3Z1N3Y3NjVjYXpzdmw3NG9rMDRrbGdqYWdpODI3bGtzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26tn33aiTi1jkl6H6/giphy.gif -->
 
