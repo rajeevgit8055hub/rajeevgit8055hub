@@ -390,9 +390,13 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 
 <!-- 🌟 BASIC STATS -->
-[![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet&style=for-the-badge)](https://github.com/rajeevgit8055hub)
-[![Followers](https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=for-the-badge&logo=github)](https://github.com/rajeevgit8055hub?tab=followers)
-[![Following](https://img.shields.io/github/following/rajeevgit8055hub?label=Following&style=for-the-badge)](https://github.com/rajeevgit8055hub?tab=following)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rajeevgit8055hub.rajeevgit8055hub)
-![Repos](https://img.shields.io/badge/Repositories-23-F29111?style=for-the-badge&labelColor=D83B01)
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-217346?style=for-the-badge&labelColor=00C4CC)
+<!-- [![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet&style=for-the-badge)](https://github.com/rajeevgit8055hub) -->
+<!-- [![Followers](https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=for-the-badge&logo=github)](https://github.com/rajeevgit8055hub?tab=followers) -->
+<!-- [![Following](https://img.shields.io/github/following/rajeevgit8055hub?label=Following&style=for-the-badge)](https://github.com/rajeevgit8055hub?tab=following) -->
+<!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rajeevgit8055hub.rajeevgit8055hub) -->
+<!-- ![Repos](https://img.shields.io/badge/Repositories-23-F29111?style=for-the-badge&labelColor=D83B01) -->
+<!-- ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-217346?style=for-the-badge&labelColor=00C4CC) -->
+
+[![Following](https://img.shields.io/badge/Following-{{FOLLOWING_COUNT}}-00C4CC?style=for-the-badge&logo=github)](https://github.com/rajeevgit8055hub?tab=following)
+![Following](https://img.shields.io/badge/Following-50-00C4CC?style=for-the-badge&logo=github&logoColor=white)
+
