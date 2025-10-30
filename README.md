@@ -388,3 +388,11 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd3bzhkYmZlczF4b3hxd3FpdDdzOTU0aTF6bDd4a2h1MnUwN2ZtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VbnUQpnihPSIgIXuZv/giphy.webp" width="35">&nbsp;***cat working on computer*** -->
 
+
+<!-- 🌟 BASIC STATS -->
+[![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet&style=for-the-badge)](https://github.com/rajeevgit8055hub)
+[![Followers](https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=for-the-badge&logo=github)](https://github.com/rajeevgit8055hub?tab=followers)
+[![Following](https://img.shields.io/github/following/rajeevgit8055hub?label=Following&style=for-the-badge)](https://github.com/rajeevgit8055hub?tab=following)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rajeevgit8055hub.rajeevgit8055hub)
+![Repos](https://img.shields.io/badge/Repositories-23-F29111?style=for-the-badge&labelColor=D83B01)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-217346?style=for-the-badge&labelColor=00C4CC)
