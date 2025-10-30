@@ -428,10 +428,20 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![Code Size](https://img.shields.io/github/languages/code-size/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
 
 
-## 🖼️ Dynamic Profile Animations
-![Snake Animation](https://github.com/rajeevgit8055hub/rajeevgit8055hub/blob/output/github-contribution-grid-snake.svg)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&width=435&lines=Welcome+to+Rajeev's+GitHub+Universe!;Data+Analyst+%7C+Excel+%7C+Power+BI+%7C+SQL;Lifelong+Learner+%7C+Tech+Enthusiast)
+
+
+<!-- 🌟 BASIC STATS -->
+[![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet&style=for-the-badge)](https://github.com/rajeevgit8055hub)
+[![Followers](https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=for-the-badge&logo=github)](https://github.com/rajeevgit8055hub?tab=followers)
+[![Following](https://img.shields.io/github/following/rajeevgit8055hub?label=Following&style=for-the-badge)](https://github.com/rajeevgit8055hub?tab=following)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rajeevgit8055hub.rajeevgit8055hub)
+![Repos](https://img.shields.io/badge/Repositories-23-F29111?style=for-the-badge&labelColor=D83B01)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-217346?style=for-the-badge&labelColor=00C4CC)
 
 ---
+
+![Typing SVG - Thin](https://readme-typing-svg.demolab.com?font=Poppins&weight=200&size=22&pause=1000&color=00FFFF&width=900&lines=welcome+to+rajeev%27s+github+universe!;aspiring+data+analyst+%7C+Excel+Access+Power+Query+%7C+SQL+Power+BI+Tableau;VBA+%7C+Lifelong+Learner+%7C+Tech+Enthusiast)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=22&pause=1000&color=00FFFF&width=900&lines=welcome+to+rajeev%27s+github+universe!;aspiring+data+analyst+%7C+Excel+Access+Power+Query+%7C+SQL+Power+BI+Tableau;VBA+%7C+Lifelong+Learner+%7C+Tech+Enthusiast)
 
 
