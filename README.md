@@ -287,6 +287,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!--## 🏆 GitHub Trophies -->
 <img src="Trophy.gif" width="30">&nbsp;***GitHub Trophies***
+[![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&no-frame=true&no-bg=true&background=000000)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- 💎 GitHub Trophy -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&title=Stars,Commits,Followers,Repositories,PullRequest&no-frame=true&no-bg=false&bgColor=000000&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy) -->
@@ -294,8 +295,6 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
 </div> -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&no-frame=true&no-bg=true&background=000000)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- 🪪 Profile Summary Card -->
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFibGZjZjBnMWlsZzJid3Vub3V0bjd5bTJub3Z4eXFiMjRlMnMwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RKZ9KzCcxMd0k/giphy.webp" width="35">&nbsp;***Profile Summary Card***
@@ -311,13 +310,8 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <img align="right" alt="GitHub Lens" width="120" src="Lens1.gif" />
 
 <!--## 🔥 GitHub Streak -->
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDN6b2FpdG5iNXE1bjJraXc0d3hoM2h2eXhsd2xkbXh6ZWZpdjA4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FoVzfcqCDSb7zCynOp/giphy.webp" width="35">&nbsp;***GitHub Streak***
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDN6b2FpdG5iNXE1bjJraXc0d3hoM2h2eXhsd2xkbXh6ZWZpdjA4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FoVzfcqCDSb7zCynOp/giphy.webp" width="30">&nbsp;***GitHub Streak***
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark&background=000000&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark&background=000000&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark&background=000000&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
-
 
 <!--## 🔥 GitHub Streak -->
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark) -->
@@ -326,6 +320,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- ![GitHub Streak](https://github-readme-streak-stats-username.vercel.app/rajeevgit8055hub?theme=dark&hide_border=true) -->
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark) -->
 <!-- [https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark](https://github-readme-streak-stats-username.vercel.app/<YOUR_GITHUB_USERNAME>?theme=dark) -->
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark&background=000000&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak" /> -->
 
 <!--## 📈 Activity Graph -->
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgwbWpid3JycW56ZzVlcGc2aWExMzN3M25qY25pNzRoYjNqNWNobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d56Di5yqBRq9KnSZX6/giphy.webp" width="35">&nbsp;***Activity Graph***
@@ -339,7 +334,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- 🐍 Snake Contribution Animation -->
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5sc3YzYXQ1ZzI1dzNqenQ1ZmxsZzE2dDlqdzZmZ3d5bW5jajl0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEKcOWl8RMLde/giphy.webp" width="35">&nbsp;&nbsp;***Snake Contribution Animation***
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5sc3YzYXQ1ZzI1dzNqenQ1ZmxsZzE2dDlqdzZmZ3d5bW5jajl0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEKcOWl8RMLde/giphy.webp" width="30">&nbsp;&nbsp;***Snake Contribution Animation***
 <!-- ![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/output/github-contribution-grid-snake.svg) -->
 ![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/github-contribution-grid-snake.svg)
 
