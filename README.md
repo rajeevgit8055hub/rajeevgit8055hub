@@ -349,9 +349,9 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- ✍️ Code Snippet 
 ➡️ [Open Gist](https://gist.github.com/rajeevgit8055hub) -->
 
-<!-- ![Typing SVG - Thin](https://readme-typing-svg.demolab.com?font=Poppins&weight=200&size=22&pause=1000&color=00FFFF&width=900&lines=welcome+to+rajeev%27s+github+universe!;aspiring+data+analyst+%7C+Excel+Access+Power+Query+%7C+SQL+Power+BI+Tableau;VBA+%7C+Lifelong+Learner+%7C+Tech+Enthusiast) -->
+![Typing SVG - Thin](https://readme-typing-svg.demolab.com?font=Poppins&weight=200&size=22&pause=1000&color=00FFFF&width=900&lines=welcome+to+rajeev%27s+github+universe!;aspiring+data+analyst+%7C+Excel+Access+Power+Query+%7C+SQL+Power+BI+Tableau;VBA+%7C+Lifelong+Learner+%7C+Tech+Enthusiast)
 
-<!-- ![Typing SVG - Thick](https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=22&pause=1000&color=00FFFF&width=900&lines=welcome+to+rajeev%27s+github+universe!;aspiring+data+analyst+%7C+Excel+Access+Power+Query+%7C+SQL+Power+BI+Tableau;VBA+%7C+Lifelong+Learner+%7C+Tech+Enthusiast) -->
+![Typing SVG - Thick](https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=22&pause=1000&color=00FFFF&width=900&lines=welcome+to+rajeev%27s+github+universe!;aspiring+data+analyst+%7C+Excel+Access+Power+Query+%7C+SQL+Power+BI+Tableau;VBA+%7C+Lifelong+Learner+%7C+Tech+Enthusiast)
 
 
 <!-- Dynamic Repositories Badge (Enable Later) -->
