@@ -269,7 +269,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
   </a>
 </p>
 
-<img src="Green Bulb" width="30" alt="Green Bulb.gif"/>
+<img src="Green Bulb.gif" width="30" alt="Green Bulb.gif"/>
 💡 A curated collection of short, practical code examples — from Excel formulas to SQL queries, Power BI logic, and mini analytical experiments. 
 <img src="" width="30" alt="Green Code1.gif"/>
 📘 Each snippet reflects my daily learning, logical thinking, and problem-solving approach.
@@ -358,7 +358,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+GitHub+profile!;Let’s+connect+and+grow+together+in+the+data+world+🚀;Feel+free+to+check+out+my+repositories+and+ongoing+projects.)](https://git.io/typing-svg)
 
 <p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB4a3Z2b3Z1N3Y3NjVjYXpzdmw3NG9rMDRrbGdqYWdpODI3bGtzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26tn33aiTi1jkl6H6/giphy.gif" width="50" alt="Contribution Pulse Animation"> <img width="50" alt="Contribution Pulse"src="Contribution.gif"><img width="40" alt="Contribution Pulse"src="Pulse.gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB4a3Z2b3Z1N3Y3NjVjYXpzdmw3NG9rMDRrbGdqYWdpODI3bGtzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26tn33aiTi1jkl6H6/giphy.gif" width="50" alt="Contribution Pulse Animation"> <img width="150" alt="Contribution Pulse"src="Contribution.gif"><img width="60" alt="Contribution Pulse"src="Pulse.gif">
 </p>
 
 <!-- 🧠 Contribution Pulse -->
