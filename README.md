@@ -114,7 +114,6 @@ and delivering data-driven solutions that create real business impact.
 ![Business Insights](https://img.shields.io/badge/Business%20Insights-2F4F4F?style=for-the-badge&logo=bar-chart&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajeevgit8055hub)
-![VS Code](https://img.shields.io/badge/Editor-VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code)
 ![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 ![Data Cleaning & Transformation](https://img.shields.io/badge/Data%20Cleaning%20%26%20Transformation-4682B4?style=for-the-badge&logo=powerbi&logoColor=white)
 <!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)-->
@@ -429,6 +428,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![Code Size](https://img.shields.io/github/languages/code-size/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
 
 
-
+## 🎯 GitHub Metrics
+![Metrics](https://metrics.lecoq.io/rajeevgit8055hub?template=classic&config.timezone=Asia%2FKolkata)
 
 
