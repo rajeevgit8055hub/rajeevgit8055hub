@@ -448,22 +448,24 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 
 
-<!-- 🧠 CONTRIBUTION STATS -->
-![GitHub Stars](https://img.shields.io/github/stars/rajeevgit8055hub?affiliations=OWNER&style=for-the-badge&logo=github)
-![GitHub Forks](https://img.shields.io/github/forks/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=git)
-![Commits](https://badgen.net/github/commits/rajeevgit8055hub/rajeevgit8055hub?icon=github&label=Total%20Commits)
-![Contributions](https://badgen.net/badge/Contributions/Active/green?icon=github)
-![PRs](https://img.shields.io/github/issues-pr/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=github)
-![Issues](https://img.shields.io/github/issues/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=git)
-![Repo Size](https://img.shields.io/github/repo-size/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
-![Code Size](https://img.shields.io/github/languages/code-size/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
-![Deployment](https://img.shields.io/badge/Deployment-Auto-brightgreen?style=for-the-badge&logo=vercel&labelColor=brightgreen&color=brightgreen&logoColor=black)
-![Security](https://img.shields.io/badge/Security-Verified-brightgreen?style=for-the-badge&logo=github&labelColor=brightgreen&color=brightgreen&logoColor=black)
-![Code Quality](https://img.shields.io/badge/Code%20Quality-A%2B-brightgreen?style=for-the-badge&logo=github&labelColor=brightgreen&color=brightgreen&logoColor=black)
-![Build Status](https://img.shields.io/badge/Build-Passing-success?style=for-the-badge&logo=githubactions&logoColor=white)
-![Verified Author](https://img.shields.io/badge/Author-Verified-blueviolet?style=for-the-badge&logo=github)
-![Integrity Checked](https://img.shields.io/badge/Integrity-Checked-brightgreen?style=for-the-badge&logo=trustpilot&labelColor=brightgreen&color=brightgreen&logoColor=black)
-![Project Status](https://img.shields.io/badge/Status-Stable-00C4CC?style=for-the-badge&logo=dependabot)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB4a3Z2b3Z1N3Y3NjVjYXpzdmw3NG9rMDRrbGdqYWdpODI3bGtzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26tn33aiTi1jkl6H6/giphy.gif" width="600" alt="Contribution Pulse Animation">
+</p>
 
 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB4a3Z2b3Z1N3Y3NjVjYXpzdmw3NG9rMDRrbGdqYWdpODI3bGtzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26tn33aiTi1jkl6H6/giphy.gif" width="600" alt="Contribution Pulse Animation">
+</p>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRsZzdsbGsyazJkM3R4cXg3ZGNzYnA4MWRjYWg1d3A3OHlyOXJ3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l41lZxzroU33typuU/giphy.gif" width="600" alt="Contribution Pulse Animation">
+</p>
+
+
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN6d2k5bGdyeDA5OXk5eG5vcmR4bXl1ZXUweTFsY2h1emZkdnZoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tXL4FHPSnVJ0A/giphy.gif" width="600" alt="Contribution Pulse Animation">
+</p>
