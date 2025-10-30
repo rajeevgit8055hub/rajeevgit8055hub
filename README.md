@@ -387,3 +387,148 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmM5aTViZGEzMmYyZW1yMTZ2b3FwaHFmM2Uyc29uZ21iNmY1OG5rNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZVik7pBtu9dNS/giphy.webp" width="35">&nbsp;***GitHub Stats*** -->
 
 <!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd3bzhkYmZlczF4b3hxd3FpdDdzOTU0aTF6bDd4a2h1MnUwN2ZtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VbnUQpnihPSIgIXuZv/giphy.webp" width="35">&nbsp;***cat working on computer*** -->
+
+
+
+
+
+
+
+
+<!-- 🌟 BASIC STATS -->
+[![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet&style=for-the-badge)](https://github.com/rajeevgit8055hub)
+[![Followers](https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=for-the-badge&logo=github)](https://github.com/rajeevgit8055hub?tab=followers)
+[![Following](https://img.shields.io/github/following/rajeevgit8055hub?label=Following&style=for-the-badge)](https://github.com/rajeevgit8055hub?tab=following)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rajeevgit8055hub.rajeevgit8055hub)
+![Repos](https://img.shields.io/badge/Repositories-23-F29111?style=for-the-badge&labelColor=D83B01)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-217346?style=for-the-badge&labelColor=00C4CC)
+
+---
+
+<!-- 🧠 CONTRIBUTION STATS -->
+![GitHub Stars](https://img.shields.io/github/stars/rajeevgit8055hub?affiliations=OWNER&style=for-the-badge&logo=github)
+![GitHub Forks](https://img.shields.io/github/forks/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=git)
+![Commits](https://badgen.net/github/commits/rajeevgit8055hub/rajeevgit8055hub?icon=github&label=Total%20Commits)
+![Contributions](https://badgen.net/badge/Contributions/Active/green?icon=github)
+![PRs](https://img.shields.io/github/issues-pr/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=github)
+![Issues](https://img.shields.io/github/issues/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=git)
+![Repo Size](https://img.shields.io/github/repo-size/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
+![Code Size](https://img.shields.io/github/languages/code-size/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
+![Lines of Code](https://img.shields.io/tokei/lines/github/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
+
+---
+
+<!-- ⚙️ ACTIVITY BADGES -->
+![Forks](https://img.shields.io/badge/Forks-Active-F29111?style=for-the-badge&labelColor=D83B01)
+![Clones](https://img.shields.io/badge/Clones-Enabled-00C4CC?style=for-the-badge&logo=git)
+![Projects](https://img.shields.io/badge/Projects-10%2B-blue?style=for-the-badge&logo=github)
+![Stars Earned](https://img.shields.io/badge/Stars-100%2B-yellow?style=for-the-badge&logo=github)
+![Profile Rank](https://img.shields.io/badge/Profile%20Rank-Top%201%-brightgreen?style=for-the-badge)
+![GitHub Join Date](https://badgen.net/badge/Joined/February%202023/purple)
+![Commits/Year](https://badgen.net/badge/Commits%20in%202025/1000%2B/orange)
+![Workflows](https://img.shields.io/github/actions/workflow/status/rajeevgit8055hub/main.yml?style=for-the-badge&label=CI%2FCD)
+
+---
+
+<!-- 💻 TECH & LANGUAGES -->
+![Languages Used](https://img.shields.io/github/languages/count/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
+![Top Language](https://img.shields.io/github/languages/top/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
+![HTML](https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/Style-CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/Logic-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Scripting-Python-3776AB?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/Database-SQL-lightgrey?style=for-the-badge&logo=postgresql)
+![Excel](https://img.shields.io/badge/Analytics-Excel-217346?style=for-the-badge&logo=microsoft-excel)
+![PowerBI](https://img.shields.io/badge/Dashboard-PowerBI-F2C811?style=for-the-badge&logo=power-bi)
+
+---
+
+<!-- 🏆 EXTRA BADGES -->
+![License](https://img.shields.io/github/license/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
+![Build Status](https://img.shields.io/github/actions/workflow/status/rajeevgit8055hub/ci.yml?style=for-the-badge)
+![Deployment](https://img.shields.io/badge/Deployment-Auto-green?style=for-the-badge&logo=vercel)
+![Security](https://img.shields.io/badge/Security-Verified-brightgreen?style=for-the-badge&logo=github)
+![Inspiration](https://img.shields.io/badge/Inspiration-🔥_Always_Learning-red?style=for-the-badge)
+
+
+<!-- 🧭 NAVIGATION LINKS -->
+<p align="center">
+  <a href="#-github-stats">📊 Stats</a> •
+  <a href="#-trophies">🏆 Trophies</a> •
+  <a href="#-activity-graph">⚡ Activity</a> •
+  <a href="#-streak">🔥 Streak</a> •
+  <a href="#-tech-stack">💻 Tech Stack</a> •
+  <a href="#-badges">🎯 Badges</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+![Rajeev’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FFFF)
+
+---
+
+## 🏆 Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=darkhub&margin-w=10&no-frame=true&row=1)
+
+---
+
+## ⚡ Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajeevgit8055hub&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
+
+---
+
+## 🔥 Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=tokyonight&background=000000&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=AAAAAA)
+
+---
+
+## 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Access](https://img.shields.io/badge/MS%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-4472C4?style=for-the-badge&logo=microsoft&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code)
+![GitHub](https://img.shields.io/badge/VersionControl-GitHub-181717?style=for-the-badge&logo=github)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Canva](https://img.shields.io/badge/Design-Canva-00C4CC?style=for-the-badge&logo=canva)
+
+---
+
+## 🎯 GitHub Metrics
+![Metrics](https://metrics.lecoq.io/rajeevgit8055hub?template=classic&config.timezone=Asia%2FKolkata)
+
+---
+
+## 🧩 Developer Badges
+![Contributor](https://img.shields.io/badge/Contributor-Active-00C4CC?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Lover-2ECC71?style=for-the-badge)
+![Bug Hunter](https://img.shields.io/badge/Bug%20Hunter-Debugger-F4B400?style=for-the-badge)
+![Code Reviewer](https://img.shields.io/badge/Code%20Reviewer-Insightful-00ADEF?style=for-the-badge)
+![Team Player](https://img.shields.io/badge/Team%20Player-Collaborative-6A1B9A?style=for-the-badge)
+![Continuous Learner](https://img.shields.io/badge/Learning-Always-FFA500?style=for-the-badge)
+![Problem Solver](https://img.shields.io/badge/Problem%20Solver-Analytical-217346?style=for-the-badge)
+
+---
+
+## 🖼️ Dynamic Profile Animations
+![Snake Animation](https://github.com/rajeevgit8055hub/rajeevgit8055hub/blob/output/github-contribution-grid-snake.svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&width=435&lines=Welcome+to+Rajeev's+GitHub+Universe!;Data+Analyst+%7C+Excel+%7C+Power+BI+%7C+SQL;Lifelong+Learner+%7C+Tech+Enthusiast)
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajeevgit8055hub)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rajeevgit8055hub)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox)](https://rajeevgit8055hub.github.io)
+[![Gmail](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeevdatahub@gmail.com)
+
