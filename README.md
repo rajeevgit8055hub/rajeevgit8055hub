@@ -448,7 +448,6 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 
 
-
 <!-- 🧠 CONTRIBUTION STATS -->
 ![GitHub Stars](https://img.shields.io/github/stars/rajeevgit8055hub?affiliations=OWNER&style=for-the-badge&logo=github)
 ![GitHub Forks](https://img.shields.io/github/forks/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=git)
@@ -459,10 +458,12 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![Last Commit](https://img.shields.io/github/last-commit/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=git)
 ![Repo Size](https://img.shields.io/github/repo-size/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
 ![Code Size](https://img.shields.io/github/languages/code-size/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
-![Deployment](https://img.shields.io/badge/Deployment-Auto-brightgreen?style=for-the-badge&logo=vercel&labelColor=brightgreen&color=brightgreen&logoColor=black&labelColor=brightgreen)
-![Security](https://img.shields.io/badge/Security-Verified-brightgreen?style=for-the-badge&logo=github&color=brightgreen&labelColor=brightgreen&logoColor=black)
-![Code Quality](https://img.shields.io/badge/Code%20Quality-A%2B-brightgreen?style=for-the-badge&logo=github&color=brightgreen&labelColor=brightgreen&logoColor=black)
+![Deployment](https://img.shields.io/badge/Deployment-Auto-brightgreen?style=for-the-badge&logo=vercel&labelColor=brightgreen&color=brightgreen&logoColor=black)
+![Security](https://img.shields.io/badge/Security-Verified-brightgreen?style=for-the-badge&logo=github&labelColor=brightgreen&color=brightgreen&logoColor=black)
+![Code Quality](https://img.shields.io/badge/Code%20Quality-A%2B-brightgreen?style=for-the-badge&logo=github&labelColor=brightgreen&color=brightgreen&logoColor=black)
 ![Build Status](https://img.shields.io/badge/Build-Passing-success?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Verified Author](https://img.shields.io/badge/Author-Verified-blueviolet?style=for-the-badge&logo=github)
-![Integrity Checked](https://img.shields.io/badge/Integrity-Checked-brightgreen?style=for-the-badge&logo=trustpilot&color=brightgreen&labelColor=brightgreen&logoColor=black)
+![Integrity Checked](https://img.shields.io/badge/Integrity-Checked-brightgreen?style=for-the-badge&logo=trustpilot&labelColor=brightgreen&color=brightgreen&logoColor=black)
 ![Project Status](https://img.shields.io/badge/Status-Stable-00C4CC?style=for-the-badge&logo=dependabot)
+
+
