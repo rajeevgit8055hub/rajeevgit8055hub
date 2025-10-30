@@ -411,11 +411,29 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFwc3FvM3BtcDQ4ajRzOXlvaXQyNTlmcmlzOHNjNGc1Y3RzZWR1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VbnUQpnihPSIgIXuZv/giphy.webp" width="35">&nbsp;***Snake Contribution Animation***
 
-<img src="https://media2.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="35">&nbsp;***Snake Contribution Animation***
 
 
-![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-contribution-grid-snake.svg)
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="60" alt="Snake animation"> &nbsp;***Snake Contribution Animation***
+<img src="https://clipart-library.com/images/8c9Xgq7xi.png" width="60" alt="Cute snake"> &nbsp;***Snake Contribution Animation***
+<img src="https://cartoons.co/wp-content/uploads/2019/10/snake-animated.gif" width="60" alt="Coder snake"> &nbsp;***Snake Contribution Animation***
 
-![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-contribution-grid-snake.svg)
+<span style="display:inline-flex;align-items:center;gap:8px">
+  <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" aria-hidden="true">
+    <!-- trophy cup -->
+    <path d="M7 3h10v4a5 5 0 0 1-5 5 5 5 0 0 1-5-5V3z" fill="#FFD166"/>
+    <!-- left handle -->
+    <path d="M4 5c0 2 1.5 3.5 3 3.5v-1C6.2 7.5 5 6.6 5 5.5S6.2 3.5 7 3v-1C5.5 2 4 3.5 4 5z" fill="#F4A261" opacity="0.9"/>
+    <!-- right handle (mirrored) -->
+    <path d="M20 5c0 2-1.5 3.5-3 3.5v-1c1.8 0 3-0.9 3-2s-1.2-2.5-2-2.5V3c1 0 2 1.5 2 2z" fill="#F4A261" opacity="0.9"/>
+    <!-- base -->
+    <rect x="9" y="13.5" width="6" height="2.5" rx="0.5" fill="#E07A5F"/>
+    <rect x="8" y="16" width="8" height="1.5" rx="0.4" fill="#D46A4A"/>
+    <!-- subtle shadow -->
+    <ellipse cx="12" cy="18.9" rx="4" ry="0.6" fill="#000" opacity="0.08"/>
+  </svg>
+
+  <strong style="font-family:system-ui,Segoe UI,Roboto,Arial,sans-serif">***GitHub Trophies***</strong>
+</span>
+
 
 
