@@ -18,6 +18,33 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 ![Open Source](https://img.shields.io/badge/OS-Contributor-217346?style=for-the-badge&labelColor=00C4CC)
 ![Repositories](https://img.shields.io/badge/Repositories-23-F29111?style=for-the-badge&labelColor=D83B01)
 
+
+<!-- 🌐 Repository Views -->
+![Repository Views](https://img.shields.io/badge/Repository%20Views-1.2k-1E90FF?style=for-the-badge&logo=github&logoColor=white)
+
+<!-- 👥 Unique Visitors -->
+![Unique Visitors](https://img.shields.io/badge/Unique%20Visitors-800-FF69B4?style=for-the-badge&logo=github&logoColor=white)
+
+<!-- 📦 Clones -->
+![Clones](https://img.shields.io/badge/Clones-340-FFA500?style=for-the-badge&logo=git&logoColor=white)
+
+<!-- 🍴 Forks -->
+![Forks](https://img.shields.io/badge/Forks-45-32CD32?style=for-the-badge&logo=git&logoColor=white)
+
+<!-- ⭐ Stars -->
+![Stars](https://img.shields.io/badge/Stars-120-FFD700?style=for-the-badge&logo=github&logoColor=black)
+
+<!-- 🔗 Referrers -->
+![Referrers](https://img.shields.io/badge/Top%20Referrers-GitHub%20Search-9370DB?style=for-the-badge&logo=google&logoColor=white)
+
+<!-- 🧠 Contributions -->
+![Contributions](https://img.shields.io/badge/Contributions-2.3k-00CED1?style=for-the-badge&logo=githubactions&logoColor=white)
+
+<!-- 🪪 Bio / About -->
+![About Me](https://img.shields.io/badge/Bio-Creative%20Open%20Source%20Developer-FF4500?style=for-the-badge&logo=aboutdotme&logoColor=white)
+
+
+
 <!-- LinkedIn profile badge -->
 <!-- teal -->
 <a href="https://in.linkedin.com/in/rajeev-tiwari123">
