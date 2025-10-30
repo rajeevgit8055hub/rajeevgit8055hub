@@ -412,14 +412,16 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![Code Size](https://img.shields.io/github/languages/code-size/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
 ![Lines of Code](https://img.shields.io/tokei/lines/github/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
 
-<!-- ⚙️ ACTIVITY BADGES -->
-![Forks](https://img.shields.io/badge/Forks-Active-F29111?style=for-the-badge&labelColor=D83B01)
-![Clones](https://img.shields.io/badge/Clones-Enabled-00C4CC?style=for-the-badge&logo=git)
-![Projects](https://img.shields.io/badge/Projects-10%2B-blue?style=for-the-badge&logo=github)
-![Stars Earned](https://img.shields.io/badge/Stars-100%2B-yellow?style=for-the-badge&logo=github)
-![Profile Rank](https://img.shields.io/badge/Profile%20Rank-Top%201%-brightgreen?style=for-the-badge)
-![GitHub Join Date](https://badgen.net/badge/Joined/February%202023/purple)
-![Commits/Year](https://badgen.net/badge/Commits%20in%202025/1000%2B/orange)
-![Workflows](https://img.shields.io/github/actions/workflow/status/rajeevgit8055hub/main.yml?style=for-the-badge&label=CI%2FCD)
+!-- 💻 TECH & LANGUAGES -->
+![Languages Used](https://img.shields.io/github/languages/count/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
+![Top Language](https://img.shields.io/github/languages/top/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
+![HTML](https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/Style-CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/Logic-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Scripting-Python-3776AB?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/Database-SQL-lightgrey?style=for-the-badge&logo=postgresql)
+![Excel](https://img.shields.io/badge/Analytics-Excel-217346?style=for-the-badge&logo=microsoft-excel)
+![PowerBI](https://img.shields.io/badge/Dashboard-PowerBI-F2C811?style=for-the-badge&logo=power-bi)
+
 
 
