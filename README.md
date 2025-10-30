@@ -594,3 +594,58 @@ A glimpse into my Power Query transformations 👇
   <i>“Data is not just numbers — it's the language of business.”</i><br>
   <b>— Rajeev Tiwari</b>
 </p>
+
+## 🎧 Currently Listening To  
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/)
+
+![Coding Playlist](https://media.giphy.com/media/26xBukh1fV6gkMZ7S/giphy.gif)
+
+## 🧬 My Tech DNA
+
+🟩 Excel — Data Transformation  
+🟦 SQL — Query Logic  
+🟨 Power BI — Storytelling  
+🟪 Power Query — Cleansing Engine  
+🟥 HTML + CSS — UI Foundation  
+🟧 GitHub — Version Intelligence  
+⬛ Python — Future Integration
+
+## 🛰️ Mission Control Center
+🟢 Status: ACTIVE  
+🧭 Current Mission: Building Data Universe 🌌  
+🧰 Tools: Power Query | SQL | Power BI | Excel | Access  
+📡 Transmission: Daily Commits & Projects Updates  
+🪐 Next Launch: Advanced Power BI Automation Series  
+
+## 🌌 My Tech Orbit
+
+☀️ **Core Planet:** Power Query  
+🌍 **Orbit 1:** Excel | Power BI | SQL | Access  
+🌙 **Orbit 2:** Python | HTML | CSS | GitHub  
+🌠 **Orbit 3:** Tableau | VBA | Canva | Notion  
+
+
+## 🏆 Wall of Fame
+
+| Project | Description | 🌟 Stars |
+|----------|--------------|----------|
+| Multi-Extension Data Cleaner | Power Query + Excel | ⭐⭐⭐⭐ |
+| Business Insights Dashboard | Power BI | ⭐⭐⭐⭐⭐ |
+| SQL Practice Script Hub | PostgreSQL | ⭐⭐⭐⭐ |
+| Portfolio Website | HTML + CSS | ⭐⭐⭐⭐ |
+
+![3D Contributions](./profile-3d-contrib/profile-south-view.svg)
+
+![Heatmap](https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/profile-3d-contrib/profile-night-rainbow.svg)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=true&width=800&lines=Building+Automation+through+Excel+and+Power+Query!;Translating+Data+into+Business+Decisions!;Learning%2C+Creating%2C+Inspiring!)
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-49c3-a5de-21b58f9c22a5.gif" width="100%">
+</p>
+<p align="center">
+  <b>✨ Crafted with ❤️ by Rajeev Tiwari ✨</b>
+</p>
+
+
