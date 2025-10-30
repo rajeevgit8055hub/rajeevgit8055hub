@@ -374,9 +374,9 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![Security](https://img.shields.io/badge/Security-Verified-brightgreen?style=for-the-badge&logo=github)
 ![Code Quality](https://img.shields.io/badge/Code%20Quality-A%2B-brightgreen?style=for-the-badge&logo=github)
 ![Build Status](https://img.shields.io/badge/Build-Passing-success?style=for-the-badge&logo=githubactions&logoColor=white)
-![Verified Author](https://img.shields.io/badge/Author-Verified-blueviolet?style=for-the-badge&logo=github)
 ![Integrity Checked](https://img.shields.io/badge/Integrity-Checked-brightgreen?style=for-the-badge&logo=trustpilot)
 ![Project Status](https://img.shields.io/badge/Status-Stable-00C4CC?style=for-the-badge&logo=dependabot)
+![Verified Author](https://img.shields.io/badge/Author-Verified-blueviolet?style=for-the-badge&logo=github)
 
 <!-- Typing Animation / 🤝 Thanks for Visiting! -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+GitHub+profile!;Let’s+connect+and+grow+together+in+the+data+world+🚀;Feel+free+to+check+out+my+repositories+and+ongoing+projects.)](https://git.io/typing-svg)
