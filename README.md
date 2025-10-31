@@ -333,7 +333,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <img align="right" alt="GitHub Lens" width="120" src="Lens1.gif" />
 
 <!--## 🔥 GitHub Streak -->
-<img src="Color Loading.gif" alt="Streak" width="30">&nbsp;***GitHub Streak***
+<img src="Color Loading.gif" alt="Streak" width="40">&nbsp;***GitHub Streak***
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark&background=000000&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA)
 
 <!--## 🔥 GitHub Streak -->
