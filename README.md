@@ -365,7 +365,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+GitHub+profile!;Let’s+connect+and+grow+together+in+the+data+world+🚀;Feel+free+to+check+out+my+repositories+and+ongoing+projects.)](https://git.io/typing-svg) -->
 
 <!-- 🧠 Contribution Pulse -->
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40" alt="Contribution Pulse Animation">&nbsp;***Contribution Pulse***<img width="60" alt="Contribution Pulse"src="Pulse.gif">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40" alt="Contribution Pulse Animation">&nbsp;***Contribution Pulse***<img width="50" alt="Contribution Pulse" src="Pulse.gif">
 
 <!-- https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB4a3Z2b3Z1N3Y3NjVjYXpzdmw3NG9rMDRrbGdqYWdpODI3bGtzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26tn33aiTi1jkl6H6/giphy.gif -->
 <!-- 🧠 Contribution Pulse -->
