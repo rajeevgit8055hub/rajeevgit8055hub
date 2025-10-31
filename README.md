@@ -25,6 +25,15 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 </a>
 <!-- </p> -->
 
+
+<a href="https://in.linkedin.com/in/rajeev-tiwari123">
+  <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-2F4F4F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://github.com/rajeevgit8055hub">
+  <img src="https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</a>
+
+
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&label=Profile%20Views&color=8A2BE2&style=for-the-badge) -->
 <!-- [![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet)](https://github.com/rajeevgit8055hub) -->
 <!-- [![Followers](https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=social)](https://github.com/rajeevgit8055hub?tab=followers) -->
