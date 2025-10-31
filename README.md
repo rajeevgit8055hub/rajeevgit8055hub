@@ -469,21 +469,18 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=tokyonight&background=000000&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=AAAAAA) -->
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/rajeevgit8055hub)
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=github_dark&combine_all_yearly_contributions=true) -->
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) -->
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=github_dark&combine_all_yearly_contributions=true) -->
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true) -->
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=highcontrast&combine_all_yearly_contributions=true) -->
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) -->
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=vision_friendly_dark&combine_all_yearly_contributions=true) -->
 
-![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-
-![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
-![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
-![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=vision_friendly_dark&combine_all_yearly_contributions=true)
 ![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
-[![Buy Me a Coffee](https://img.shields.io/badge/☕-Support%20Me-orange)](https://www.buymeacoffee.com/rajeevtiwari)
 <a href="https://buymeacoffee.com/rajeevtiwari" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me A Coffee">
 </a>
