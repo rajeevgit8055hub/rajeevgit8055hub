@@ -333,7 +333,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <img align="right" alt="GitHub Lens" width="120" src="Lens1.gif" />
 
 <!--## 🔥 GitHub Streak -->
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDN6b2FpdG5iNXE1bjJraXc0d3hoM2h2eXhsd2xkbXh6ZWZpdjA4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FoVzfcqCDSb7zCynOp/giphy.webp" width="30">&nbsp;***GitHub Streak***
+<img src="Color Loading.gif" alt="Streak" width="30">&nbsp;***GitHub Streak***
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark&background=000000&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA)
 
 <!--## 🔥 GitHub Streak -->
@@ -365,7 +365,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+GitHub+profile!;Let’s+connect+and+grow+together+in+the+data+world+🚀;Feel+free+to+check+out+my+repositories+and+ongoing+projects.)](https://git.io/typing-svg) -->
 
 <!-- 🧠 Contribution Pulse -->
-<h2><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50" alt="Contribution Pulse Animation">Contribution Pulse<img width="60" alt="Contribution Pulse"src="Pulse.gif"></h2>
+<h2><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40" alt="Contribution Pulse Animation">Contribution Pulse<img width="60" alt="Contribution Pulse"src="Pulse.gif"></h2>
 
 <!-- https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB4a3Z2b3Z1N3Y3NjVjYXpzdmw3NG9rMDRrbGdqYWdpODI3bGtzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26tn33aiTi1jkl6H6/giphy.gif -->
 <!-- 🧠 Contribution Pulse -->
@@ -438,6 +438,8 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmM5aTViZGEzMmYyZW1yMTZ2b3FwaHFmM2Uyc29uZ21iNmY1OG5rNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZVik7pBtu9dNS/giphy.webp" width="35">&nbsp;***GitHub Stats*** -->
 
 <!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd3bzhkYmZlczF4b3hxd3FpdDdzOTU0aTF6bDd4a2h1MnUwN2ZtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VbnUQpnihPSIgIXuZv/giphy.webp" width="35">&nbsp;***cat working on computer*** -->
+
+<!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDN6b2FpdG5iNXE1bjJraXc0d3hoM2h2eXhsd2xkbXh6ZWZpdjA4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FoVzfcqCDSb7zCynOp/giphy.webp" width="30">&nbsp;***color computer*** -->
 
 <!-- Gif end -->
 
