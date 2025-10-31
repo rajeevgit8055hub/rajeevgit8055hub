@@ -72,7 +72,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 
 <!-- 👤 About Me -->
 <!-- <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50"> -->
-<img src="Biometric.gif" width="50"><img src="About me1.gif" width="100">
+<img src="Biometric.gif" width="50"><img src="About me1.gif" width="150">
 <!-- <h2><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30">👨‍💼 About Me</h2> -->
 <img align="right" alt="Boy working on computer" width="400" src="Blue Boy.gif" />
 
