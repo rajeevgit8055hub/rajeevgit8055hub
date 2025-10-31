@@ -271,7 +271,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- ## 🧠 Code Snippets  -->
-<img src="Green Code1.gif" width="40" alt="Green Code1"/><img src="Box.gif" width="40" alt="Box"/><img width="100" height="50" alt="GitHub" src="Snippets.jpg" />&nbsp;***GitHub Gist — Code Snippets***
+<img src="Green Code1.gif" width="40" alt="Green Code1"/><img src="Box.gif" width="40" alt="Box"/><img width="100" height="50" alt="GitHub" src="Snippets.jpg" />&nbsp;***GitHub Gist***
 <p align="center">
   <a href="https://gist.github.com/rajeevgit8055hub" target="_blank">
     <img src="https://img.shields.io/badge/Open%20Gist%20Now-Explore%20My%20Code%20Snippets-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1B1B1B&color=00FFFF" alt="Open Gist"/>
