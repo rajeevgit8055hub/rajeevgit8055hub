@@ -19,7 +19,6 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
     <img src="https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=for-the-badge&color=00C4CC&logo=github" alt="Followers"/>
   </a>
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source Contributor"/>
-<!-- LinkedIn profile badge -->
 <!-- teal -->
 <a href="https://in.linkedin.com/in/rajeev-tiwari123">
   <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-008080?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
@@ -35,7 +34,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <!-- ![Following](https://img.shields.io/badge/Following-5-00C4CC?style=for-the-badge&logo=github&logoColor=white) -->
 
 
-
+<!-- LinkedIn profile badge -->
 <!-- purple
 <a href="https://in.linkedin.com/in/rajeev-tiwari123">
   <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-purple?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
