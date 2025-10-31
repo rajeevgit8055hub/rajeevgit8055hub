@@ -470,12 +470,12 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 
 
-<img width="30" alt="GitHub" src="Gist.jpg" />
-<img width="30" alt="GitHub" src="Gist.png" />
-<img width="30" alt="GitHub" src="Hellow.gif" />
-<img width="30" alt="GitHub" src="Github Gist.webp" />
-<img width="30" alt="GitHub" src="Circle.gif" />
-<img width="30" alt="GitHub" src="Lines.gif" />
-<img width="30" alt="GitHub" src="Snippets.jpg" />
-<img width="30" alt="GitHub" src="Snippets.gif" />
+<img width="200" alt="GitHub" src="Gist.jpg" />
+<img width="200" alt="GitHub" src="Gist.png" />
+<img width="200" alt="GitHub" src="Hellow.gif" />
+<img width="200" alt="GitHub" src="Github Gist.webp" />
+<img width="200" alt="GitHub" src="Circle.gif" />
+<img width="200" alt="GitHub" src="Lines.gif" />
+<img width="200" alt="GitHub" src="Snippets.jpg" />
+<img width="200" alt="GitHub" src="Snippets.gif" />
 <img width="30" alt="GitHub" src="Gitcolor.png" />
