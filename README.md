@@ -22,11 +22,11 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 </p>
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&label=Profile%20Views&color=8A2BE2&style=for-the-badge) -->
-[![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet)](https://github.com/rajeevgit8055hub)
-[![Followers](https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=social)](https://github.com/rajeevgit8055hub?tab=followers)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rajeevgit8055hub.rajeevgit8055hub)
-![Open Source](https://img.shields.io/badge/OS-Contributor-217346?style=for-the-badge&labelColor=00C4CC)
-![Repositories](https://img.shields.io/badge/Repositories-23-F29111?style=for-the-badge&labelColor=D83B01)
+<!-- [![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet)](https://github.com/rajeevgit8055hub) -->
+<!-- [![Followers](https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=social)](https://github.com/rajeevgit8055hub?tab=followers) -->
+<!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rajeevgit8055hub.rajeevgit8055hub) -->
+<!-- ![Open Source](https://img.shields.io/badge/OS-Contributor-217346?style=for-the-badge&labelColor=00C4CC) -->
+<!-- ![Repositories](https://img.shields.io/badge/Repositories-23-F29111?style=for-the-badge&labelColor=D83B01) -->
 <!-- ![Following](https://img.shields.io/badge/Following-5-00C4CC?style=for-the-badge&logo=github&logoColor=white) -->
 
 <!-- LinkedIn profile badge -->
@@ -34,6 +34,8 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <a href="https://in.linkedin.com/in/rajeev-tiwari123">
   <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-008080?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
 </a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet&style=for-the-badge") 
 
 <!-- purple
 <a href="https://in.linkedin.com/in/rajeev-tiwari123">
