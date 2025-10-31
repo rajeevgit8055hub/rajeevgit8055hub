@@ -271,7 +271,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- ## 🧠 Code Snippets  -->
-<img src="Green Code1.gif" width="40" alt="Green Code1"/><img src="Box.gif" width="40" alt="Box"/>&nbsp;***GitHub Gist — Code Snippets***
+<img src="Green Code1.gif" width="40" alt="Green Code1"/><img src="Box.gif" width="40" alt="Box"/><img width="100" height="50" alt="GitHub" src="Snippets.jpg" />&nbsp;***GitHub Gist — Code Snippets***
 <p align="center">
   <a href="https://gist.github.com/rajeevgit8055hub" target="_blank">
     <img src="https://img.shields.io/badge/Open%20Gist%20Now-Explore%20My%20Code%20Snippets-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1B1B1B&color=00FFFF" alt="Open Gist"/>
@@ -466,16 +466,3 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- Mediumslateblue Streak -->
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=tokyonight&background=000000&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=AAAAAA) -->
-
-
-
-
-<img width="200" alt="GitHub" src="Gist.jpg" />
-<img width="200" alt="GitHub" src="Gist.png" />
-<img width="200" alt="GitHub" src="Hellow.gif" />
-<img width="200" alt="GitHub" src="Github Gist.webp" />
-<img width="200" alt="GitHub" src="Circle.gif" />
-<img width="200" alt="GitHub" src="Lines.gif" />
-<img width="200" alt="GitHub" src="Snippets.jpg" />
-<img width="200" alt="GitHub" src="Snippets.gif" />
-<img width="30" alt="GitHub" src="Gitcolor.png" />
