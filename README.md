@@ -483,4 +483,9 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=vision_friendly_dark&combine_all_yearly_contributions=true)
 ![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
+[![Buy Me a Coffee](https://img.shields.io/badge/☕-Support%20Me-orange)](https://www.buymeacoffee.com/rajeevtiwari)
+<a href="https://buymeacoffee.com/rajeevtiwari" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me A Coffee">
+</a>
+
 
