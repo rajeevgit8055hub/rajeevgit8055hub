@@ -468,14 +468,11 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- Mediumslateblue Streak -->
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=tokyonight&background=000000&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=AAAAAA) -->
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=najirh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=najirh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://visitcount.itsvg.in/api?id=rajeevgit8055hub&icon=0&color=0)](https://visitcount.itsvg.in)
+
+ Proudly created with GPRM ( https://gprm.itsvg.in ) 
