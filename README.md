@@ -369,7 +369,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB4a3Z2b3Z1N3Y3NjVjYXpzdmw3NG9rMDRrbGdqYWdpODI3bGtzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26tn33aiTi1jkl6H6/giphy.gif -->
 <!-- 🧠 Contribution Pulse -->
-![Contributions](https://badgen.net/badge/Contributions/Active/green?icon=github)
+![Contributions](https://badgen.net/badge/Contributions/Active/darkgreen?icon=github)
 ![Commits](https://badgen.net/github/commits/rajeevgit8055hub/rajeevgit8055hub?icon=github&label=Total%20Commits)
 ![Code Quality](https://img.shields.io/badge/Code%20Quality-A%2B-brightgreen?style=for-the-badge&logo=github)
 ![Repo Size](https://img.shields.io/github/repo-size/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
