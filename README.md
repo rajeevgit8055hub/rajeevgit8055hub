@@ -1,4 +1,4 @@
-<h2><img width="30" alt="GitHub" src="Gitcolor.png" />&nbsp;Hi I'm Rajeev<img width="30" alt="Green sign" src="Green sign.gif" /></h2>
+<img width="30" alt="GitHub" src="Gitcolor.png" />&nbsp;Hi I'm ***Rajeev***<img width="30" alt="Green sign" src="Green sign.gif" />
 <!-- <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">&nbsp;Hi I'm Rajeev</h2> -->
 
 Data enthusiast exploring real-world solutions through Excel automation & BI tools.
