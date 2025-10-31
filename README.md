@@ -14,7 +14,9 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
  <!-- <p align="center"> -->
   <a href="https://github.com/rajeevgit8055hub">
     <img src="https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  </a>
+  </a> 
+  
+  ![Security](https://img.shields.io/badge/Security-Verified-brightgreen?style=for-the-badge&logo=github)
   <!-- <a href="https://github.com/rajeevgit8055hub?tab=followers">
     <img src="https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=for-the-badge&color=00C4CC&logo=github" alt="Followers"/>
   </a> -->
@@ -377,7 +379,6 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![Repo Size](https://img.shields.io/github/repo-size/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
 ![GitHub Forks](https://img.shields.io/github/forks/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=git)
 ![GitHub Stars](https://img.shields.io/github/stars/rajeevgit8055hub?affiliations=OWNER&style=for-the-badge&logo=github)
-![Security](https://img.shields.io/badge/Security-Verified-brightgreen?style=for-the-badge&logo=github)
 ![Project Status](https://img.shields.io/badge/Status-Stable-00C4CC?style=for-the-badge&logo=dependabot)
 
 <!-- 🧠 Extra Contribution Pulse -->
