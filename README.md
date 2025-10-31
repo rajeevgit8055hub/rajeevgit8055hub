@@ -399,6 +399,10 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- Typing Animation / 🤝 Thanks for Visiting! -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+GitHub+profile!;Let’s+connect+and+grow+together+in+the+data+world+🚀;Feel+free+to+check+out+my+repositories+and+ongoing+projects.)](https://git.io/typing-svg)
 
+<p align="centre"<a href="https://buymeacoffee.com/rajeevtiwari" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me A Coffee">
+</a></p>
+
 <!-- Dynamic Repositories Badge (Enable Later) -->
 <!-- ![Repositories](https://img.shields.io/github/repo-count/rajeevgit8055hub?color=blue&style=for-the-badge) -->
 <!--my_image ![GitHub Contributions](https://github.com/rajeevgit8055hub.png?tab=overview&theme=midnight-purple) -->
@@ -450,7 +454,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- Gif end -->
 
-<!-- 🌟 BASIC STATS -->
+<!-- BASIC STATS -->
 <!-- [![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet&style=for-the-badge)](https://github.com/rajeevgit8055hub) -->
 <!-- [![Followers](https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=for-the-badge&logo=github)](https://github.com/rajeevgit8055hub?tab=followers) -->
 <!-- [![Following](https://img.shields.io/github/following/rajeevgit8055hub?label=Following&style=for-the-badge)](https://github.com/rajeevgit8055hub?tab=following) -->
@@ -482,9 +486,4 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=highcontrast&combine_all_yearly_contributions=true) -->
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) -->
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=vision_friendly_dark&combine_all_yearly_contributions=true) -->
-
-<a href="https://buymeacoffee.com/rajeevtiwari" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me A Coffee">
-</a>
-
 
