@@ -11,7 +11,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 
 <!-- <img width="40" alt="GitCover" src="Gitcolor.png" /> -->
 
-<p align="center">
+<!-- <p align="center"> -->
   <a href="https://github.com/rajeevgit8055hub">
     <img src="https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
   </a>
@@ -19,7 +19,12 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
     <img src="https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=for-the-badge&color=00C4CC&logo=github" alt="Followers"/>
   </a>
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source Contributor"/>
-</p>
+<!-- LinkedIn profile badge -->
+<!-- teal -->
+<a href="https://in.linkedin.com/in/rajeev-tiwari123">
+  <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-008080?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+</a>
+<!-- </p> -->
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&label=Profile%20Views&color=8A2BE2&style=for-the-badge) -->
 <!-- [![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet)](https://github.com/rajeevgit8055hub) -->
@@ -29,13 +34,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <!-- ![Repositories](https://img.shields.io/badge/Repositories-23-F29111?style=for-the-badge&labelColor=D83B01) -->
 <!-- ![Following](https://img.shields.io/badge/Following-5-00C4CC?style=for-the-badge&logo=github&logoColor=white) -->
 
-<!-- LinkedIn profile badge -->
-<!-- teal -->
-<a href="https://in.linkedin.com/in/rajeev-tiwari123">
-  <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-008080?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet&style=for-the-badge") 
 
 <!-- purple
 <a href="https://in.linkedin.com/in/rajeev-tiwari123">
