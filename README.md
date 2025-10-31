@@ -371,13 +371,13 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- 🧠 Contribution Pulse -->
 ![Contributions](https://badgen.net/badge/Contributions/Active/green?icon=github)
 ![Commits](https://badgen.net/github/commits/rajeevgit8055hub/rajeevgit8055hub?icon=github&label=Total%20Commits)
-![Build Status](https://img.shields.io/badge/Build-Passing-success?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitHub Forks](https://img.shields.io/github/forks/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=git)
-![GitHub Stars](https://img.shields.io/github/stars/rajeevgit8055hub?affiliations=OWNER&style=for-the-badge&logo=github)
 ![Code Quality](https://img.shields.io/badge/Code%20Quality-A%2B-brightgreen?style=for-the-badge&logo=github)
 ![Repo Size](https://img.shields.io/github/repo-size/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=git)
 ![Project Status](https://img.shields.io/badge/Status-Stable-00C4CC?style=for-the-badge&logo=dependabot)
+![Build Status](https://img.shields.io/badge/Build-Passing-success?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Forks](https://img.shields.io/github/forks/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=git)
+![GitHub Stars](https://img.shields.io/github/stars/rajeevgit8055hub?affiliations=OWNER&style=for-the-badge&logo=github)
 ![Security](https://img.shields.io/badge/Security-Verified-brightgreen?style=for-the-badge&logo=github)
 
 <!-- 🧠 Extra Contribution Pulse -->
