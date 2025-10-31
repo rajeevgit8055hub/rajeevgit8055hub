@@ -11,6 +11,16 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 
 <!-- <img width="40" alt="GitCover" src="Gitcolor.png" /> -->
 
+<p align="center">
+  <a href="https://github.com/rajeevgit8055hub">
+    <img src="https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/rajeevgit8055hub?tab=followers">
+    <img src="https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=for-the-badge&color=00C4CC&logo=github" alt="Followers"/>
+  </a>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source Contributor"/>
+</p>
+
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&label=Profile%20Views&color=8A2BE2&style=for-the-badge) -->
 [![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet)](https://github.com/rajeevgit8055hub)
 [![Followers](https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=social)](https://github.com/rajeevgit8055hub?tab=followers)
@@ -473,14 +483,6 @@ Each project reflects my ability to turn raw information into meaningful, busine
   <img src="https://img.shields.io/badge/Status-Stable-00C4CC?style=for-the-badge&logo=dependabot" alt="Project Status"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/rajeevgit8055hub">
-    <img src="https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/rajeevgit8055hub?tab=followers">
-    <img src="https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=for-the-badge&color=00C4CC&logo=github" alt="Followers"/>
-  </a>
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-00C853?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source Contributor"/>
-</p>
+
 
 
