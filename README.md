@@ -223,7 +223,7 @@ and delivering data-driven solutions that create real business impact.
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- ## 📂 Featured Projects -->
-<img src="Repo.gif" alt="Projects" width="60"><img src="Web Dev1.gif" alt="Projects" width="150"><img src="Projects.gif" alt="Projects" width="150">
+<img src="Neon Columns.gif" alt="Projects" width="40"><img src="Web Dev1.gif" alt="Projects" width="150"><img src="Projects.gif" alt="Projects" width="150">
 
 <!-- Showcasing my practical experience across data and technology tools — from cleaning and transforming data to creating insightful visualizations.
 Each project reflects my ability to turn raw information into meaningful, business-ready insights.
