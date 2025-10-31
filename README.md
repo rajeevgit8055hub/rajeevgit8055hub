@@ -1,7 +1,5 @@
 <h2><img width="30" alt="GitHub" src="Gitcolor.png" />&nbsp;Hi I'm Rajeev<img width="30" alt="Green sign" src="Green sign.gif" /></h2>
 
-<img width="200" alt="GitHub" src="Rajeev.png" />
-
 <!-- <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">&nbsp;Hi I'm Rajeev</h2> -->
 
 Data enthusiast exploring real-world solutions through Excel automation & BI tools.
@@ -225,8 +223,8 @@ and delivering data-driven solutions that create real business impact.
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- ## 📂 Featured Projects -->
-<img src="Repo.gif" alt="Projects" width="50"><img src="Projects.gif" alt="Projects" width="150">
-<img src="Web Dev1.gif" alt="Projects" width="150">
+<img src="Repo.gif" alt="Projects" width="60"><img src="Web Dev1.gif" alt="Projects" width="150"><img src="Projects.gif" alt="Projects" width="150">
+
 <!-- Showcasing my practical experience across data and technology tools — from cleaning and transforming data to creating insightful visualizations.
 Each project reflects my ability to turn raw information into meaningful, business-ready insights.
 -->
