@@ -271,15 +271,15 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- ## 🧠 Code Snippets  -->
-<h2><img src="Green Code1.gif" width="50" alt="Green Code1"/>Code Snippets</h2> 
+<h2><img src="Green Code1.gif" width="40" alt="Green Code1"/>Code Snippets</h2> 
 <p align="center">
   <a href="https://gist.github.com/rajeevgit8055hub" target="_blank">
     <img src="https://img.shields.io/badge/Open%20Gist%20Now-Explore%20My%20Code%20Snippets-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1B1B1B&color=00FFFF" alt="Open Gist"/>
   </a>
 </p>
 
-<p><img src="Bulb Smile.gif" width="30" alt="Green Bulb"/>A curated collection of concise, practical code examples — spanning Excel formulas, SQL queries, VBA scripts, Power BI logic, and mini HTML-CSS analytical experiments.</p>
-<p><img src="Books.gif" width="30" alt="Book"/>Each snippet reflects my daily learning, logical thinking, and problem-solving approach.</p>
+<p><img src="Bulb Smile.gif" width="25" alt="Green Bulb"/>A curated collection of concise, practical code examples — spanning Excel formulas, SQL queries, VBA scripts, Power BI logic, and mini HTML-CSS analytical experiments.</p>
+<p><img src="Books.gif" width="25" alt="Book"/>Each snippet reflects my daily learning, logical thinking, and problem-solving approach.</p>
 
 <!-- ## 📬 Connect with Me -->
 <img alt="Orange Meter" width="80" src="Orange Loading.gif" /><img src="Contact+me.gif" width="100" alt="Connect With Me"/>
