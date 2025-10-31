@@ -475,7 +475,12 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 ![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
-<div style="background-color:#000000;padding:10px;border-radius:10px;">
-  <img src="https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=github_dark&combine_all_yearly_contributions=true" />
-</div>
+![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=vision_friendly_dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+
 
