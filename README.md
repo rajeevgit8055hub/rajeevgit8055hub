@@ -19,10 +19,11 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
     <img src="https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=for-the-badge&color=00C4CC&logo=github" alt="Followers"/>
   </a>
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source Contributor"/>
-<!-- teal -->
 <a href="https://in.linkedin.com/in/rajeev-tiwari123">
   <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-008080?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
 </a>
+<!-- teal -->
+
 <!-- </p> -->
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&label=Profile%20Views&color=8A2BE2&style=for-the-badge) -->
