@@ -457,3 +457,30 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=tokyonight&background=000000&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=AAAAAA) -->
 
 
+<!-- 📊 CONTRIBUTION PULSE -->
+<h2 align="center">⚡ Contribution Pulse ⚡</h2>
+
+<p align="center">
+  <img src="https://badgen.net/badge/Contributions/Active/green?icon=github" alt="Contributions"/>
+  <img src="https://badgen.net/github/commits/rajeevgit8055hub/rajeevgit8055hub?icon=github&label=Total%20Commits" alt="Total Commits"/>
+  <img src="https://img.shields.io/github/last-commit/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=git" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/repo-size/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge" alt="Repo Size"/>
+  <img src="https://img.shields.io/github/stars/rajeevgit8055hub?affiliations=OWNER&style=for-the-badge&logo=github" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/forks/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=git" alt="GitHub Forks"/>
+  <img src="https://img.shields.io/badge/Security-Verified-brightgreen?style=for-the-badge&logo=github" alt="Security Verified"/>
+  <img src="https://img.shields.io/badge/Code%20Quality-A%2B-brightgreen?style=for-the-badge&logo=github" alt="Code Quality"/>
+  <img src="https://img.shields.io/badge/Build-Passing-success?style=for-the-badge&logo=githubactions&logoColor=white" alt="Build Status"/>
+  <img src="https://img.shields.io/badge/Status-Stable-00C4CC?style=for-the-badge&logo=dependabot" alt="Project Status"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rajeevgit8055hub">
+    <img src="https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/rajeevgit8055hub?tab=followers">
+    <img src="https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=for-the-badge&color=00C4CC&logo=github" alt="Followers"/>
+  </a>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-00C853?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source Contributor"/>
+</p>
+
+
