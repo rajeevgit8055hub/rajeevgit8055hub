@@ -253,7 +253,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 [![Website](https://img.shields.io/badge/Website-008080?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)
 
 <!-- ## 🚀 GitHub Performance Overview -->
-<img src="Performance.gif" width="40"><img src="Github Overview.gif" height="150" width="150">&nbsp;***GitHub Performance***
+<img src="Performance.gif" width="40"><img src="Github Overview.gif" height="150" width="150">&nbsp;***GitHub Performance Overview**
 
 <!--## 🏆 GitHub Trophies -->
 <img src="Trophy1.gif" width="35">&nbsp;***GitHub Trophies***
