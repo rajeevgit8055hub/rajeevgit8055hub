@@ -226,7 +226,8 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <img src="Bulb.gif" width="40"><img src="Tips.gif" width="60">🌟 Each project embodies my commitment to transforming data and ideas into impactful outcomes — from dynamic data models and interactive dashboards to professional business presentations and insightful reports. These works reflect both technical precision and a deep understanding of business storytelling.
 
 <!-- ## 🧠 Code Snippets  -->
-<img src="Green Code1.gif" width="40" alt="Green Code1"/><img src="Box.gif" width="40" alt="Box"/><img width="100" height="50" alt="GitHub" src="Snippets.jpg" />
+<img src="Green Code1.gif" width="40" alt="Green Code1"/><img src="Box.gif" width="40" alt="Box"/><img width="100" height="50" alt="GitHub" src="Snippets.jpg" /><img src="Gist.png" width="40" alt="Green Code1"/><img src="Gist.jpg" width="40" alt="Green Code1"/>
+
 <p align="center">
   <a href="https://gist.github.com/rajeevgit8055hub" target="_blank">
     <img src="https://img.shields.io/badge/Open%20Gist%20Now-Explore%20My%20Code%20Snippets-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1B1B1B&color=00FFFF" alt="Open Gist"/>
