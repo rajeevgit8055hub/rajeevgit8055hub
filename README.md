@@ -2,13 +2,11 @@
 
 <div align="center">
   <span>
-    <img width="30" alt="GitHub" src="Gitcolor.png" style="vertical-align: middle; margin-right: 6px;" />
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=F97316&vCenter=true&width=500&lines=Hi%2C+I'm+Rajeev" alt="Typing SVG" style="vertical-align: middle; margin: 0 6px;" />
-    <img width="30" alt="Green sign" src="Green sign.gif" style="vertical-align: middle; margin-left: 6px;" />
+    <img width="30" alt="GitHub" src="Gitcolor.png" style="vertical-align: middle; margin-right: 6px;" /></span><span><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=F97316&vCenter=true&width=500&lines=Hi%2C+I'm+Rajeev" alt="Typing SVG" style="vertical-align: middle; margin: 0 6px;" /></span><span><img width="30" alt="Green sign" src="Green sign.gif" style="vertical-align: middle; margin-left: 6px;" />
   </span>
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=6500&pause=1000&color=F97316&center=true&vCenter=true&width=900&lines=Data+enthusiast+exploring+real-world+solutions+through+Excel+automation+%26+BI+tools." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=7500&pause=1000&color=F97316&center=true&vCenter=true&width=900&lines=Data+enthusiast+exploring+real-world+solutions+through+Excel+automation+%26+BI+tools." alt="Typing SVG" />
 
 <!-- <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">&nbsp;Hi I'm Rajeev</h2> -->
 
