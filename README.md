@@ -9,11 +9,20 @@
   <img src="Green sign.gif" width="28" alt="Green sign" style="vertical-align: middle;"/>
 </p>
 
+ 
+  <img src="Gitcolor.png" width="28" alt="GitHub" style="vertical-align: middle;" img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=F97316&vCenter=true&width=500&lines=Hi%2C+I'm+Rajeev" alt="Typing SVG" img src="Green sign.gif" width="28" alt="Green sign" style="vertical-align: middle;"/>
+
+
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=9000&pause=1000&color=F97316&center=true&vCenter=true&width=900&lines=Data+enthusiast+exploring+real-world+solutions+through+Excel+automation+%26+BI+tools." alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=10500&pause=1000&color=F97316&center=true&vCenter=true&width=900&lines=Data+enthusiast+exploring+real-world+solutions+through+Excel+automation+%26+BI+tools." alt="Typing SVG" />
+<!-- Typing Animation -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=11500&pause=1200&color=F97316&center=true&vCenter=true&width=900&lines=Data+enthusiast+exploring+real-world+solutions+through+Excel+automation+%26+BI+tools.)](https://git.io/typing-svg)
+
+
+
 
 
 <!-- <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">&nbsp;Hi I'm Rajeev</h2> -->
