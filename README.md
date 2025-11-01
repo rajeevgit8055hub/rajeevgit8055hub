@@ -347,9 +347,9 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/username)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([[https://linkedin.com/in/nitishsinghslg](https://www.linkedin.com/in/rajeev-tiwari123/)](https://www.linkedin.com/in/rajeev-tiwari123/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeev-tiwari123/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]([https://x.com/technologyhell](https://x.com/rajeevtiwariRT))
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/username) 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/rajeev-tiwari123/))
+
 
