@@ -375,7 +375,9 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- 🧠 Contribution Pulse -->
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40" alt="Contribution Pulse Animation">&nbsp;***Contribution Pulse***<img width="50" alt="Contribution Pulse" src="Pulse.gif">
 
-<!-- https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB4a3Z2b3Z1N3Y3NjVjYXpzdmw3NG9rMDRrbGdqYWdpODI3bGtzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26tn33aiTi1jkl6H6/giphy.gif -->
+<img src="[https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB4a3Z2b3Z1N3Y3NjVjYXpzdmw3NG9rMDRrbGdqYWdpODI3bGtzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26tn33aiTi1jkl6H6/giphy.gif" width="40" alt="Contribution Pulse Animation">&nbsp;***Contribution Pulse***<img width="50" alt="Contribution Pulse" src="Pulse.gif">
+
+
 <!-- 🧠 Contribution Pulse -->
 ![Contributions](https://badgen.net/badge/Contributions/Active/228B22?icon=github)
 ![Commits](https://badgen.net/github/commits/rajeevgit8055hub/rajeevgit8055hub?icon=github&label=Total%20Commits)
@@ -388,106 +390,12 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![GitHub Stars](https://img.shields.io/github/stars/rajeevgit8055hub?affiliations=OWNER&style=for-the-badge&logo=github)
 ![Security](https://img.shields.io/badge/Security-Verified-228B22?style=for-the-badge&logo=github)
 
-<!-- 🧠 Extra Contribution Pulse -->
-<!-- ![Issues](https://img.shields.io/github/issues/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge) -->
-<!-- ![Code Size](https://img.shields.io/github/languages/code-size/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge) -->
-<!-- ![PRs](https://img.shields.io/github/issues-pr/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=github) -->
-<!-- ![Verified Author](https://img.shields.io/badge/Author-Verified-blueviolet?style=for-the-badge&logo=github) -->
-<!-- ![Deployment](https://img.shields.io/badge/Deployment-Auto-brightgreen?style=for-the-badge&logo=vercel) -->
-<!-- ![Deployment](https://img.shields.io/badge/Deployment-Auto-brightgreen?style=for-the-badge&logo=vercel) -->
-<!-- ![Integrity Checked](https://img.shields.io/badge/Integrity-Checked-brightgreen?style=for-the-badge&logo=trustpilot) -->
-
 <!-- Typing Animation / 🤝 Thanks for Visiting! -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+GitHub+profile!;Let’s+connect+and+grow+together+in+the+data+world+🚀;Feel+free+to+check+out+my+repositories+and+ongoing+projects.)](https://git.io/typing-svg)
 
 <!-- ☕ Buy me a coffee -->
 <a href="https://buymeacoffee.com/rajeevtiwari" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee"></a> 
-
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee">
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/rajeev-tiwari123"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" height="50"/></a>
-
-<!-- Dynamic Repositories Badge (Enable Later) -->
-<!-- ![Repositories](https://img.shields.io/github/repo-count/rajeevgit8055hub?color=blue&style=for-the-badge) -->
-<!--my_image ![GitHub Contributions](https://github.com/rajeevgit8055hub.png?tab=overview&theme=midnight-purple) -->
-
-<!-- <img width="300" alt="GitCover" src="Gitcolor.png" /> -->
-<!-- <img alt="MySkills" src="Loop.gif" /> -->
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->      
-
-<!-- the end my github -->
-
-<!-- ## 🚀 GitHub Performance Overview -->
-
-<!-- Total Contributions, Join Date, Repo Count (Summary small)
-![Stats Overview](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajeevgit8055hub&theme=midnight_purple)
--->
-
-<!-- Commit Distribution Chart (Hourly/Weekly Pattern)
-![Commits Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajeevgit8055hub&theme=midnight_purple)
--->
-
-<!-- Language per Repo (Pie Style)
-![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajeevgit8055hub&theme=midnight_purple)
--->
-
-<!-- Language per Commit (Pie Style) 
-![Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajeevgit8055hub&theme=midnight_purple)
--->
-
-<!-- Gif Starts -->
-<!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZjNTh1N2d3N3h0eHh3c2p6Y3h6aGZyZjR2aTNlNHplZ3RvbXZjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Tz1KKZyZsQ0Zy/giphy.webp" width="35">&nbsp;***colors cubes*** -->
-
-<!-- <img src="Python.gif" width="35">&nbsp;***Snake Contribution Animation*** -->
-
-<!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR2Y3V0cDViZDI5ZjcwZ3N3dnE1cmZ1cnhocmtmZm5uOXVpMTc5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HUpt2s9Pclgt9Vm/giphy.webp" width="30">&nbsp;***computer screen*** -->
-
-<!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDN6b2FpdG5iNXE1bjJraXc0d3hoM2h2eXhsd2xkbXh6ZWZpdjA4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FoVzfcqCDSb7zCynOp/giphy.webp" width="35">&nbsp;***computer screen*** -->
-
-<!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpocjE0Y3ZibG5iaGh0cjd3dWtsZDY0cGd5czN2ZXg3dWxkMjh5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l1J3preURPiwjRPvG/giphy.webp" width="35">&nbsp;***boy running*** -->
-
-<!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRsdWh6Mjd0OHNydTV5YW5sNm9zbXZkOGZpN2U5OHc2bzBpYnNtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPnAiaMCws8nOsE/giphy.webp" width="35">&nbsp;***cat on laptop*** -->
-
-<!-- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFwc3FvM3BtcDQ4ajRzOXlvaXQyNTlmcmlzOHNjNGc1Y3RzZWR1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VbnUQpnihPSIgIXuZv/giphy.webp" width="35">&nbsp;***cat on laptop*** -->
-
-<!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmM5aTViZGEzMmYyZW1yMTZ2b3FwaHFmM2Uyc29uZ21iNmY1OG5rNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZVik7pBtu9dNS/giphy.webp" width="35">&nbsp;***GitHub Stats*** -->
-
-<!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd3bzhkYmZlczF4b3hxd3FpdDdzOTU0aTF6bDd4a2h1MnUwN2ZtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VbnUQpnihPSIgIXuZv/giphy.webp" width="35">&nbsp;***cat working on computer*** -->
-
-<!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDN6b2FpdG5iNXE1bjJraXc0d3hoM2h2eXhsd2xkbXh6ZWZpdjA4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FoVzfcqCDSb7zCynOp/giphy.webp" width="30">&nbsp;***color computer*** -->
-
-<!-- Gif end -->
-
-<!-- BASIC STATS -->
-<!-- [![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet&style=for-the-badge)](https://github.com/rajeevgit8055hub) -->
-<!-- [![Followers](https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=for-the-badge&logo=github)](https://github.com/rajeevgit8055hub?tab=followers) -->
-<!-- [![Following](https://img.shields.io/github/following/rajeevgit8055hub?label=Following&style=for-the-badge)](https://github.com/rajeevgit8055hub?tab=following) -->
-<!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rajeevgit8055hub.rajeevgit8055hub) -->
-<!-- ![Repos](https://img.shields.io/badge/Repositories-23-F29111?style=for-the-badge&labelColor=D83B01) -->
-<!-- ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-217346?style=for-the-badge&labelColor=00C4CC) -->
-
-<!-- Neon Github Stats -->
-<!-- ![Rajeev’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF) -->
-
-<!-- Neon Top Languages -->
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FFFF) -->
-
-<!-- Purple Trophy -->
-<!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=darkhub&margin-w=10&no-frame=true&row=1) -->
-
-<!-- Neon Activity Graph -->
-<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajeevgit8055hub&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajeevgit8055hub&theme=react-dark) -->
-
-<!-- Mediumslateblue Streak -->
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=tokyonight&background=000000&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=AAAAAA) -->
-
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=github_dark&combine_all_yearly_contributions=true) -->
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) -->
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=github_dark&combine_all_yearly_contributions=true) -->
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true) -->
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=highcontrast&combine_all_yearly_contributions=true) -->
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) -->
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=vision_friendly_dark&combine_all_yearly_contributions=true) -->
+<a href="https://www.linkedin.com/in/rajeev-tiwari123"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/></a>
 
