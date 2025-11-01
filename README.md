@@ -315,4 +315,11 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="35" height="35">
 </a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samcuxx/samcuxx/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samcuxx/samcuxx/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/samcuxx/samcuxx/output/github-snake.svg" />
+</picture>
+
+
 <!-- Then end of my GitHub profile -->
