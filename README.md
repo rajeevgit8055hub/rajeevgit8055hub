@@ -253,7 +253,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 [![Website](https://img.shields.io/badge/Website-008080?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)
 
 <!-- ## 🚀 GitHub Performance Overview -->
-<img src="Performance.gif" width="50"><img src="Github Overview.gif" height="150" width="200">
+<img src="Performance.gif" width="50"><img src="Github Overview.gif" height="150" width="200">&nbsp;***GitHub Performance Overview***
 
 <!--## 🏆 GitHub Trophies -->
 <img src="Trophy1.gif" width="35">&nbsp;***GitHub Trophies***
@@ -264,7 +264,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevgit8055hub&theme=midnight_purple)
 
 <!-- ## 📊 GitHub Stats -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***GitHub Stats***
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=midnight-purple)
 
 <!-- ## 💬 Top Languages -->
