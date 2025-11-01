@@ -287,6 +287,12 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- ![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/output/github-contribution-grid-snake.svg) -->
 ![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/github-contribution-grid-snake.svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samcuxx/samcuxx/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samcuxx/samcuxx/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/samcuxx/samcuxx/output/github-snake.svg" />
+</picture>
+
 <!-- 🧠 Contribution Pulse -->
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40" alt="Contribution Pulse Animation">&nbsp;***Contribution Pulse***<img width="50" alt="Contribution Pulse" src="Pulse.gif">
 
@@ -316,17 +322,9 @@ Each project reflects my ability to turn raw information into meaningful, busine
 </a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samcuxx/samcuxx/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samcuxx/samcuxx/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/samcuxx/samcuxx/output/github-snake.svg" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-snake.svg" />
 </picture>
-
-
 
 <!-- Then end of my GitHub profile -->
