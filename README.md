@@ -284,14 +284,15 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- 🐍 Snake Contribution Animation -->
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5sc3YzYXQ1ZzI1dzNqenQ1ZmxsZzE2dDlqdzZmZ3d5bW5jajl0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEKcOWl8RMLde/giphy.webp" width="30">&nbsp;***Snake Contribution Animation***
-<!-- ![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/output/github-contribution-grid-snake.svg) -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samcuxx/samcuxx/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samcuxx/samcuxx/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/samcuxx/samcuxx/output/github-snake.svg" />
-</picture>
+<!-- 🐍 Snake Green Pink Animation -->
+<div align="center">
+ 
+![snake gif](https://github.com/rajeevgit8055hub/rajeevgit8055hub/blob/output/github-snake-dark.svg)
+ 
+</div>
 
+<!-- 🐍 Snake Violet and Purple Animation -->
 ![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/github-contribution-grid-snake.svg)
 
 <!-- 🧠 Contribution Pulse -->
@@ -329,3 +330,9 @@ Each project reflects my ability to turn raw information into meaningful, busine
 </picture>
 
 <!-- Then end of my GitHub profile -->
+
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samcuxx/samcuxx/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samcuxx/samcuxx/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/samcuxx/samcuxx/output/github-snake.svg" />
+</picture> -->
