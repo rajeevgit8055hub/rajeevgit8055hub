@@ -33,40 +33,8 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <!-- ![Repositories](https://img.shields.io/badge/Repositories-23-F29111?style=for-the-badge&labelColor=D83B01) -->
 <!-- ![Following](https://img.shields.io/badge/Following-5-00C4CC?style=for-the-badge&logo=github&logoColor=white) -->
 
-
-<!-- LinkedIn profile badge -->
-<!-- purple
-<a href="https://in.linkedin.com/in/rajeev-tiwari123">
-  <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-purple?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-</a> -->
-
-<!-- blue
-<a href="https://in.linkedin.com/in/rajeev-tiwari123">
-  <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-</a> -->
-
-<!-- light blue
-<a href="https://in.linkedin.com/in/rajeev-tiwari123">
-  <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-4169e1?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-</a> -->
-
-<!-- charcoal black
-<a href="https://in.linkedin.com/in/rajeev-tiwari123">
-  <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-2C2C2C?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-</a> -->  
-
-<!-- violet
-<a href="https://in.linkedin.com/in/rajeev-tiwari123">
-  <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-673AB7?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-</a> -->
-
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://in.linkedin.com/in/rajeev-tiwari123) -->
-<!-- 🔗 [Connect with me on LinkedIn](https://in.linkedin.com/in/rajeev-tiwari123) -->
-
 <!-- Typing Animation -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=+Hi+everyone!;I'm+passionate+data+enthusiast.;Actively+developing+skills+in+Data+Analysis+and+Business+Intelligence.;Working+with+SQL,+Excel,+Power+BI,+and+real-world+datasets.)](https://git.io/typing-svg)
-  
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- <img align="right" alt="Boy working on computer" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" /> -->
 
@@ -82,8 +50,6 @@ Power BI, SQL, and Python, I focus on optimizing reports, automating workflows,
 and driving smarter business decisions. I’m committed to continuous learning
 and delivering data-driven solutions that create real business impact.
 
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
 <!-- 🚀 My Mission  -->
 <img src="Superhero.gif" width="50"><img src="Yellow Mission.gif" width="150">
 <!-- <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="50"><img src="Mission1.gif" width="150"> -->
@@ -97,13 +63,9 @@ and delivering data-driven solutions that create real business impact.
 - To continuously learn and apply new data technologies.
 - To contribute to data-driven decision making in organizations.
 
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
 <!-- ## 💻 Skills & Expertise -->
 <!-- <h2><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50">&nbsp;Skills & Expertise</h2> -->
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50"><img src="Skills2.gif" width="100">
-<!-- <img alt="MySkills" src="Technology1.gif" /> -->
-<!-- <img alt="MySkills" src="MySkills.png" /> -->
 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -128,11 +90,11 @@ and delivering data-driven solutions that create real business impact.
 ![Data Cleaning & Transformation](https://img.shields.io/badge/Data%20Cleaning%20%26%20Transformation-4682B4?style=for-the-badge&logo=powerbi&logoColor=white)
 <!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)-->
 <!-- ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white) -->
-<!--![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) -->
+<!-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) -->
 <!-- ![Word](https://img.shields.io/badge/Word-0078D7?style=for-the-badge&logo=microsoft-word&logoColor=white) -->
 <!-- ![CHMT](https://img.shields.io/badge/CHMT-008080?style=for-the-badge&logo=read-the-docs&logoColor=white) -->
-<!--![Publisher](https://img.shields.io/badge/Publisher-FFB000?style=for-the-badge&logo=microsoft-office&logoColor=white) -->
-<!--![OneNote](https://img.shields.io/badge/OneNote-4B3879?style=for-the-badge&logo=microsoft-onenote&logoColor=white) -->
+<!-- ![Publisher](https://img.shields.io/badge/Publisher-FFB000?style=for-the-badge&logo=microsoft-office&logoColor=white) -->
+<!-- ![OneNote](https://img.shields.io/badge/OneNote-4B3879?style=for-the-badge&logo=microsoft-onenote&logoColor=white) -->
 <!-- ![Tally Prime](https://img.shields.io/badge/Tally_Prime-FF5E00?style=for-the-badge&logo=currency-inr&logoColor=white) -->
 <!-- ![IoT](https://img.shields.io/badge/IoT-FF6F61?style=for-the-badge&logo=iot&logoColor=white) -->
 <!-- ![Python](https://img.shields.io/badge/Python-008080?style=for-the-badge&logo=python&logoColor=white) -->
@@ -146,7 +108,6 @@ and delivering data-driven solutions that create real business impact.
 <!-- ⚙️ Tech Stack -->
 <!-- <h2><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40">Tech Stack</h2> -->
 <h2><img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="50"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">Tech Stack</h2>
-
 <!-- <img alt="Tools" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" height="250" /> -->
 
 <p align="center"> 
@@ -197,10 +158,7 @@ and delivering data-driven solutions that create real business impact.
   <!--  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg"      alt="SeaBorn"  width="40" height="40"/> --> 
 </p>
 
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
 <!-- ## 💫 Things I Love -->
-<!-- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50">&nbsp;***Things I Love*** -->
 <img src="Things Love.gif" width="50" alt="Open Heart"/><img src="Things Love1.webp" width="100" alt="Things i love"/>
 
 <p align="center">
@@ -219,8 +177,6 @@ and delivering data-driven solutions that create real business impact.
   <!-- <img  width="60" alt="RG" src="RG.svg"> -->
   <!-- <img  width="40" alt="Power Query" src="Power Query.svg"> -->
 </p>
-
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- ## 📂 Featured Projects -->
 <img src="Neon Columns.gif" alt="Projects" width="40"><img src="Web Dev1.gif" alt="Projects" width="150"><img src="Projects.gif" alt="Projects" width="150">
@@ -262,14 +218,8 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- - 💻 [**Dynamic Developer Hub**](https://github.com/rajeevgit8055hub) -->
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Verified-Digital-Credentials&theme=midnight-purple&cache_bust=1)](https://github.com/rajeevgit8055hub/Verified-Digital-Credentials)
 
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Verified-Digital-Credentials&theme=midnight-purple&cache_bust=1)](https://github.com/rajeevgit8055hub/Verified-Digital-Credentials) -->
-
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Verified-Digital-Credentials&theme=midnight-purple)](https://github.com/rajeevgit8055hub/Verified-Digital-Credentials) -->
-
 <!-- ## 💡 ##Tip: -->
 <img src="Bulb.gif" width="40"><img src="Tips.gif" width="60">🌟 Each project embodies my commitment to transforming data and ideas into impactful outcomes — from dynamic data models and interactive dashboards to professional business presentations and insightful reports. These works reflect both technical precision and a deep understanding of business storytelling.
-
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- ## 🧠 Code Snippets  -->
 <img src="Green Code1.gif" width="40" alt="Green Code1"/><img src="Box.gif" width="40" alt="Box"/><img width="100" height="50" alt="GitHub" src="Snippets.jpg" />
@@ -284,44 +234,26 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- ## 📬 Connect with Me -->
 <img alt="Orange Meter" width="80" src="Orange Loading.gif" /><img src="Contact+me.gif" width="100" alt="Connect With Me"/>
-<!-- <img src="https://media.giphy.com/media/l3vR9Oqg3w1rKQJwE/giphy.gif" width="60"><img src="Contact+me.gif" width="100" alt="Connect With Me"/> -->
-<!-- <img alt="GitCover" src="Technoglobe.jpg" /> -->
-<!-- <img alt="Loading" height="250" width="500" src="Under Loading.gif" /> -->
 
+<!-- Typing Animation / 🤝 Connect with me -->
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Reach+me+via+X,+LinkedIn,+GitHub,+Email+or+my+Website+🌐;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
 
+<!-- ## 📬 Connect with Me -->
 [![X](https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rajeevtiwariRT)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072C6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeev-tiwari123)
 [![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajeevgit8055hub)
 [![Email](https://img.shields.io/badge/Email-B22222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeevtiwari8055@gmail.com)
 [![Website](https://img.shields.io/badge/Website-008080?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)
-<!-- [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy_me_a_coffee-F4B400?style=for-the-badge)](https://buymeacoffee.com/rajeevgit8055hub) -->
-<!-- <a href="https://www.linkedin.com/in/rajeev-tiwari123"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/></a>
-<a href="rajeevtiwari8055@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/>
-</a> -->
-
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- ## 🚀 GitHub Performance Overview -->
 <img src="Performance.gif" width="50"><img src="Github Overview.gif" height="150" width="200">
-
-<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats*** -->
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!--## 🏆 GitHub Trophies -->
 <img src="Trophy1.gif" width="35">&nbsp;***GitHub Trophies***
 [![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&no-frame=true&no-bg=true&background=000000)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- 💎 GitHub Trophy -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&title=Stars,Commits,Followers,Repositories,PullRequest&no-frame=true&no-bg=false&bgColor=000000&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy) -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=drisDev8&theme=midnight_purple)](https://github.com/ryo-ma/github-profile-trophy) -->
-<!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
-</div> -->
-
 <!-- 🪪 Profile Summary Card -->
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50">&nbsp;***Profile Summary Card***
-<!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFibGZjZjBnMWlsZzJid3Vub3V0bjd5bTJub3Z4eXFiMjRlMnMwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RKZ9KzCcxMd0k/giphy.webp" width="40">&nbsp;***Profile Summary Card*** -->
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevgit8055hub&theme=midnight_purple)
 
 <!-- 📊 GitHub Stats (Main) -->
@@ -329,14 +261,12 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=midnight-purple)
 
 <!-- 💬 Top Languages -->
-<!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg3bnJtZjFhNXFta3YzOGZmdHBqYWFwbjZtY2gwbzhjM2tkNnM3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LHZyixOnHwDDy/giphy.webp" width="30">&nbsp;***Top Languages*** -->
 <img src="Technology.gif" width="40">&nbsp;***Top Languages***
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=midnight-purple)
 <img align="right" alt="GitHub Lens" width="120" src="Lens1.gif" />
 
 <!-- 🔝 Top Contributed Repositories-->
 <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="40"/>&nbsp;***Top Contributed Repositories***
-<!-- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50"/> -->
 
 ![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
@@ -344,39 +274,19 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <img src="Color Loading.gif" alt="Streak" width="50">&nbsp;***GitHub Streak***
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark&background=000000&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA)
 
-<!--## 🔥 GitHub Streak -->
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark) -->
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark&background=000000&ring=BA68C8&fire=BA68C8&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA) -->
-<!-- ![GitHub Streak](https://github-readme-streak-stats-username.vercel.app/rajeevgit8055hub?theme=dark) -->
-<!-- ![GitHub Streak](https://github-readme-streak-stats-username.vercel.app/rajeevgit8055hub?theme=dark&hide_border=true) -->
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark) -->
-<!-- [https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark](https://github-readme-streak-stats-username.vercel.app/<YOUR_GITHUB_USERNAME>?theme=dark) -->
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark&background=000000&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak" /> -->
-
 <!--## 📈 Activity Graph -->
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgwbWpid3JycW56ZzVlcGc2aWExMzN3M25qY25pNzRoYjNqNWNobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d56Di5yqBRq9KnSZX6/giphy.webp" width="35">&nbsp;***Activity Graph***
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeevgit8055hub&theme=nightowl&bg_color=000000&hide_border=true"/>
 </div>
-<!-- <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeevgit8055hub&theme=nightowl"/>
-</div> -->
-
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- 🐍 Snake Contribution Animation -->
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5sc3YzYXQ1ZzI1dzNqenQ1ZmxsZzE2dDlqdzZmZ3d5bW5jajl0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEKcOWl8RMLde/giphy.webp" width="30">&nbsp;***Snake Contribution Animation***
 <!-- ![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/output/github-contribution-grid-snake.svg) -->
 ![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/github-contribution-grid-snake.svg)
 
-<!-- Typing Animation / 🤝 Thanks for Visiting! -->
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+GitHub+profile!;Let’s+connect+and+grow+together+in+the+data+world+🚀;Feel+free+to+check+out+my+repositories+and+ongoing+projects.)](https://git.io/typing-svg) -->
-
 <!-- 🧠 Contribution Pulse -->
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40" alt="Contribution Pulse Animation">&nbsp;***Contribution Pulse***<img width="50" alt="Contribution Pulse" src="Pulse.gif">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB4a3Z2b3Z1N3Y3NjVjYXpzdmw3NG9rMDRrbGdqYWdpODI3bGtzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26tn33aiTi1jkl6H6/giphy.gif" width="40" alt="Contribution Pulse Animation">&nbsp;***Contribution Pulse***<img width="50" alt="Contribution Pulse" src="Pulse.gif">
-
 
 <!-- 🧠 Contribution Pulse -->
 ![Contributions](https://badgen.net/badge/Contributions/Active/228B22?icon=github)
@@ -399,3 +309,4 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/rajeev-tiwari123"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/></a>
 
+<!-- Then end of my GitHub profile -->
