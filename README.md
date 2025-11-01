@@ -313,7 +313,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- ☕ Buy me a coffee -->
 <a href="https://buymeacoffee.com/rajeevtiwari" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee">
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/rajeev-tiwari123"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/></a>
 <!-- Gmail -->
@@ -332,26 +332,3 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- 🐍 Snake Violet and Purple Animation -->
 <!-- ![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/github-contribution-grid-snake.svg) -->
-
-
-
-
-
-
-<!-- Visit Counter -->
-<div align="center">
-  
-  [![visitor](https://visitcount.itsvg.in/api?id=rajeevgit8055hub&icon=10&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-
-## 🌐 Connect with Me 🍬
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/username)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeev-tiwari123/)
-[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rajeevtiwariRT)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/username) 
-
-
-
