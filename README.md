@@ -329,9 +329,3 @@ Each project reflects my ability to turn raw information into meaningful, busine
 </picture>
 
 <!-- Then end of my GitHub profile -->
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/name.svg" alt="Rajeev Tiwari animated name"/>
-</p>
-
