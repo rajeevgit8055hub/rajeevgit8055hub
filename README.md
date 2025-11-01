@@ -288,7 +288,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- <img alt="GitCover" src="Technoglobe.jpg" /> -->
 <!-- <img alt="Loading" height="250" width="500" src="Under Loading.gif" /> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Reach+me+via+X,+LinkedIn,+GitHub,+Email+or+my+Website+🌐;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Reach+me+via+X,+LinkedIn,+GitHub,+Email+or+my+Website+🌐;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
 
 [![X](https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rajeevtiwariRT)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072C6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeev-tiwari123)
