@@ -1,8 +1,12 @@
 <h2><img width="30" alt="GitHub" src="Gitcolor.png" />&nbsp;Hi I'm Rajeev<img width="30" alt="Green sign" src="Green sign.gif" /></h2>
 
-<p><img width="30" alt="GitHub" src="Gitcolor.png" /><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rajeev" alt="Typing SVG" /><img width="30" alt="Green sign" src="Green sign.gif" /></p>
+<p align="center">
+  <img width="30" alt="GitHub" src="Gitcolor.png" style="vertical-align: middle; margin-right: 6px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rajeev" alt="Typing SVG" style="vertical-align: middle; margin: 0 6px;" />
+  <img width="30" alt="Green sign" src="Green sign.gif" style="vertical-align: middle; margin-left: 6px;" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=4500&pause=1000&color=F97316&center=true&vCenter=true&width=900&lines=Data+enthusiast+exploring+real-world+solutions+through+Excel+automation+%26+BI+tools." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=4500&pause=1000&color=F97316&center=true&vCenter=true&width=900&lines=Data+enthusiast+exploring+real-world+solutions+through+Excel+automation+%26+BI+tools." alt="Typing SVG" />
 
 <!-- <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">&nbsp;Hi I'm Rajeev</h2> -->
 
@@ -317,7 +321,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- ☕ Buy me a coffee -->
 <a href="https://buymeacoffee.com/rajeevtiwari" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me A Coffee">
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/rajeev-tiwari123"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/></a>
 <!-- Gmail -->
