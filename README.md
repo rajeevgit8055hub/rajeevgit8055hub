@@ -1,10 +1,8 @@
 <h2><img width="30" alt="GitHub" src="Gitcolor.png" />&nbsp;Hi I'm Rajeev<img width="30" alt="Green sign" src="Green sign.gif" /></h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=F97316&vCenter=true&width=500&lines=Aspiring+Data+Analyst" alt="Typing SVG" />
-   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=1000&pause=1200&color=F97316&center=true&vCenter=true&width=900&lines=Turning+data+into+insights+through+Excel+%26+BI+tools.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=1000&pause=1200&color=F97316&vCenter=true&width=900&lines=Turning+data+into+insights+through+Excel+%26+BI+tools.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=1200&pause=1200&color=F97316&vCenter=true&width=900&lines=Turning+data+into+insights+through+Excel+%26+BI+tools.)](https://git.io/typing-svg)
 
 
 <!-- <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">&nbsp;Hi I'm Rajeev</h2> -->
