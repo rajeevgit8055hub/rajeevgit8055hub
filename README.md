@@ -310,5 +310,8 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee">
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/rajeev-tiwari123"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/></a>
+<!-- Gmail -->
+<a href="rajeevtiwari8055@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
+</a>
 
 <!-- Then end of my GitHub profile -->
