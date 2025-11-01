@@ -4,8 +4,6 @@
 <!-- Aspiring Data Analyst -->
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=F97316&vCenter=true&width=500&lines=Aspiring+Data+Analyst" alt="Typing SVG" />
 
- <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">&nbsp;Hi I'm Rajeev</h2> 
-
 <!-- RV -->
 <img align="right" alt="Rajeev" width="50" src="RV.svg" />
 
@@ -13,9 +11,7 @@
 <!-- <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> -->
 <!-- <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="30">-->
 
-<!-- <img width="40" alt="GitCover" src="Gitcolor.png" /> -->
-
- <!-- <p align="center"> -->
+ <!-- Github Buttons -->
   <a href="https://github.com/rajeevgit8055hub">
     <img src="https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
   </a> 
@@ -28,8 +24,8 @@
 <!-- <a href="https://in.linkedin.com/in/rajeev-tiwari123">
   <img src="https://img.shields.io/badge/LinkedIn-Rajeev%20Tiwari-008080?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
 </a> -->
-<!-- </p> -->
 
+<!-- Github Buttons -->
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&label=Profile%20Views&color=8A2BE2&style=for-the-badge) -->
 <!-- [![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet)](https://github.com/rajeevgit8055hub) -->
 <!-- [![Followers](https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=social)](https://github.com/rajeevgit8055hub?tab=followers) -->
@@ -55,7 +51,7 @@ Power BI, SQL, and Python, I focus on optimizing reports, automating workflows,
 and driving smarter business decisions. I’m committed to continuous learning
 and delivering data-driven solutions that create real business impact.
 
-<!-- 🚀 My Mission  -->
+<!-- ## 🚀 My Mission  -->
 <img src="Superhero.gif" width="50"><img src="Yellow Mission.gif" width="150">
 <!-- <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="50"><img src="Mission1.gif" width="150"> -->
 <!-- <h2><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">&nbsp;🎯 My Mission</h2> -->
@@ -110,11 +106,12 @@ and delivering data-driven solutions that create real business impact.
 <!-- ![seaborn](https://img.shields.io/badge/seaborn-1a73e8?style=for-the-badge&logo=seaborn&logoColor=white) -->
 
 
-<!-- ⚙️ Tech Stack -->
+<!-- ## ⚙️ Tech Stack -->
 <!-- <h2><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40">Tech Stack</h2> -->
 <h2><img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="50"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">Tech Stack</h2>
 <!-- <img alt="Tools" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" height="250" /> -->
 
+<!-- Skill buttons -->
 <p align="center"> 
   <img  width="40" alt="Microsoft365" src="Microsoft365.svg">
   <img  width="40" alt="Office_365" src="Office_365.svg">
@@ -190,6 +187,7 @@ and delivering data-driven solutions that create real business impact.
 Each project reflects my ability to turn raw information into meaningful, business-ready insights.
 -->
 
+<!-- Card Style Repositories -->
 <!-- - 📊 [**Hospital Emergency Room Dashboard**](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard) -->
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Hospital-Emergency-Room-Dashboard&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard)
 
@@ -227,16 +225,16 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <img src="Bulb.gif" width="40"><img src="Tips.gif" width="60">🌟 Each project embodies my commitment to transforming data and ideas into impactful outcomes — from dynamic data models and interactive dashboards to professional business presentations and insightful reports. These works reflect both technical precision and a deep understanding of business storytelling.
 
 <!-- ## 🧠 Code Snippets  -->
-<img src="Green Code1.gif" width="40" alt="Green Code1"/><img src="Box.gif" width="40" alt="Box"/><img width="100" height="50" alt="GitHub" src="Snippets.jpg" /><img src="Gist.jpg" width="100" height="50" alt="Green Code1"/>
+<img src="Green Code1.gif" width="40" alt="Green Code1"/><img src="Box.gif" width="40" alt="Box"/><img width="100" height="40" alt="GitHub" src="Snippets.jpg" /><img src="Gist.jpg" width="100" height="40" alt="Gist"/>
 
-<!-- ## 🧠 Code Snippets Link -->
+<!-- Code Snippets Link -->
 <p align="center">
   <a href="https://gist.github.com/rajeevgit8055hub" target="_blank">
     <img src="https://img.shields.io/badge/Open%20Gist%20Now-Explore%20My%20Code%20Snippets-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1B1B1B&color=00FFFF" alt="Open Gist"/>
   </a>
 </p>
 
-<!-- ## 🧠 Code Snippets Emoji & Text -->
+<!-- Code Snippets Emoji & Text -->
 <p><img src="Bulb Smile.gif" width="25" alt="Green Bulb"/>A curated collection of concise, practical code examples — spanning Excel formulas, SQL queries, VBA scripts, Power BI logic, and mini HTML-CSS analytical experiments.</p>
 <p><img src="Books.gif" width="25" alt="Book"/>Each snippet reflects my daily learning, logical thinking, and problem-solving approach.</p>
 
@@ -246,9 +244,9 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- Typing Animation / 🤝 Connect with me -->
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Reach+me+via+X,+LinkedIn,+GitHub,+Email+or+my+Website+🌐;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
 
-<!-- ## 📬 Connect with Me -->
-[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rajeevtiwariRT)
-<!-- [![X](https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rajeevtiwariRT) -->
+<!-- Social Media Linkes -->
+<!-- [![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rajeevtiwariRT) -->
+[![X](https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rajeevtiwariRT)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072C6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeev-tiwari123)
 [![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajeevgit8055hub)
 [![Email](https://img.shields.io/badge/Email-B22222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeevtiwari8055@gmail.com)
@@ -261,20 +259,20 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <img src="Trophy1.gif" width="35">&nbsp;***GitHub Trophies***
 [![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&no-frame=true&no-bg=true&background=000000)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- 🪪 Profile Summary Card -->
+<!-- ## 👨‍💻 Profile Summary Card -->
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50">&nbsp;***Profile Summary Card***
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevgit8055hub&theme=midnight_purple)
 
-<!-- 📊 GitHub Stats (Main) -->
+<!-- ## 📊 GitHub Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=midnight-purple)
 
-<!-- 💬 Top Languages -->
+<!-- ## 💬 Top Languages -->
 <img src="Technology.gif" width="40">&nbsp;***Top Languages***
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=midnight-purple)
 <img align="right" alt="GitHub Lens" width="120" src="Lens1.gif" />
 
-<!-- 🔝 Top Contributed Repositories-->
+<!-- ## 🔝 Top Contributed Repositories-->
 <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="40"/>&nbsp;***Top Contributed Repositories***
 
 ![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
@@ -289,20 +287,20 @@ Each project reflects my ability to turn raw information into meaningful, busine
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeevgit8055hub&theme=nightowl&bg_color=000000&hide_border=true"/>
 </div>
 
-<!-- 🐍 Snake Contribution Animation -->
+<!-- ## 🐍 Snake Contribution Animation -->
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5sc3YzYXQ1ZzI1dzNqenQ1ZmxsZzE2dDlqdzZmZ3d5bW5jajl0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEKcOWl8RMLde/giphy.webp" width="30">&nbsp;***Snake Contribution Animation***
 
-<!-- 🐍 Snake Green Pink Animation -->
+<!-- Snake Green Pink Animation -->
 <div align="center">
  
 ![snake gif](https://github.com/rajeevgit8055hub/rajeevgit8055hub/blob/output/github-snake-dark.svg)
  
 </div>
 
-<!-- 🧠 Contribution Pulse -->
+<!-- ## 🧠 Contribution Pulse -->
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40" alt="Contribution Pulse Animation">&nbsp;***Contribution Pulse***<img width="50" alt="Contribution Pulse" src="Pulse.gif">
 
-<!-- 🧠 Contribution Pulse -->
+<!-- Contribution Pulse Buttons -->
 ![Contributions](https://badgen.net/badge/Contributions/Active/228B22?icon=github)
 ![Commits](https://badgen.net/github/commits/rajeevgit8055hub/rajeevgit8055hub?icon=github&label=Total%20Commits)
 ![Code Quality](https://img.shields.io/badge/Code%20Quality-A%2B-228B22?style=for-the-badge&logo=github)
@@ -317,7 +315,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- Typing Animation / 🤝 Thanks for Visiting! -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+GitHub+profile!;Let’s+connect+and+grow+together+in+the+data+world+🚀;Feel+free+to+check+out+my+repositories+and+ongoing+projects.)](https://git.io/typing-svg)
 
-<!-- ☕ Buy me a coffee -->
+<!-- ## ☕ Buy me a coffee -->
 <a href="https://buymeacoffee.com/rajeevtiwari" target="_blank">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me A Coffee">
 <!-- LinkedIn -->
