@@ -239,7 +239,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <p><img src="Books.gif" width="25" alt="Book"/>Each snippet reflects my daily learning, logical thinking, and problem-solving approach.</p>
 
 <!-- ## 📬 Connect with Me -->
-<img alt="Orange Meter" width="80" src="Orange Loading.gif" /><img src="Contact+me.gif" width="100" alt="Connect With Me"/>
+<img alt="Orange Meter" width="70" src="Orange Loading.gif" /><img src="Contact+me.gif" width="100" alt="Connect With Me"/>
 
 <!-- Typing Animation / 🤝 Connect with me -->
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Reach+me+via+X,+LinkedIn,+GitHub,+Email+or+my+Website+🌐;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
@@ -253,7 +253,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 [![Website](https://img.shields.io/badge/Website-008080?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)
 
 <!-- ## 🚀 GitHub Performance Overview -->
-<img src="Performance.gif" width="50"><img src="Github Overview.gif" height="150" width="200">&nbsp;***GitHub Performance Overview***
+<img src="Performance.gif" width="50"><img src="Github Overview.gif" height="150" width="150">&nbsp;***GitHub Performance***
 
 <!--## 🏆 GitHub Trophies -->
 <img src="Trophy1.gif" width="35">&nbsp;***GitHub Trophies***
