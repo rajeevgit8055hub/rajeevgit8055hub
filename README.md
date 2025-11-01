@@ -2,7 +2,7 @@
 
 <p><img width="30" alt="GitHub" src="Gitcolor.png" /><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rajeev" alt="Typing SVG" /><img width="30" alt="Green sign" src="Green sign.gif" /></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=4500&pause=1000&color=F97316&center=true&vCenter=true&width=900&lines=Data+enthusiast+exploring+real-world+solutions+through+Excel+automation+%26+BI+tools." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=4500&pause=1000&color=F97316&center=true&vCenter=true&width=900&lines=Data+enthusiast+exploring+real-world+solutions+through+Excel+automation+%26+BI+tools." alt="Typing SVG" />
 
 <!-- <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">&nbsp;Hi I'm Rajeev</h2> -->
 
