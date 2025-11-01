@@ -292,9 +292,6 @@ Each project reflects my ability to turn raw information into meaningful, busine
  
 </div>
 
-<!-- 🐍 Snake Violet and Purple Animation -->
-![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/github-contribution-grid-snake.svg)
-
 <!-- 🧠 Contribution Pulse -->
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40" alt="Contribution Pulse Animation">&nbsp;***Contribution Pulse***<img width="50" alt="Contribution Pulse" src="Pulse.gif">
 
@@ -331,3 +328,6 @@ Each project reflects my ability to turn raw information into meaningful, busine
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-snake.svg" />
 </picture> -->
+
+<!-- 🐍 Snake Violet and Purple Animation -->
+<!-- ![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/github-contribution-grid-snake.svg) -->
