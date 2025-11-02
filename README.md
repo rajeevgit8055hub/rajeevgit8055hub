@@ -345,6 +345,14 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- <a href="https://www.hackerrank.com/profile/rajeevtiwari" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40">
 </a> -->
+<!-- 🌐 Facebook -->
+<!-- <a href="https://www.facebook.com/rajeevtiwariRT" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="35" height="35">
+</a> 
+<!-- Instagram -->
+<!-- <a href="https://x.com/rajeevtiwariRT" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/15713/15713420.png" alt="X" width="35" height="35">
+</a> -->
 </div>
  
 <!-- Then end of my GitHub profile -->
@@ -359,64 +367,8 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- 🐍 Snake Violet and Purple Animation -->
 <!-- ![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/github-contribution-grid-snake.svg) -->
 
-<!-- ## Contact me -->
-<!-- ☕ Buy me a coffee -->
-<!-- <div align="center">
-<a href="https://buymeacoffee.com/rajeevtiwari" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me A Coffee"> -->
- 
-<!-- LinkedIn -->
-<!-- <a href="https://www.linkedin.com/in/rajeev-tiwari123"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/></a> -->
- 
-<!-- X -->
-<!-- <a href="https://x.com/rajeevtiwariRT" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="X" width="35" height="35">
-</a> -->
- 
-<!-- GitHub -->
-<!-- <a href="https://github.com/rajeevgit8055hub" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="35" height="35">
-</a> -->
 
-<!-- Instagram -->
-<!-- <a href="https://x.com/rajeevtiwariRT" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/15713/15713420.png" alt="X" width="35" height="35">
-</a> -->
- 
-<!-- Website -->
-<!-- <a href="https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="35" height="35">
-</a> -->
- 
-<!-- Gmail -->
-<!-- <a href="mailto:rajeevtiwari8055@gmail.com" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="35" height="35">
-</a> -->
- 
-<!-- 🟩 HackerRank -->
-<!-- <a href="https://www.hackerrank.com/profile/rajeevtiwari" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="35">
-</a> -->
- 
-<!-- 🟢 ORCID -->
-<!-- <a href="https://orcid.org/0000-0002-XXXX-XXXX" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="35" height="35">
-</a> -->
-
-<!-- Facebook Circle -->
-<!-- <a href="https://www.facebook.com/rajeevtiwariRT" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Facebook" width="35" height="35">
-</a> -->
-
-<!-- 🌐 Facebook Square -->
-<!-- <a href="https://www.facebook.com/rajeevtiwariRT" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="35" height="35">
-</a> 
-</div> -->
-
-<!-- Facebook Circle -->
 <!-- [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Facebook" width="35" height="35"/>](https://www.facebook.com/rajeevtiwariRT) -->
-
 <!-- [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="35" height="35"/>](https://www.linkedin.com/in/rajeev-tiwari123)
 [<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="35" height="35"/>](mailto:rajeevtiwari8055@gmail.com)
 [<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="35" height="35"/>](https://github.com/rajeevgit8055hub)
