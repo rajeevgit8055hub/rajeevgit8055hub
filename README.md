@@ -7,25 +7,66 @@
 
 
 
-<a href="https://github.com/rajeevgit8055hub">
-  <img src="https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-</a>
 <div align="center">
-  <div style="
-    background: #0d1117;
-    display: inline-block;
-    padding: 10px 18px;
-    border-radius: 15px;
-    box-shadow: 0px 0px 12px rgba(138, 43, 226, 0.6);
-    border: 1px solid rgba(138, 43, 226, 0.4);
-  ">
-    <a href="https://github.com/rajeevgit8055hub">
-      <img src="https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet&style=for-the-badge" alt="Profile Views" width="180"/>
-    </a>
-  </div>
+  <a href="https://github.com/rajeevgit8055hub" style="text-decoration:none;">
+    <div style="
+      background-color:#0d1117;
+      border:1px solid #30363d;
+      border-radius:12px;
+      width:280px;
+      padding:15px 10px;
+      box-shadow:0 0 12px rgba(88, 51, 255, 0.5);
+      transition:0.3s;
+    ">
+      <h3 style="color:#c9d1d9; font-family:'Poppins', sans-serif; font-size:16px; margin:0 0 10px 0;">
+        👀 Profile Views
+      </h3>
+      <img src="https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet&style=for-the-badge" 
+           alt="Profile Views" 
+           width="180">
+      <p style="color:#8b949e; font-size:12px; margin-top:10px;">
+        Counting every visit on Rajeev’s GitHub journey 🚀
+      </p>
+    </div>
+  </a>
 </div>
 
 
+
+ <div align="center">
+  <a href="https://github.com/rajeevgit8055hub" style="text-decoration:none;">
+    <div style="
+      background-color:#0d1117;
+      border:1px solid #30363d;
+      border-radius:12px;
+      width:280px;
+      padding:15px 10px;
+      box-shadow:0 0 12px rgba(88, 51, 255, 0.5);
+      transition:all 0.4s ease-in-out;
+    "
+    onmouseover="this.style.boxShadow='0 0 22px rgba(138,43,226,0.9)';"
+    onmouseout="this.style.boxShadow='0 0 12px rgba(88,51,255,0.5)';">
+
+      <h3 style="color:#c9d1d9; font-family:'Poppins', sans-serif; font-size:16px; margin:0 0 10px 0;">
+        👀 Profile Views
+      </h3>
+
+      <img src="https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet&style=for-the-badge"
+           alt="Profile Views"
+           width="180">
+
+      <p style="color:#8b949e; font-size:12px; margin-top:10px;">
+        Counting every visit on Rajeev’s GitHub journey 🚀
+      </p>
+    </div>
+  </a>
+</div>
+
+
+          
+
+
+   
 
 
 
