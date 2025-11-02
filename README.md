@@ -320,16 +320,17 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me A Coffee">
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/rajeev-tiwari123"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/></a>
- 
-[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rajeevtiwariRT)
-
+<!-- X -->
+<a href="https://x.com/rajeevtiwariRT" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="X" width="35" height="35">
+</a>
 <!-- Gmail -->
 <a href="mailto:rajeevtiwari8055@gmail.com" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="35" height="35">
 </a>
 </div>
  
- <!-- Then end of my GitHub profile -->
+<!-- Then end of my GitHub profile -->
 
 <!-- 🐍 Snake Contribution Animation
 <picture>
