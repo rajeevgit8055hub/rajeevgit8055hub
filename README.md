@@ -239,6 +239,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- Code Snippets gif & Text -->
 <p><img src="Bulb Smile.gif" width="25" alt="Green Bulb"/>A curated collection of concise, practical code examples — spanning Excel formulas, SQL queries, VBA scripts, Power BI logic, and mini HTML-CSS analytical experiments.</p>
 <p><img src="Books.gif" width="25" alt="Book"/>Each snippet reflects my daily learning, logical thinking, and problem-solving approach.</p>
+<!-- Boy working on Computer -->
 <img alt="Boy working on computer" src="Blue Boy.gif" />
 
 <!-- ## 📬 Connect with Me -->
@@ -264,6 +265,10 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- ## 👨‍💻 Profile Summary Card -->
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50">&nbsp;***Profile Summary Card***
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevgit8055hub&theme=midnight_purple)
+
+<div style="border: 2px solid white; border-radius: 12px; display: inline-block; padding: 5px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevgit8055hub&theme=midnight_purple" alt="Profile Summary"/>
+</div>
 
 <!-- ## 📊 GitHub Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***GitHub Stats***
