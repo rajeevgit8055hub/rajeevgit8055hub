@@ -311,6 +311,27 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![GitHub Stars](https://img.shields.io/github/stars/rajeevgit8055hub?affiliations=OWNER&style=for-the-badge&logo=github)
 ![Security](https://img.shields.io/badge/Security-Verified-228B22?style=for-the-badge&logo=github)
 
+<!-- ⭐💫 Shower stars if you like my repos -->
+
+<div align="center">
+</div>
+
+<a href="https://github.com/rajeevgit8055hub/rajeevgit8055hub" alt="Github Stars" title="Star my repositories">
+  <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repos-15k?style=for-the-badge&color=5500ff&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/rajeevgit8055hub/rajeevgit8055hub" alt="Github Stars" title="Star my repositories">
+  <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repos-15k?style=for-the-badge&color=00ff99&logo=github&logoColor=black"/>
+</a>
+<a href="https://github.com/rajeevgit8055hub/rajeevgit8055hub" alt="Github Stars" title="Star my repositories">
+  <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repos-15k?style=for-the-badge&color=f9c513&logo=star&logoColor=black"/>
+</a>
+<a href="https://github.com/rajeevgit8055hub" alt="GitHub Stars" title="Star My Repositories">
+  <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repos-15k?style=for-the-badge&color=5500ff&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/rajeevgit8055hub" alt="GitHub Stars" title="Star My Repositories">
+  <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repos-15k?style=for-the-badge&color=5500ff&logo=github&logoColor=white"/>
+</a>
+
 <!-- Typing Animation / 🤝 Thanks for Visiting! -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+GitHub+profile!;Let’s+connect+and+grow+together+in+the+data+world+🚀;Feel+free+to+check+out+my+repositories+and+ongoing+projects.)](https://git.io/typing-svg)
 
