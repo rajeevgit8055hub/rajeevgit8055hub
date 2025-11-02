@@ -6,7 +6,7 @@
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=F97316&vCenter=true&width=500&lines=Aspiring+Data+Analyst" alt="Typing SVG" /> -->
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=F97316&vCenter=true&width=500&lines=Welcome+to+My+Dataverse+%F0%9F%8C%8C%F0%9F%92%AB" alt="Typing SVG" /> 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=F97316&vCenter=true&width=500&lines=Welcome+to+My+Dataverse" alt="Typing SVG" />
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=F97316&vCenter=true&width=500&lines=Welcome+to+My+Dataverse+🌌" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=F97316&vCenter=true&width=500&lines=Welcome+to+My+Dataverse🌌" alt="Typing SVG" />
 
 
 
