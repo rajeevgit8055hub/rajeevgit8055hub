@@ -334,7 +334,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
   <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="35" height="35">
 </a>
 <!-- 🟢 ORCID -->
-<a href="https://orcid.org/0000-0002-XXXX-XXXX" target="_blank">
+ <a href="https://orcid.org/0009-0009-9505-3589" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="35" height="35">
 </a>
 <!-- Gmail -->
