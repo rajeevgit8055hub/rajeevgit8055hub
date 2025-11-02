@@ -385,7 +385,9 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <a href="https://www.facebook.com/rajeevtiwariRT" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Facebook" width="35" height="35">
 </a>
+
 <!-- Facebook -->
+
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Facebook" width="35" height="35"/>](https://www.facebook.com/rajeevtiwariRT)
 
 
