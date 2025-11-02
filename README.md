@@ -1,6 +1,4 @@
 <!-- I'm Rajeev -->
-<h2><img width="30" alt="GitHub" src="Gitcolor.png" />&nbsp;Hi I'm Rajeev<img width="30" alt="Green sign" src="Green sign.gif" /></h2>
-
 <h2><img width="30" alt="GitHub" src="Gitcolor.png" />&nbsp;Hi I'm <a href="https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/" target="_blank">Rajeev</a>
 <img width="30" alt="Green sign" src="Green sign.gif" /></h2>
 
@@ -46,7 +44,7 @@
 <!-- <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50"> -->
 <img src="Biometric.gif" width="50"><img src="About me1.gif" width="120">
 <!-- <h2><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30">👨‍💼 About Me</h2> -->
-<img align="right" alt="Boy working on computer" width="400" src="Blue Boy.gif" />
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
 
 I’m passionate about turning raw data into meaningful business insights.
 With strong expertise in Microsoft 365 and growing proficiency in modern data tools like
@@ -185,7 +183,7 @@ and delivering data-driven solutions that create real business impact.
 
 <!-- ## 📂 Featured Projects -->
 <img src="Neon Columns.gif" alt="Projects" width="40"><img src="Web Dev1.gif" alt="Projects" width="150"><img src="Projects.gif" alt="Projects" width="150">
-
+<img alt="Boy working on computer" width="400" src="Blue Boy.gif" />
 <!-- Showcasing my practical experience across data and technology tools — from cleaning and transforming data to creating insightful visualizations.
 Each project reflects my ability to turn raw information into meaningful, business-ready insights.
 -->
