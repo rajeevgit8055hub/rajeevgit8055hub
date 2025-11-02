@@ -316,7 +316,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- ## Contact me -->
 <!-- ☕ Buy me a coffee -->
-<div align="center">
+<!-- <div align="center"> -->
 <a href="https://buymeacoffee.com/rajeevtiwari" target="_blank">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me A Coffee">
 <!-- LinkedIn -->
@@ -333,19 +333,19 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <a href="https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="35" height="35">
 </a>
+<!-- 🟢 ORCID -->
+<a href="https://orcid.org/0000-0002-XXXX-XXXX" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="35" height="35">
+</a>
 <!-- Gmail -->
 <a href="mailto:rajeevtiwari8055@gmail.com" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="35" height="35">
 </a>
 <!-- 🟩 HackerRank -->
 <a href="https://www.hackerrank.com/profile/rajeevtiwari" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="35">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40">
 </a>
-<!-- 🟢 ORCID -->
-<a href="https://orcid.org/0000-0002-XXXX-XXXX" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="35" height="35">
-</a>
-</div>
+<!-- </div> -->
  
 <!-- Then end of my GitHub profile -->
 
