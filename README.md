@@ -242,7 +242,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <img alt="Orange Meter" width="70" src="Orange Loading.gif" /><img src="Contact+me.gif" width="100" alt="Connect With Me"/>
 
 <!-- Typing Animation / 🤝 Connect with me -->
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Reach+me+via+X,+LinkedIn,+GitHub,+Email+or+my+Website+🌐;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Reach+me+via+X,+LinkedIn,+GitHub,+Email+or+my+Website+🌐;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
 
 <!-- Social Media Linkes -->
 [![X](https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rajeevtiwariRT)
@@ -314,7 +314,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- ⭐💫 Shower stars if you like my repos -->
 
 <div align="center">
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20">
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">
 <a href="https://github.com/rajeevgit8055hub/rajeevgit8055hub" alt="GitHub Stars" title="Star my repositories">
   <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repositories-15k?style=for-the-badge&color=f9c513&logo=github&logoColor=black"/>
 </a>
@@ -375,7 +375,6 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- 🐍🧬 Snake Violet and Purple Animation -->
 <!-- ![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/github-contribution-grid-snake.svg) -->
-
 
 <!-- [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Facebook" width="35" height="35"/>](https://www.facebook.com/rajeevtiwariRT) -->
 <!-- [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="35" height="35"/>](https://www.linkedin.com/in/rajeev-tiwari123)
