@@ -5,6 +5,8 @@
 <!-- Aspiring Data Analyst -->
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=F97316&vCenter=true&width=500&lines=Aspiring+Data+Analyst" alt="Typing SVG" /> -->
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=F97316&vCenter=true&width=500&lines=Welcome+to+My+Dataverse+%🌌" alt="Typing SVG" /> 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=F97316&vCenter=true&width=500&lines=Welcome+to+My+Data+Universe+🌌" alt="Typing SVG" />
+
 
 <!-- RV -->
 <img align="right" alt="Rajeev" width="50" src="RV.svg" />
