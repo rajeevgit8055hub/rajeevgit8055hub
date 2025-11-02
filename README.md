@@ -323,7 +323,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <a href="https://www.linkedin.com/in/rajeev-tiwari123"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/></a>
 <!-- X -->
 <a href="https://x.com/rajeevtiwariRT" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="X" width="35" height="35">
+  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="X" width="36" height="36">
 </a>
 <!-- GitHub -->
 <a href="https://github.com/rajeevgit8055hub" target="_blank">
