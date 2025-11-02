@@ -4,6 +4,32 @@
 <!-- Aspiring Data Analyst -->
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=F97316&vCenter=true&width=500&lines=Aspiring+Data+Analyst" alt="Typing SVG" />
 
+
+
+
+<a href="https://github.com/rajeevgit8055hub">
+  <img src="https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</a>
+<div align="center">
+  <div style="
+    background: #0d1117;
+    display: inline-block;
+    padding: 10px 18px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 12px rgba(138, 43, 226, 0.6);
+    border: 1px solid rgba(138, 43, 226, 0.4);
+  ">
+    <a href="https://github.com/rajeevgit8055hub">
+      <img src="https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet&style=for-the-badge" alt="Profile Views" width="180"/>
+    </a>
+  </div>
+</div>
+
+
+
+
+
+
 <!-- RV -->
 <img align="right" alt="Rajeev" width="50" src="RV.svg" />
 
