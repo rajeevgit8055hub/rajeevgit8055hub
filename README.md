@@ -328,6 +328,19 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <a href="https://x.com/rajeevtiwariRT" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/15713/15713420.png" alt="X" width="35" height="35">
 </a>
+ <!-- GitHub -->
+<a href="https://github.com/rajeevgit8055hub" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="35" height="35">
+</a>
+<!-- Website -->
+<a href="https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="35" height="35">
+</a>
+<!-- X -->
+<a href="https://x.com/rajeevtiwariRT" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/15713/15713439.png" alt="X" width="35" height="35">
+</a>
+
 <!-- Gmail -->
 <a href="mailto:rajeevtiwari8055@gmail.com" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="35" height="35">
