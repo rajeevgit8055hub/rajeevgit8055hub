@@ -334,43 +334,47 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <a href="https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="35" height="35">
 </a>
-<!-- X -->
-<a href="https://x.com/rajeevtiwariRT" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/15713/15713437.png" alt="X" width="35" height="35">
-</a>
 <!-- Gmail -->
 <a href="mailto:rajeevtiwari8055@gmail.com" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="35" height="35">
 </a>
 </div>
-
 <!-- Facebook -->
 <a href="https://www.facebook.com/rajeevtiwariRT" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Facebook" width="35" height="35">
 </a>
-<!-- ORCID -->
-<a href="https://orcid.org/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" alt="ORCID" width="35" height="35">
-</a>
-<!-- ORCID -->
-<a href="https://orcid.org/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" alt="ORCID" width="35" height="35">
-</a>
-
 <!-- Facebook -->
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Facebook" width="35" height="35"/>](https://www.facebook.com/rajeevtiwariRT)
-
-<!-- ORCID -->
+ 
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="35" height="35"/>](https://www.linkedin.com/in/rajeev-tiwari123)
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="35" height="35"/>](mailto:rajeevtiwari8055@gmail.com)
+[<img src="https://cdn-icons-png.flaticon.com/512/15713/15713437.png" alt="X" width="35" height="35"/>](https://x.com/rajeevtiwariRT)
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="35" height="35"/>](https://github.com/rajeevgit8055hub)
+[<img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="35" height="35"/>](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Facebook" width="35" height="35"/>](https://www.facebook.com/rajeevtiwariRT)
 [<img src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" alt="ORCID" width="35" height="35"/>](https://orcid.org/)
-
-<!-- HackerRank -->
 [<img src="https://cdn-icons-png.flaticon.com/512/16098/16098914.png" alt="HackerRank" width="35" height="35"/>](https://www.hackerrank.com/)
-
 
 <!-- Instagram -->
 <!-- <a href="https://x.com/rajeevtiwariRT" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/15713/15713420.png" alt="X" width="35" height="35">
 </a> -->
+
+<!-- 🌐 Facebook -->
+<a href="https://www.facebook.com/rajeevtiwariRT" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="35" height="35">
+</a>
+
+<!-- 🟢 ORCID -->
+<a href="https://orcid.org/0000-0002-XXXX-XXXX" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="35" height="35">
+</a>
+
+<!-- 🟩 HackerRank -->
+<a href="https://www.hackerrank.com/profile/rajeevtiwari" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="35" height="35">
+</a>
+
  
 <!-- Then end of my GitHub profile -->
 
