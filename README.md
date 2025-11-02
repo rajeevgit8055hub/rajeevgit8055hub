@@ -246,10 +246,8 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- Social Media Linkes -->
 <!-- [![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rajeevtiwariRT) -->
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rajeevtiwariRT)
 [![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rajeevtiwariRT)
-
-[![X](https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rajeevtiwariRT)
+<!-- [![X](https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rajeevtiwariRT) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072C6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeev-tiwari123)
 [![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajeevgit8055hub)
 [![Email](https://img.shields.io/badge/Email-B22222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeevtiwari8055@gmail.com)
