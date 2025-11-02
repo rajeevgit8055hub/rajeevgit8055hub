@@ -316,7 +316,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- ## Contact me -->
 <!-- ☕ Buy me a coffee -->
-<!-- <div align="center"> -->
+<div align="center">
 <a href="https://buymeacoffee.com/rajeevtiwari" target="_blank">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me A Coffee">
 <!-- LinkedIn -->
@@ -342,10 +342,10 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="35" height="35">
 </a>
 <!-- 🟩 HackerRank -->
-<a href="https://www.hackerrank.com/profile/rajeevtiwari" target="_blank">
+<!-- <a href="https://www.hackerrank.com/profile/rajeevtiwari" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40">
-</a>
-<!-- </div> -->
+</a> -->
+</div>
  
 <!-- Then end of my GitHub profile -->
 
