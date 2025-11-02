@@ -314,14 +314,9 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- ⭐💫 Shower stars if you like my repos -->
 
 <div align="center">
-<a href="https://github.com/rajeevgit8055hub/rajeevgit8055hub" alt="Github Stars" title="Star my repositories">
-  <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repos-15k?style=for-the-badge&color=5500ff&logo=github&logoColor=white"/>
-</a>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20">
 <a href="https://github.com/rajeevgit8055hub/rajeevgit8055hub" alt="GitHub Stars" title="Star my repositories">
-  <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repos-15k?style=for-the-badge&color=f9c513&logo=github&logoColor=black"/>
-</a>
-<a href="https://github.com/rajeevgit8055hub/rajeevgit8055hub" alt="Github Stars" title="Star my repositories">
-  <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repos-15k?style=for-the-badge&color=f9c513&logo=star&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repositories-15k?style=for-the-badge&color=f9c513&logo=github&logoColor=black"/>
 </a>
 </div>
 
