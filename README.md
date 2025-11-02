@@ -247,6 +247,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- Social Media Linkes -->
 <!-- [![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rajeevtiwariRT) -->
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rajeevtiwariRT)
+[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rajeevtiwariRT)
 
 [![X](https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rajeevtiwariRT)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072C6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeev-tiwari123)
