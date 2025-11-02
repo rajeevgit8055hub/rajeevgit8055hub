@@ -314,7 +314,9 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- Typing Animation / 🤝 Thanks for Visiting! -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+GitHub+profile!;Let’s+connect+and+grow+together+in+the+data+world+🚀;Feel+free+to+check+out+my+repositories+and+ongoing+projects.)](https://git.io/typing-svg)
 
-<!-- ## ☕ Buy me a coffee -->
+<!-- ## Contact me -->
+
+<!-- ☕ Buy me a coffee -->
 <div align="center">
 <a href="https://buymeacoffee.com/rajeevtiwari" target="_blank">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me A Coffee">
@@ -324,11 +326,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <a href="https://x.com/rajeevtiwariRT" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="X" width="35" height="35">
 </a>
-<!-- X -->
-<a href="https://x.com/rajeevtiwariRT" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/15713/15713420.png" alt="X" width="35" height="35">
-</a>
- <!-- GitHub -->
+<!-- GitHub -->
 <a href="https://github.com/rajeevgit8055hub" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="35" height="35">
 </a>
@@ -338,14 +336,41 @@ Each project reflects my ability to turn raw information into meaningful, busine
 </a>
 <!-- X -->
 <a href="https://x.com/rajeevtiwariRT" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/15713/15713439.png" alt="X" width="35" height="35">
+  <img src="https://cdn-icons-png.flaticon.com/512/15713/15713437.png" alt="X" width="35" height="35">
 </a>
-
 <!-- Gmail -->
 <a href="mailto:rajeevtiwari8055@gmail.com" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="35" height="35">
 </a>
 </div>
+
+<!-- Facebook -->
+<a href="https://www.facebook.com/rajeevtiwariRT" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Facebook" width="35" height="35">
+</a>
+<!-- ORCID -->
+<a href="https://orcid.org/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" alt="ORCID" width="35" height="35">
+</a>
+<!-- ORCID -->
+<a href="https://orcid.org/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" alt="ORCID" width="35" height="35">
+</a>
+
+<!-- Facebook -->
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Facebook" width="35" height="35"/>](https://www.facebook.com/rajeevtiwariRT)
+
+<!-- ORCID -->
+[<img src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" alt="ORCID" width="35" height="35"/>](https://orcid.org/)
+
+<!-- HackerRank -->
+[<img src="https://cdn-icons-png.flaticon.com/512/16098/16098914.png" alt="HackerRank" width="35" height="35"/>](https://www.hackerrank.com/)
+
+
+<!-- Instagram -->
+<!-- <a href="https://x.com/rajeevtiwariRT" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/15713/15713420.png" alt="X" width="35" height="35">
+</a> -->
  
 <!-- Then end of my GitHub profile -->
 
