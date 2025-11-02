@@ -184,7 +184,7 @@ and delivering data-driven solutions that create real business impact.
 
 <!-- ## 📂 Featured Projects -->
 <img src="Neon Columns.gif" alt="Projects" width="40"><img src="Web Dev1.gif" alt="Projects" width="150"><img src="Projects.gif" alt="Projects" width="150">
-<img alt="Boy working on computer" src="Blue Boy.gif" />
+
 <!-- Showcasing my practical experience across data and technology tools — from cleaning and transforming data to creating insightful visualizations.
 Each project reflects my ability to turn raw information into meaningful, business-ready insights.
 -->
@@ -236,9 +236,10 @@ Each project reflects my ability to turn raw information into meaningful, busine
   </a>
 </p>
 
-<!-- Code Snippets Emoji & Text -->
+<!-- Code Snippets gif & Text -->
 <p><img src="Bulb Smile.gif" width="25" alt="Green Bulb"/>A curated collection of concise, practical code examples — spanning Excel formulas, SQL queries, VBA scripts, Power BI logic, and mini HTML-CSS analytical experiments.</p>
 <p><img src="Books.gif" width="25" alt="Book"/>Each snippet reflects my daily learning, logical thinking, and problem-solving approach.</p>
+<img alt="Boy working on computer" src="Blue Boy.gif" />
 
 <!-- ## 📬 Connect with Me -->
 <img alt="Orange Meter" width="70" src="Orange Loading.gif" /><img src="Contact+me.gif" width="100" alt="Connect With Me"/>
