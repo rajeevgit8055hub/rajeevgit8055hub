@@ -314,22 +314,22 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- Typing Animation / 🤝 Thanks for Visiting! -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+GitHub+profile!;Let’s+connect+and+grow+together+in+the+data+world+🚀;Feel+free+to+check+out+my+repositories+and+ongoing+projects.)](https://git.io/typing-svg)
 
-<!-- ## Contact me -->
+<!-- ## 🤝 Contact me -->
 <!-- ☕ Buy me a coffee -->
 <div align="center">
 <a href="https://buymeacoffee.com/rajeevtiwari" target="_blank">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me A Coffee">
-<!-- LinkedIn -->
+<!-- 💼 LinkedIn -->
 <a href="https://www.linkedin.com/in/rajeev-tiwari123"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/></a>
-<!-- X -->
+<!-- ✖️ X -->
 <a href="https://x.com/rajeevtiwariRT" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="X" width="36" height="36">
 </a>
-<!-- GitHub -->
+<!-- 🆔 GitHub -->
 <a href="https://github.com/rajeevgit8055hub" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="35" height="35">
 </a>
-<!-- Website -->
+<!-- 🌐 Website -->
 <a href="https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="35" height="35">
 </a>
@@ -337,7 +337,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
  <a href="https://orcid.org/0009-0009-9505-3589" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="35" height="35">
 </a>
-<!-- Gmail -->
+<!-- 📮 Gmail -->
 <a href="mailto:rajeevtiwari8055@gmail.com" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="35" height="35">
 </a>
@@ -345,11 +345,11 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- <a href="https://www.hackerrank.com/profile/rajeevtiwari" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40">
 </a> -->
-<!-- 🌐 Facebook -->
+<!-- 👤 Facebook -->
 <!-- <a href="https://www.facebook.com/rajeevtiwariRT" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="35" height="35">
 </a> 
-<!-- Instagram -->
+<!-- ♓ Instagram -->
 <!-- <a href="https://x.com/rajeevtiwariRT" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/15713/15713420.png" alt="X" width="35" height="35">
 </a> -->
@@ -357,14 +357,14 @@ Each project reflects my ability to turn raw information into meaningful, busine
  
 <!-- Then end of my GitHub profile -->
 
-<!-- 🐍 Snake Contribution Animation
+<!-- 🐍⚕️ Violet Snake Contribution Animation
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-snake.svg" />
 </picture> -->
 
-<!-- 🐍 Snake Violet and Purple Animation -->
+<!-- 🐍🧬 Snake Violet and Purple Animation -->
 <!-- ![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/github-contribution-grid-snake.svg) -->
 
 
