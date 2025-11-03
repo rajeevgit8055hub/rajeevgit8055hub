@@ -17,6 +17,16 @@
   <a href="https://github.com/rajeevgit8055hub">
     <img src="https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
   </a> 
+    <a href="https://github.com/rajeevgit8055hub">
+   <img src="https://img.shields.io/badge/Profile%20Views-1234-blueviolet?style=for-the-badge&labelColor=000000&color=8A2BE2" alt="Profile Views"/>
+  </a> 
+    <a href="https://github.com/rajeevgit8055hub">
+   <img src="https://komarev.com/ghpvc/?username=rajeevgit8055hub&label=Profile%20Views&labelColor=000000&color=8A2BE2&style=for-the-badge" alt="Profile Views"/>
+  </a> 
+    <a href="https://github.com/rajeevgit8055hub">
+ <img src="https://komarev.com/ghpvc/?username=rajeevgit8055hub&label=Profile%20Views&labelColor=2F2F2F&color=8A2BE2&style=for-the-badge" alt="Profile Views"/>
+  </a> 
+  
  <a href="https://www.linkedin.com/in/rajeev-tiwari123"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
   </a>
   <!-- <a href="https://github.com/rajeevgit8055hub?tab=followers">
