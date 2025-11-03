@@ -1,6 +1,6 @@
 <!-- I'm Rajeev -->
-<h2><img width="30" alt="GitHub" src="Gitcolor.png" />&nbsp;Hi I'm <a href="https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/" target="_blank">Rajeev</a>
-<img width="30" alt="Green sign" src="Green sign.gif" /></h2>
+<h2><img width="30" alt="GitHub" src="Gitcolor.png" />&nbsp;Hi I'm<a href="https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/" target="_blank">Rajeev</a>
+ <img width="30" alt="Green sign" src="Green sign.gif" /></h2>
 
 <!-- Aspiring Data Analyst -->
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=F97316&vCenter=true&width=500&lines=Aspiring+Data+Analyst" alt="Typing SVG" /> -->
@@ -16,17 +16,7 @@
  <!-- Github Buttons -->
   <a href="https://github.com/rajeevgit8055hub">
     <img src="https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  </a> 
-    <a href="https://github.com/rajeevgit8055hub">
-   <img src="https://img.shields.io/badge/Profile%20Views-1234-blueviolet?style=for-the-badge&labelColor=000000&color=8A2BE2" alt="Profile Views"/>
-  </a> 
-    <a href="https://github.com/rajeevgit8055hub">
-   <img src="https://komarev.com/ghpvc/?username=rajeevgit8055hub&label=Profile%20Views&labelColor=000000&color=8A2BE2&style=for-the-badge" alt="Profile Views"/>
-  </a> 
-    <a href="https://github.com/rajeevgit8055hub">
- <img src="https://komarev.com/ghpvc/?username=rajeevgit8055hub&label=Profile%20Views&labelColor=2F2F2F&color=8A2BE2&style=for-the-badge" alt="Profile Views"/>
-  </a> 
-  
+  </a>
  <a href="https://www.linkedin.com/in/rajeev-tiwari123"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
   </a>
   <!-- <a href="https://github.com/rajeevgit8055hub?tab=followers">
@@ -53,9 +43,10 @@
 
 <!-- 👤 About Me -->
 <!-- <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50"> -->
-<img src="Biometric.gif" width="50"><img src="About me1.gif" width="120">
+<img src="Biometric.gif" alt="Biometric" width="50"><img src="About me1.gif" alt="Aboutme" width="120">
 <!-- <h2><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30">👨‍💼 About Me</h2> -->
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250">
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Boy Working" width="250"> -->
+<img align='right' src="Coding Boy.gif" alt="Coding Boy" width="250">
 
 I’m passionate about turning raw data into meaningful business insights.
 With strong expertise in Microsoft 365 and growing proficiency in modern data tools like
