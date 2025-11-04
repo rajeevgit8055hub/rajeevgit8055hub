@@ -330,7 +330,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- ## 🤝 Contact me -->
 <!-- ☕ Buy me a coffee -->
-<div align="center">
+<!-- <div align="center"> -->
 <a href="https://buymeacoffee.com/rajeevtiwari" target="_blank">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me A Coffee">
 <!-- 💼 LinkedIn -->
@@ -368,7 +368,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- <a href="https://x.com/rajeevtiwariRT" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/15713/15713420.png" alt="X" width="35" height="35">
 </a> -->
-</div>
+
  
 <!-- Then end of my GitHub profile -->
 
