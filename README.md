@@ -321,7 +321,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <div align="center">
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">
 <a href="https://github.com/rajeevgit8055hub/rajeevgit8055hub" alt="GitHub Stars" title="Star my repositories">
-  <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repositories-15k?style=for-the-badge&color=f9c513&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repositories-15k?style=for-the-badge&color=f9c513&logo=github&logoColor=black"/>
 </a>
 </div>
 
@@ -373,8 +373,8 @@ Each project reflects my ability to turn raw information into meaningful, busine
  
 <!-- Then end of my GitHub profile -->
 
-<!-- 🐍⚕️ Violet Snake Contribution Animation
-<picture>
+<!-- 🐍⚕️ Violet Snake Contribution Animation -->
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-snake.svg" />
