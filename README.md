@@ -46,7 +46,7 @@
 <img src="Biometric.gif" alt="Biometric" width="50"><img src="About me1.gif" alt="Aboutme" width="120">
 <!-- <h2><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30">👨‍💼 About Me</h2> -->
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Boy Working" width="250"> -->
-<img align='right' src="Coding Boy.gif" alt="Coding Boy" width="300">
+<img align='right' src="Coding Boy.gif" alt="Coding Boy" width="250">
 
 I’m passionate about turning raw data into meaningful business insights.
 With strong expertise in Microsoft 365 and growing proficiency in modern data tools like
@@ -356,6 +356,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="35" height="35">
 </a>
 <!-- 🟩 HackerRank -->
+<a href="https://www.hackerrank.com/profile/rajeevtiwari8055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajeev tiwari" height="40" width="40" /></a>
 <!-- <a href="https://www.hackerrank.com/profile/rajeevtiwari" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40">
 </a> -->
