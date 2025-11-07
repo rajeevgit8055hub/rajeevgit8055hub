@@ -321,14 +321,14 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- ⭐💫 Shower stars if you like my repos -->
 
-<!-- <div align="center"> -->
+<div align="center">
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">
 <a href="https://github.com/rajeevgit8055hub/rajeevgit8055hub" alt="GitHub Stars" title="Star my repositories">
 <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repositories-15k?style=for-the-badge&color=f9c513&logo=github&logoColor=black"/>
 <!-- 🤖 Pink Robot -->
 <img align="right" alt="Rajeev" width="25" src="Pink Robot.png" />
 </a>
-<!-- </div> -->
+</div>
 
 
 <!-- Typing Animation / 🤝 Thanks for Visiting! -->
