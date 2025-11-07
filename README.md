@@ -326,9 +326,10 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <a href="https://github.com/rajeevgit8055hub/rajeevgit8055hub" alt="GitHub Stars" title="Star my repositories">
 <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repositories-15k?style=for-the-badge&color=f9c513&logo=github&logoColor=black"/>
 </a>
-</div>
 <!-- 🤖 Pink Robot -->
-<img align="right" alt="Rajeev" width="50" src="Pink Robot.png" />
+<img align="right" alt="Rajeev" width="30" src="Pink Robot.png" />
+</div>
+
 
 <!-- Typing Animation / 🤝 Thanks for Visiting! -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+GitHub+profile!;Let’s+connect+and+grow+together+in+the+data+world+🚀;Feel+free+to+check+out+my+repositories+and+ongoing+projects.)](https://git.io/typing-svg)
