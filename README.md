@@ -244,7 +244,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <img alt="Boy working on computer" src="Blue Boy.gif" />
 
 <!-- ## 📬 Connect with Me -->
-<img alt="Orange Meter" width="70" src="Orange Loading.gif" /><img src="Contact+me.gif" width="100" alt="Connect With Me"/><img align="right" alt="Rajeev" width="30" src="Pink Robot.png" />
+<img alt="Orange Meter" width="70" src="Orange Loading.gif" /><img src="Contact+me.gif" width="100" alt="Connect With Me"/><img alt="Rajeev" width="30" src="Pink Robot.png" />
 
 <!-- Typing Animation / 🤝 Connect with me -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Reach+me+via+X,+LinkedIn,+GitHub,+Email+or+my+Website+🌐;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
