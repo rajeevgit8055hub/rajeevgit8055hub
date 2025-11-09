@@ -295,7 +295,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 </div>
 
 <!-- ## 🐍 Snake Contribution Animation -->
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5sc3YzYXQ1ZzI1dzNqenQ1ZmxsZzE2dDlqdzZmZ3d5bW5jajl0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEKcOWl8RMLde/giphy.webp" width="30"><img src="Poll_Live.gif" width="16">&nbsp;***Snake Contribution Animation***
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5sc3YzYXQ1ZzI1dzNqenQ1ZmxsZzE2dDlqdzZmZ3d5bW5jajl0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEKcOWl8RMLde/giphy.webp" width="30"><img src="Poll_Live.gif" width="15">&nbsp;***Snake Contribution Animation***
 
 <!-- Snake Green Pink Animation -->
 <div align="center">
