@@ -260,11 +260,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 </div>
 
 <!-- ## 🚀 GitHub Performance Overview -->
-<!-- <img src="Performance.gif" width="40"><img src="Github Overview.gif" height="150" width="150">&nbsp;***GitHub Performance Overview*** -->
-
-<img src="Poll Live.gif" width="25">&nbsp;***GitHub Performance Overview***<img src="Poll_Live.gif" width="25">
-
-<img src="Poll Live.gif" width="25"><img src="Github Overview.gif" height="150" width="150"><img src="Poll_Live.gif" width="25">
+<img src="Performance.gif" width="40"><img src="Github Overview.gif" height="150" width="150">&nbsp;***GitHub Performance Overview***
 
 <!--## 🏆 GitHub Trophies -->
 <img src="Trophy1.gif" width="35">&nbsp;***GitHub Trophies***
@@ -299,7 +295,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 </div>
 
 <!-- ## 🐍 Snake Contribution Animation -->
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5sc3YzYXQ1ZzI1dzNqenQ1ZmxsZzE2dDlqdzZmZ3d5bW5jajl0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEKcOWl8RMLde/giphy.webp" width="30">&nbsp;***Snake Contribution Animation***
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5sc3YzYXQ1ZzI1dzNqenQ1ZmxsZzE2dDlqdzZmZ3d5bW5jajl0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEKcOWl8RMLde/giphy.webp" width="30">&nbsp;***Snake Contribution Animation***<img src="Poll_Live.gif" width="20">
 
 <!-- Snake Green Pink Animation -->
 <div align="center">
