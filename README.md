@@ -50,7 +50,7 @@ and driving smarter business decisions. I’m committed to continuous learning
 and delivering data-driven solutions that create real business impact.
 
 <!-- ## 🚀 My Mission  -->
-<img src="Superhero.gif" width="50"><img src="mission.gif" width="150" height="100">
+<img src="Superhero.gif" width="50"><img src="mission.gif" width="150" height="50">
 <!-- <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="50"><img src="Mission1.gif" width="150"> -->
 <!-- <h2><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">&nbsp;🎯 My Mission</h2> -->
 
