@@ -239,7 +239,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <img alt="Boy working on computer" src="Blue Boy.gif" />
 
 <!-- ## 📬 Connect with Me -->
-<img alt="Orange Meter" width="70" src="Orange Loading.gif" /><img alt="Rajeev" width="30" src="Pink Robot.png" /><img src="Contact+me.gif" width="100" alt="Contact Me"/>
+<img alt="Orange Meter" width="70" src="Orange Loading.gif" /><img src="Rocket_Planet.gif" height="40" alt="Rocket_Planet"><img src="Contact+me.gif" width="100" alt="Contact Me"/>
 
 <!-- Typing Animation / 🤝 Connect with me -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Reach+me+via+X,+LinkedIn,+GitHub,+Email+or+my+Website+🌐;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
@@ -328,8 +328,6 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- ## 🤝 Contact me -->
 <!-- ☕ Buy me a coffee -->
 <div align="center">
-<!-- 🚀 Rocket_Planet -->
-<img src="Rocket_Planet.gif" height="45" alt="Rocket_Planet">
 <a href="https://buymeacoffee.com/rajeevtiwari" target="_blank">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee">
 <!-- 💼 LinkedIn -->
@@ -371,7 +369,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 </div>
 
 <!-- ⚠️ Disclaimer -->
-⚠️*Disclaimer:*<img width="30" alt="Green sign" src="Green sign.gif" />*This repository is for educational use only. Feel free to fork or learn from it, but please avoid any commercial redistribution.<img src="Wrong.gif" width="30" alt="Wrong" />*
+⚠️*Disclaimer:*<img alt="Rajeev" width="30" src="Pink Robot.png" /><img width="30" alt="Green sign" src="Green sign.gif" />*This repository is for educational use only. Feel free to fork or learn from it, but please avoid any commercial redistribution.<img src="Wrong.gif" width="30" alt="Wrong" />*
 
 <!-- Then end of my GitHub profile -->
 
