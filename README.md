@@ -228,7 +228,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <img src="Bulb.gif" width="40"><img src="Tips.gif" width="60">🌟 Each project embodies my commitment to transforming data and ideas into impactful outcomes — from dynamic data models and interactive dashboards to professional business presentations and insightful reports. These works reflect both technical precision and a deep understanding of business storytelling.
 
 <!-- ## 🧠 Code Snippets  -->
-<img src="Green Code1.gif" width="40" alt="Green Code1"/><img src="Box.gif" width="40" alt="Box"/><img width="100" height="40" alt="GitHub" src="Snippets.jpg" /><img src="Gist.jpg" width="100" height="40" alt="Gist"/>
+<img src="Green Code1.gif" width="40" alt="Green Code1"/><img src="Box.gif" width="40" alt="Box"/><img width="100" height="40" alt="GitHub" src="Snippets.jpg" />
 
 <!-- Code Snippets Link -->
 <p align="center">
