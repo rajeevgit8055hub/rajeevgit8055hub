@@ -50,7 +50,7 @@ and driving smarter business decisions. I’m committed to continuous learning
 and delivering data-driven solutions that create real business impact.
 
 <!-- ## 🚀 My Mission  -->
-<img src="Superhero.gif" width="50"><img src="mission.gif" width="150" height="50">
+<img src="Superhero.gif" width="50"><img src="mission.gif" width="120" height="50">
 <!-- <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="50"><img src="Mission1.gif" width="150"> -->
 <!-- <h2><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">&nbsp;🎯 My Mission</h2> -->
 
@@ -179,7 +179,7 @@ and delivering data-driven solutions that create real business impact.
 </p>
 
 <!-- ## 📂 Featured Projects -->
-<img src="Neon Columns.gif" alt="Projects" width="40"><img src="Web Dev1.gif" alt="Projects" width="150"><img src="Project_Pink.gif" alt="Projects" width="150" height="50">
+<h2><img src="Neon Columns.gif" alt="Projects" width="40"><img src="Web Dev1.gif" alt="Projects" width="150">Projects</h2>
 
 <!-- Showcasing my practical experience across data and technology tools — from cleaning and transforming data to creating insightful visualizations.
 Each project reflects my ability to turn raw information into meaningful, business-ready insights.
@@ -329,7 +329,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- ☕ Buy me a coffee -->
 <div align="center">
 <!-- 🚀 Rocket_Planet -->
-<img src="Rocket_Planet.gif" height="50" alt="Rocket_Planet">
+<img src="Rocket_Planet.gif" height="45" alt="Rocket_Planet">
 <a href="https://buymeacoffee.com/rajeevtiwari" target="_blank">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee">
 <!-- 💼 LinkedIn -->
@@ -371,10 +371,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 </div>
 
 <!-- ⚠️ Disclaimer -->
-⚠️*Disclaimer*: <img width="30" alt="Green sign" src="Green sign.gif" /> *This repository is for educational use only. Feel free to fork or learn from it, but please avoid any commercial redistribution.*<img src="Wrong.gif" width="30" alt="Wrong" />
-
-
-<img width="30" alt="Green sign" src="Green sign.gif" />
+⚠️*Disclaimer:*<img width="30" alt="Green sign" src="Green sign.gif" />*This repository is for educational use only. Feel free to fork or learn from it, but please avoid any commercial redistribution.<img src="Wrong.gif" width="30" alt="Wrong" />*
 
 <!-- Then end of my GitHub profile -->
 
@@ -394,9 +391,3 @@ Each project reflects my ability to turn raw information into meaningful, busine
 [<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="35" height="35"/>](https://github.com/rajeevgit8055hub)
 [<img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="35" height="35"/>](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Facebook" width="35" height="35"/>](https://www.facebook.com/rajeevtiwariRT) -->
-
-
-<!-- This repository is created solely for educational purposes — feel free to fork or copy, but commercial use or resale is strictly prohibited.
-<br>
-Note: This repository is for educational use only. Feel free to fork or learn from it, but please avoid any commercial redistribution. 
-
