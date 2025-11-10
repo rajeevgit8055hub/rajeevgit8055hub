@@ -392,3 +392,9 @@ Each project reflects my ability to turn raw information into meaningful, busine
 [<img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="35" height="35"/>](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Facebook" width="35" height="35"/>](https://www.facebook.com/rajeevtiwariRT) -->
 
+
+
+
+<!-- This repository is created solely for educational purposes — feel free to fork or copy, but commercial use or resale is strictly prohibited.
+<br>
+Note: This repository is for educational use only. Feel free to fork or learn from it, but please avoid any commercial redistribution. -->
