@@ -30,11 +30,6 @@
 <!-- Github Buttons -->
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&label=Profile%20Views&color=8A2BE2&style=for-the-badge) -->
 <!-- [![Profile Views](https://komarev.com/ghpvc/?username=rajeevgit8055hub&color=blueviolet)](https://github.com/rajeevgit8055hub) -->
-<!-- [![Followers](https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=social)](https://github.com/rajeevgit8055hub?tab=followers) -->
-<!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rajeevgit8055hub.rajeevgit8055hub) -->
-<!-- ![Open Source](https://img.shields.io/badge/OS-Contributor-217346?style=for-the-badge&labelColor=00C4CC) -->
-<!-- ![Repositories](https://img.shields.io/badge/Repositories-23-F29111?style=for-the-badge&labelColor=D83B01) -->
-<!-- ![Following](https://img.shields.io/badge/Following-5-00C4CC?style=for-the-badge&logo=github&logoColor=white) -->
 
 <!-- Typing Animation -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=+Hi+everyone!;I'm+passionate+data+enthusiast.;Actively+developing+skills+in+Data+Analysis+and+Business+Intelligence.;Working+with+SQL,+Excel,+Power+BI,+and+real-world+datasets.)](https://git.io/typing-svg)
@@ -55,7 +50,7 @@ and driving smarter business decisions. I’m committed to continuous learning
 and delivering data-driven solutions that create real business impact.
 
 <!-- ## 🚀 My Mission  -->
-<img src="Superhero.gif" width="50"><img src="Yellow Mission.gif" width="150">
+<img src="Superhero.gif" width="50"><img src="mission.gif" width="150">
 <!-- <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="50"><img src="Mission1.gif" width="150"> -->
 <!-- <h2><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">&nbsp;🎯 My Mission</h2> -->
 
@@ -184,7 +179,7 @@ and delivering data-driven solutions that create real business impact.
 </p>
 
 <!-- ## 📂 Featured Projects -->
-<img src="Neon Columns.gif" alt="Projects" width="40"><img src="Web Dev1.gif" alt="Projects" width="150"><img src="Projects.gif" alt="Projects" width="150">
+<img src="Neon Columns.gif" alt="Projects" width="40"><img src="Web Dev1.gif" alt="Projects" width="150"><img src="Project.gif" alt="Projects" width="150">
 
 <!-- Showcasing my practical experience across data and technology tools — from cleaning and transforming data to creating insightful visualizations.
 Each project reflects my ability to turn raw information into meaningful, business-ready insights.
@@ -333,6 +328,8 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- ## 🤝 Contact me -->
 <!-- ☕ Buy me a coffee -->
 <div align="center">
+<!-- 🚀 Rocket_Planet -->
+<img src="Rocket_Planet.gif" height="50" alt="Rocket_Planet">
 <a href="https://buymeacoffee.com/rajeevtiwari" target="_blank">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee">
 <!-- 💼 LinkedIn -->
@@ -372,7 +369,11 @@ Each project reflects my ability to turn raw information into meaningful, busine
   <img src="https://cdn-icons-png.flaticon.com/512/15713/15713420.png" alt="X" width="35" height="35">
 </a> -->
 </div>
- 
+
+<!-- ⚠️ Disclaimer -->
+⚠️*Disclaimer*: <img src="Wrong.gif" height="50" alt="Wrong"> *This repository is for educational use only. Feel free to fork or learn from it, but please avoid any commercial redistribution.* <img src="Wrong.gif" height="50" alt="Wrong">
+
+
 <!-- Then end of my GitHub profile -->
 
 <!-- 🐍⚕️ Violet Snake Contribution Animation -->
@@ -393,13 +394,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Facebook" width="35" height="35"/>](https://www.facebook.com/rajeevtiwariRT) -->
 
 
-
-
 <!-- This repository is created solely for educational purposes — feel free to fork or copy, but commercial use or resale is strictly prohibited.
 <br>
 Note: This repository is for educational use only. Feel free to fork or learn from it, but please avoid any commercial redistribution. 
 
-
-<img src="https://example.com/right.gif" width="25"/> **This repository is for educational use only. Feel free to fork or learn from it.**  
-<img src="https://example.com/wrong.gif" width="25"/> **But please avoid any commercial redistribution.**
--->
