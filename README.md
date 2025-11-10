@@ -50,7 +50,7 @@ and driving smarter business decisions. I’m committed to continuous learning
 and delivering data-driven solutions that create real business impact.
 
 <!-- ## 🚀 My Mission  -->
-<img src="Superhero.gif" width="50"><img src="mission.gif" width="150">
+<img src="Superhero.gif" width="50"><img src="mission.gif" width="150" height="100">
 <!-- <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="50"><img src="Mission1.gif" width="150"> -->
 <!-- <h2><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">&nbsp;🎯 My Mission</h2> -->
 
@@ -179,7 +179,7 @@ and delivering data-driven solutions that create real business impact.
 </p>
 
 <!-- ## 📂 Featured Projects -->
-<img src="Neon Columns.gif" alt="Projects" width="40"><img src="Web Dev1.gif" alt="Projects" width="150"><img src="Project.gif" alt="Projects" width="150">
+<img src="Neon Columns.gif" alt="Projects" width="40"><img src="Web Dev1.gif" alt="Projects" width="150"><img src="Project.gif" alt="Projects" width="150" height="100">
 
 <!-- Showcasing my practical experience across data and technology tools — from cleaning and transforming data to creating insightful visualizations.
 Each project reflects my ability to turn raw information into meaningful, business-ready insights.
@@ -371,8 +371,10 @@ Each project reflects my ability to turn raw information into meaningful, busine
 </div>
 
 <!-- ⚠️ Disclaimer -->
-⚠️*Disclaimer*: <img src="Wrong.gif" height="50" alt="Wrong"> *This repository is for educational use only. Feel free to fork or learn from it, but please avoid any commercial redistribution.* <img src="Wrong.gif" height="50" alt="Wrong">
+⚠️*Disclaimer*: <img width="30" alt="Green sign" src="Green sign.gif" /> *This repository is for educational use only. Feel free to fork or learn from it, but please avoid any commercial redistribution.*<img src="Wrong.gif" width="30" alt="Wrong" />
 
+
+<img width="30" alt="Green sign" src="Green sign.gif" />
 
 <!-- Then end of my GitHub profile -->
 
