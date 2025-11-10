@@ -397,4 +397,9 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- This repository is created solely for educational purposes — feel free to fork or copy, but commercial use or resale is strictly prohibited.
 <br>
-Note: This repository is for educational use only. Feel free to fork or learn from it, but please avoid any commercial redistribution. -->
+Note: This repository is for educational use only. Feel free to fork or learn from it, but please avoid any commercial redistribution. 
+
+
+<img src="https://example.com/right.gif" width="25"/> **This repository is for educational use only. Feel free to fork or learn from it.**  
+<img src="https://example.com/wrong.gif" width="25"/> **But please avoid any commercial redistribution.**
+-->
