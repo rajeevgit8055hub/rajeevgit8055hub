@@ -10,8 +10,8 @@
 <img align="right" alt="Rajeev" width="50" src="RV.svg" />
 
 <!-- Header Section -->
-<!-- <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> -->
-<!-- <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="30">-->
+ <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> 
+ <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="30">
 
  <!-- Github Buttons -->
   <a href="https://github.com/rajeevgit8055hub">
@@ -105,9 +105,7 @@ and delivering data-driven solutions that create real business impact.
 
 
 <!-- ## ⚙️ Tech Stack -->
-<h2><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40">Tech Stack</h2> 
-
-<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="50"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">*Tech Stack*
+<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="50"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">***Tech Stack***
 <!-- <img alt="Tools" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" height="250" /> -->
 
 <!-- Skill buttons -->
@@ -160,7 +158,7 @@ and delivering data-driven solutions that create real business impact.
 </p>
 
 <!-- ## 💫 Things I Love -->
-<img src="Things Love.gif" width="50" alt="Open Heart"/><img src="Things Love1.webp" width="100" alt="Things i love"/>
+<img src="Things Love.gif" width="50" alt="Open Heart"/><img src="Things Love1.webp" width="100" alt="Things i love"/>***Things I Love**
 
 <p align="center">
   <img  width="40" alt="LinkedIn" src="LinkedIn.svg">
@@ -180,7 +178,7 @@ and delivering data-driven solutions that create real business impact.
 </p>
 
 <!-- ## 📂 Featured Projects -->
-<h2><img src="Neon Columns.gif" alt="Projects" width="40"><img src="Web Dev1.gif" alt="Projects" width="150">Projects</h2>
+<img src="Neon Columns.gif" alt="Projects" width="40"><img src="Web Dev1.gif" alt="Projects" width="150">***Projects***
 
 <!-- Showcasing my practical experience across data and technology tools — from cleaning and transforming data to creating insightful visualizations.
 Each project reflects my ability to turn raw information into meaningful, business-ready insights.
