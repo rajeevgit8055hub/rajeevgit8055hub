@@ -105,8 +105,9 @@ and delivering data-driven solutions that create real business impact.
 
 
 <!-- ## ⚙️ Tech Stack -->
-<!-- <h2><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40">Tech Stack</h2> -->
-<h2><img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="50"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">Tech Stack</h2>
+<h2><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40">Tech Stack</h2> 
+
+<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="50"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">*Tech Stack*
 <!-- <img alt="Tools" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" height="250" /> -->
 
 <!-- Skill buttons -->
