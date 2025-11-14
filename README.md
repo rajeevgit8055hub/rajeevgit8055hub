@@ -1,3 +1,6 @@
+![GitHub Profile](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub)
+
+
 <!-- I'm Rajeev -->
 <h2><img width="30" alt="GitHub" src="Gitcolor.png" />&nbsp;Hi I'm <a href="https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/" target="_blank">Rajeev</a>
  <img width="30" alt="Green sign" src="Green sign.gif" /></h2>
