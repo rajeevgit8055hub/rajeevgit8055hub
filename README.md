@@ -10,8 +10,8 @@
 <img align="right" alt="Rajeev" width="50" src="RV.svg" />
 
 <!-- Header Section -->
- <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> 
- <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="30">
+<!-- <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> -->
+<!-- <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="30"> -->
 
  <!-- Github Buttons -->
   <a href="https://github.com/rajeevgit8055hub">
