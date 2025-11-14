@@ -158,7 +158,7 @@ and delivering data-driven solutions that create real business impact.
 </p>
 
 <!-- ## 💫 Things I Love -->
-<img src="Things Love.gif" width="50" alt="Open Heart"/><img src="Things Love1.webp" width="100" alt="Things i love"/>***Things I Love**
+<img src="Things Love.gif" width="50" alt="Open Heart"/><img src="Things Love1.webp" width="100" alt="Things i love"/>***Things I Love***
 
 <p align="center">
   <img  width="40" alt="LinkedIn" src="LinkedIn.svg">
