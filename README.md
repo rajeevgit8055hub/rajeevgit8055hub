@@ -41,7 +41,7 @@
 <img src="Biometric.gif" alt="Biometric" width="50"><img src="About me1.gif" alt="Aboutme" width="120">
 <!-- <h2><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30">👨‍💼 About Me</h2> -->
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Boy Working" width="250"> -->
-<img align='right' src="Coding Boy.gif" alt="Coding Boy" width="250">
+<img align='right' src="Thinking.gif" alt="Coding Boy" width="250">
 
 I’m passionate about turning raw data into meaningful business insights.
 With strong expertise in Microsoft 365 and growing proficiency in modern data tools like
@@ -124,7 +124,6 @@ and delivering data-driven solutions that create real business impact.
   <img  width="40" alt="Google Sheets" src="Google Sheets.svg">
   <img  width="40" alt="Tableau" src="Tableau.svg">
   <img  width="30" alt="Power BI" src="Power BI.svg">
-  <img  width="30" alt="Data VIsualization" src="Data.svg">
   <img  width="50" alt="HTML5" src="HTML5.svg">
   <img  width="30" alt="CSS" src="CSS.svg">
   <img  width="40" alt="Python" src="Python.svg">
