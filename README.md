@@ -297,6 +297,12 @@ Each project reflects my ability to turn raw information into meaningful, busine
  
 </div>
 
+<!-- ☕ Buy me a coffee -->
+<div align="center">
+<a href="https://buymeacoffee.com/rajeevtiwari" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee">
+</div>
+
 <!-- ## 🧠 Contribution Pulse -->
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40" alt="Contribution Pulse Animation">&nbsp;***Contribution Pulse***<img width="50" alt="Contribution Pulse" src="Pulse.gif">
 
@@ -324,10 +330,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+GitHub+profile!;Let’s+connect+and+grow+together+in+the+data+world+🚀;Feel+free+to+check+out+my+repositories+and+ongoing+projects.)](https://git.io/typing-svg)
 
 <!-- ## 🤝 Contact me -->
-<!-- ☕ Buy me a coffee -->
 <div align="center">
-<a href="https://buymeacoffee.com/rajeevtiwari" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee">
 <!-- 💼 LinkedIn -->
 <a href="https://www.linkedin.com/in/rajeev-tiwari123"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="25" height="25"/></a>
 <!-- ✖️ X -->
