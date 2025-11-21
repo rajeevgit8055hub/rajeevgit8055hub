@@ -301,6 +301,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <div align="center">
 <a href="https://buymeacoffee.com/rajeevtiwari" target="_blank">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee">
+</a>
 </div>
 
 <!-- ## 🧠 Contribution Pulse -->
