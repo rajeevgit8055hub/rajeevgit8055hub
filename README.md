@@ -1,9 +1,7 @@
-<!-- I'm Rajeev -->
+<!-- I'm Rajeev  ```verified```-->
 <h2><img width="30" alt="GitHub" src="Gitcolor.png" />&nbsp;Hi I'm <a href="https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/" target="_blank">Rajeev</a>
 <img width="30" alt="Green sign" src="Green sign.gif" /></h2>
- 
- ```verified```
- 
+
 <!-- Aspiring Data Analyst -->
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=F97316&vCenter=true&width=500&lines=Aspiring+Data+Analyst" alt="Typing SVG" /> -->
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=F97316&vCenter=true&width=500&lines=Welcome+to+My+Dataverse!" alt="Typing SVG" />
