@@ -1,3 +1,8 @@
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Nescafe-Driving-Coffee-Sales-Excellence&theme=midnight-purple&description_lines_count=1)](https://github.com/rajeevgit8055hub/Nescafe-Driving-Coffee-Sales-Excellence)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Nescafe-Driving-Coffee-Sales-Excellence&theme=midnight-purple&description_lines_count=1&v=1)](https://github.com/rajeevgit8055hub/Nescafe-Driving-Coffee-Sales-Excellence)
+
+
 <!-- I'm Rajeev  ```verified```-->
 <h2><img width="30" alt="GitHub" src="Gitcolor.png" />&nbsp;Hi I'm <a href="https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/" target="_blank">Rajeev</a>
 <img width="30" alt="Green sign" src="Green sign.gif" /></h2>
