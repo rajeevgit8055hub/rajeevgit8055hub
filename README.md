@@ -6,7 +6,7 @@
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=F97316&vCenter=true&width=500&lines=Aspiring+Data+Analyst" alt="Typing SVG" /> -->
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=F97316&vCenter=true&width=500&lines=Welcome+to+My+Dataverse!" alt="Typing SVG" />
 
-<!-- RV -->
+<!-- Rajeev -->
 <img align="right" alt="Rajeev" width="50" src="RV.svg" />
 
 <!-- Header Section -->
@@ -179,46 +179,45 @@ and delivering data-driven solutions that create real business impact.
 <!-- ## 📂 Featured Projects -->
 <img src="Neon Columns.gif" alt="Projects" width="40"><img src="Web Dev1.gif" alt="Projects" width="150">***Projects***
 
-<!-- Showcasing my practical experience across data and technology tools — from cleaning and transforming data to creating insightful visualizations.
-Each project reflects my ability to turn raw information into meaningful, business-ready insights.
--->
+*Showcasing my practical experience across data and technology tools — from cleaning and transforming data to creating insightful visualizations.
+Each project reflects my ability to turn raw information into meaningful, business-ready insights.*
 
 <!-- Card Style Repositories -->
-<!-- - 📊 [**Hospital Emergency Room Dashboard**](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard) -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Hospital-Emergency-Room-Dashboard&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard)
-
 <!-- - 📊 [**Hospital Emergency Room Dashboard**](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard) -->
 [![Hospital Emergency Room Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Hospital-Emergency-Room-Dashboard&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard)
 
 <!-- - 🧩 [**Unified Multi Extension Folder Based Data Cleaning**](https://github.com/rajeevgit8055hub/Unified-Multi-Extension-Folder-Based-Data-Cleaning) -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Unified-Multi-Extension-Folder-Based-Data-Cleaning&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Unified-Multi-Extension-Folder-Based-Data-Cleaning)
+[![Unified Multi Extension Folder Based Data Cleaning](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Unified-Multi-Extension-Folder-Based-Data-Cleaning&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Unified-Multi-Extension-Folder-Based-Data-Cleaning)
 
 <!-- - 🗃️ [**SmartBite Online Food Delivery DBMS**](https://github.com/rajeevgit8055hub/SmartBite-Online-Food-Delivery-DBMS) -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=SmartBite-Online-Food-Delivery-DBMS&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/SmartBite-Online-Food-Delivery-DBMS)
+[![SmartBite Online Food Delivery DBMS](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=SmartBite-Online-Food-Delivery-DBMS&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/SmartBite-Online-Food-Delivery-DBMS)
 
 <!-- - 🖼️ [**Business Insights Decks**](https://github.com/rajeevgit8055hub/Business-Insights-Decks) -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Business-Insights-Decks&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Business-Insights-Decks)
+[![Business Insights Decks](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Business-Insights-Decks&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Business-Insights-Decks)
 
 <!-- - 🛢 [**NETFLIX Data SQL Analysis**](https://github.com/rajeevgit8055hub/NETFLIX-Data-SQL-Analysis) -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=NETFLIX-Data-SQL-Analysis&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/NETFLIX-Data-SQL-Analysis)
+[![NETFLIX Data SQL Analysis](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=NETFLIX-Data-SQL-Analysis&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/NETFLIX-Data-SQL-Analysis)
 
 <!-- - 💖 [**LoveForever – A Heartfelt Digital Promise**](https://github.com/rajeevgit8055hub/LoveForever-A-Heartfelt-Digital-Promise) -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=LoveForever-A-Heartfelt-Digital-Promise&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/LoveForever-A-Heartfelt-Digital-Promise)
+[![LoveForever – A Heartfelt Digital Promise](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=LoveForever-A-Heartfelt-Digital-Promise&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/LoveForever-A-Heartfelt-Digital-Promise)
  
 <!-- - 📈 [**Nescafe Driving Coffee Sales Excellence**](https://github.com/rajeevgit8055hub/Nescafe-Driving-Coffee-Sales-Excellence) -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Nescafe-Driving-Coffee-Sales-Excellence&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Nescafe-Driving-Coffee-Sales-Excellence)
+[![Nescafe Driving Coffee Sales Excellence](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Nescafe-Driving-Coffee-Sales-Excellence&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Nescafe-Driving-Coffee-Sales-Excellence)
+
+<!-- - 📈 [**Blinkit Grocery Analysis**](https://github.com/rajeevgit8055hub/Blinkit-Grocery-Analysis) -->
+[![Blinkit Grocery Analysis](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Blinkit-Grocery-Analysis&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Blinkit-Grocery-Analysis)
 
 <!-- - 📉 [**HSBC Strategic Stakeholder Intelligence**](https://github.com/rajeevgit8055hub/HSBC-Strategic-Stakeholder-Intelligence) -->
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=HSBC-Strategic-Stakeholder-Intelligence&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/HSBC-Strategic-Stakeholder-Intelligence)
 
 <!-- - 🌐 [**Dynamic Neon Glow Website**](https://github.com/rajeevgit8055hub/rajeevtiwari.github.io) -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=rajeevtiwari.github.io&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/rajeevtiwari.github.io)
+[![Dynamic Neon Glow Website](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=rajeevtiwari.github.io&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/rajeevtiwari.github.io)
 
 <!-- - 🎓 [**Verified Digital Credentials**](https://github.com/rajeevgit8055hub/Verified-Digital-Credentials) -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=rajeevgit8055hub&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/rajeevgit8055hub)
+[![Verified Digital Credentials](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=rajeevgit8055hub&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/rajeevgit8055hub)
 
 <!-- - 💻 [**Dynamic Developer Hub**](https://github.com/rajeevgit8055hub) -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Verified-Digital-Credentials&theme=midnight-purple&cache_bust=1)](https://github.com/rajeevgit8055hub/Verified-Digital-Credentials)
+[![Dynamic Developer Hub](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Verified-Digital-Credentials&theme=midnight-purple&cache_bust=1)](https://github.com/rajeevgit8055hub/Verified-Digital-Credentials)
 
 <!-- ## 💡 ##Tip: -->
 <img src="Bulb.gif" width="40"><img src="Tips.gif" width="60">🌟 Each project embodies my commitment to transforming data and ideas into impactful outcomes — from dynamic data models and interactive dashboards to professional business presentations and insightful reports. These works reflect both technical precision and a deep understanding of business storytelling.
