@@ -1,10 +1,16 @@
-[![NETFLIX Data SQL Analysis](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=NETFLIX-Data-SQL-Analysis&theme=midnight-purple)](https://github.com/rajeevgit8055hub/NETFLIX-Data-SQL-Analysis)
+<img src="Trophy1.gif" width="35">&nbsp;***GitHub Trophies***
+[![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&no-frame=true&no-bg=true&background=000000&v=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![NETFLIX Data SQL Analysis](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=NETFLIX-Data-SQL-Analysis&theme=midnight-purple&cache_seconds=1800&v=1)](https://github.com/rajeevgit8055hub/NETFLIX-Data-SQL-Analysis)
+![snake gif](https://github.com/rajeevgit8055hub/rajeevgit8055hub/blob/output/github-contribution-grid-snake.svg)
 
-[![NETFLIX Data SQL Analysis](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=NETFLIX-Data-SQL-Analysis&show_owner=true&theme=midnight-purple)](https://github.com/rajeevgit8055hub/NETFLIX-Data-SQL-Analysis)
+## 🏆 GitHub Trophies  
+[![Trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=matrix&margin-w=10&margin-h=10&no-frame=true&v=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub)
+## 🛢 Featured Project  
+[![NETFLIX Data SQL Analysis](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=NETFLIX-Data-SQL-Analysis&theme=midnight-purple&border_radius=12&v=1)](https://github.com/rajeevgit8055hub/NETFLIX-Data-SQL-Analysis)
+
+## 🐍 Contribution Graph  
+![Snake animation](https://github.com/rajeevgit8055hub/rajeevgit8055hub/blob/output/github-contribution-grid-snake.svg)
 
 
 <!-- I'm Rajeev  ```verified```-->
