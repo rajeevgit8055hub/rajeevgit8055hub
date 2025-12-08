@@ -1,5 +1,11 @@
 [![NETFLIX Data SQL Analysis](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=NETFLIX-Data-SQL-Analysis&theme=midnight-purple)](https://github.com/rajeevgit8055hub/NETFLIX-Data-SQL-Analysis)
 
+[![NETFLIX Data SQL Analysis](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=NETFLIX-Data-SQL-Analysis&theme=midnight-purple&cache_seconds=1800&v=1)](https://github.com/rajeevgit8055hub/NETFLIX-Data-SQL-Analysis)
+
+[![NETFLIX Data SQL Analysis](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=NETFLIX-Data-SQL-Analysis&show_owner=true&theme=midnight-purple)](https://github.com/rajeevgit8055hub/NETFLIX-Data-SQL-Analysis)
+
+![](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub)
+
 
 <!-- I'm Rajeev  ```verified```-->
 <h2><img width="30" alt="GitHub" src="Gitcolor.png" />&nbsp;Hi I'm <a href="https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/" target="_blank">Rajeev</a>
