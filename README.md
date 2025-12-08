@@ -1,18 +1,3 @@
-<img src="Trophy1.gif" width="35">&nbsp;***GitHub Trophies***
-[![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&no-frame=true&no-bg=true&background=000000&v=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-![snake gif](https://github.com/rajeevgit8055hub/rajeevgit8055hub/blob/output/github-contribution-grid-snake.svg)
-
-## 🏆 GitHub Trophies  
-[![Trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=matrix&margin-w=10&margin-h=10&no-frame=true&v=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🛢 Featured Project  
-[![NETFLIX Data SQL Analysis](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=NETFLIX-Data-SQL-Analysis&theme=midnight-purple&border_radius=12&v=1)](https://github.com/rajeevgit8055hub/NETFLIX-Data-SQL-Analysis)
-
-## 🐍 Contribution Graph  
-![Snake animation](https://github.com/rajeevgit8055hub/rajeevgit8055hub/blob/output/github-contribution-grid-snake.svg)
-
-
 <!-- I'm Rajeev  ```verified```-->
 <h2><img width="30" alt="GitHub" src="Gitcolor.png" />&nbsp;Hi I'm <a href="https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/" target="_blank">Rajeev</a>
 <img width="30" alt="Green sign" src="Green sign.gif" /></h2>
@@ -201,6 +186,9 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- Card Style Repositories -->
 <!-- - 📊 [**Hospital Emergency Room Dashboard**](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard) -->
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Hospital-Emergency-Room-Dashboard&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard)
+
+<!-- - 📊 [**Hospital Emergency Room Dashboard**](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard) -->
+[![Hospital Emergency Room Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Hospital-Emergency-Room-Dashboard&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard)
 
 <!-- - 🧩 [**Unified Multi Extension Folder Based Data Cleaning**](https://github.com/rajeevgit8055hub/Unified-Multi-Extension-Folder-Based-Data-Cleaning) -->
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Unified-Multi-Extension-Folder-Based-Data-Cleaning&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Unified-Multi-Extension-Folder-Based-Data-Cleaning)
