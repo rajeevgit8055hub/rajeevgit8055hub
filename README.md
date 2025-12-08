@@ -1,3 +1,6 @@
+[![NETFLIX Data SQL Analysis](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=NETFLIX-Data-SQL-Analysis&theme=midnight-purple)](https://github.com/rajeevgit8055hub/NETFLIX-Data-SQL-Analysis)
+
+
 <!-- I'm Rajeev  ```verified```-->
 <h2><img width="30" alt="GitHub" src="Gitcolor.png" />&nbsp;Hi I'm <a href="https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/" target="_blank">Rajeev</a>
 <img width="30" alt="Green sign" src="Green sign.gif" /></h2>
