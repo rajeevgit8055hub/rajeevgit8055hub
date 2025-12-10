@@ -382,7 +382,7 @@ POWER BI PROJECT
 
 ![Repo Stats](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&count_private=true&theme=midnight-purple)
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=rajeevtiwari&theme=dark)
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=rajeevgit8055hub&theme=dark)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-RajeevTiwari-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rajeevtiwari/)
 
