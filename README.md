@@ -193,6 +193,16 @@ Each project reflects my ability to turn raw information into meaningful, busine
        src="https://img.shields.io/badge/🏥%20Hospital%20Emergency%20Room%20Dashboard-9433FF?style=for-the-badge&labelColor=000000&color=000000">
 </a>
 
+<a href="https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard">
+  <img width="420" style="border:1.5px solid #9433FF;border-radius:10px;"
+       src="https://img.shields.io/badge/🏥%20Hospital%20Emergency%20Room%20Dashboard-000000?style=for-the-badge&logoColor=9433FF&labelColor=000000&color=000000&logoWidth=20&labelTextColor=9433FF">
+</a>
+
+<a href="https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard">
+  <img width="420" style="border:1.5px solid #ffffff;border-radius:10px;"
+       src="https://img.shields.io/badge/🏥%20Hospital%20Emergency%20Room%20Dashboard-000000?style=for-the-badge&logoColor=9433FF&labelColor=000000&color=000000&logoWidth=20&labelTextColor=9433FF">
+</a>
+
 <!-- 📊 Hospital Emergency Room Dashboard -->
 [![Project Card](https://img.shields.io/badge/Hospital%20Emergency%20Room%20Dashboard-000?style=for-the-badge&logoColor=9433FF&labelColor=000000&color=000000)](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard)
 
