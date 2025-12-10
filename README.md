@@ -380,6 +380,68 @@ POWER BI PROJECT
 </table>
 </a>
 
+![Repo Stats](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&count_private=true&theme=midnight-purple)
+
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=rajeevtiwari&theme=dark)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-RajeevTiwari-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rajeevtiwari/)
+
+![PRs Stats](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Hospital-Emergency-Room-Dashboard&theme=midnight-purple&show_icons=true)
+
+![Issues Opened](https://img.shields.io/github/issues/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard?color=9433FF&style=for-the-badge)
+
+![Stars](https://img.shields.io/github/stars/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard?color=purple&style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard?color=purple&style=for-the-badge)
+
+![Release](https://img.shields.io/github/v/release/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard?color=purple&style=for-the-badge)
+
+![Total Contributed Repos](https://img.shields.io/badge/Total_Contributed_Repos-25-9433FF?style=for-the-badge)
+
+![Most Active Repo](https://img.shields.io/badge/Most_Active_Repo-Hospital_ER-DARKVIOLET?style=for-the-badge)
+
+![Open Source Impact](https://img.shields.io/badge/OpenSource-Impact-9433FF?style=for-the-badge)
+
+<!-- ## 🌟 Top Starred Repositories -->
+<img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="35">&nbsp;***Top Starred Repositories***
+<div align="center">
+![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Hospital-Emergency-Room-Dashboard&theme=midnight-purple&show_owner=true)
+![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Nescafe-Driving-Coffee-Sales-Excellence&theme=midnight-purple)
+</div>
+
+<!-- ## 📝 PR & Issue Overview -->
+<img src="https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif" width="35">&nbsp;***PR & Issue Overview***
+<div align="center">
+![PRs Opened](https://img.shields.io/badge/PRs-24-9433FF?style=for-the-badge)
+![PRs Merged](https://img.shields.io/badge/Merged-18-9433FF?style=for-the-badge)
+![Issues Open](https://img.shields.io/badge/OpenIssues-5-9433FF?style=for-the-badge)
+</div>
+
+<!-- ## 🚀 Latest Releases -->
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="35">&nbsp;***Latest Releases***
+<div align="center">
+![Release 1](https://img.shields.io/github/v/release/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard?color=9433FF&style=for-the-badge)
+![Release 2](https://img.shields.io/github/v/release/rajeevgit8055hub/Nescafe-Driving-Coffee-Sales-Excellence?color=9433FF&style=for-the-badge)
+</div>
+
+<!-- ## 🔥 Most Active Repository -->
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="35">&nbsp;***Most Active Repository***
+<div align="center">
+🏥 Hospital Emergency Room Dashboard
+<br>
+Commits this month: 34
+</div>
+
+<!-- ## 👥 Followers & Following -->
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="35">&nbsp;***Followers & Following***
+<div align="center">
+Followers: 120 &nbsp;&nbsp;|&nbsp;&nbsp; Following: 45
+</div>
+
+
+[![Nescafe Driving Coffee Sales Excellence](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Nescafe-Driving-Coffee-Sales-Excellence&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Nescafe-Driving-Coffee-Sales-Excellence)
+
+[![Nescafe Driving Coffee Sales Excellence](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Nescafe-Driving-Coffee-Sales-Excellence&theme=midnight-purple&description_lines_count=1&cache_seconds=86400)](https://github.com/rajeevgit8055hub/Nescafe-Driving-Coffee-Sales-Excellence)
+
 
 <!-- Card Style Repositories -->
 <!-- 📊 [**Hospital Emergency Room Dashboard**](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard) -->
