@@ -266,6 +266,110 @@ font-family:Consolas,Menlo,monospace;
 </table>
 </a>
 
+<a href="https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard">
+<table>
+<tr><td style="
+background:#070707;
+padding:20px 28px;
+border-radius:18px;
+border:2px solid #a020f0;
+color:#d9b3ff;
+font-size:18px;
+font-weight:700;
+font-family:Segoe UI,Arial;
+box-shadow:0px 0px 18px #a020f0;
+text-align:center;
+letter-spacing:0.5px;
+">
+👁‍🗨 Hospital Emergency Room Dashboard
+<br><span style="font-size:12px;color:#b57bff;">Power BI · Data Analytics · KPI Tracking</span>
+</td></tr>
+</table>
+</a>
+
+<a href="https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard">
+<table style="background:#000;border-radius:14px;width:420px;">
+<tr><td style="padding:18px;border-bottom:2px solid #9333ff;
+color:#cda6ff;font-size:19px;font-family:Segoe UI,Arial;font-weight:700;text-align:center;">
+🏥 Hospital Emergency Room Dashboard
+</td></tr>
+<tr><td style="padding:8px;text-align:center;color:#a46aff;font-size:13px;">
+📊 Power BI | 📈 Healthcare KPIs | ⏱ Emergency Analysis
+</td></tr>
+</table>
+</a>
+
+<a href="https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard">
+<table>
+<tr><td style="
+background:linear-gradient(145deg,#000 60%,#290033);
+padding:18px 30px;
+border-radius:16px;
+border:2px solid #9333ff;
+color:#cfa7ff;
+font-family:Segoe UI,Arial;
+font-size:18px;
+font-weight:600;
+box-shadow:0 0 20px #550088;
+text-align:center;
+">
+🏥 Hospital ER Dashboard
+</td></tr>
+</table>
+</a>
+
+<a href="https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard">
+<table style="border-radius:20px;overflow:hidden;">
+<tr><td style="
+background:#000;
+padding:14px 22px;
+color:#b366ff;
+font-size:19px;
+font-weight:700;
+font-family:Segoe UI,Arial;
+text-align:center;
+">
+🏥 Hospital Emergency Room Dashboard
+</td></tr>
+<tr><td style="
+background:#7a1aff;
+padding:6px;
+text-align:center;
+color:#fff;
+font-size:12px;
+font-family:Segoe UI,Arial;
+">
+POWER BI PROJECT
+</td></tr>
+</table>
+</a>
+
+<a href="https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard">
+<table style="border-radius:20px;overflow:hidden;">
+<tr><td style="
+background:#000;
+padding:14px 22px;
+color:#b366ff;
+font-size:19px;
+font-weight:700;
+font-family:Segoe UI,Arial;
+text-align:center;
+">
+🏥 Hospital Emergency Room Dashboard
+</td></tr>
+<tr><td style="
+background:#7a1aff;
+padding:6px;
+text-align:center;
+color:#fff;
+font-size:12px;
+font-family:Segoe UI,Arial;
+">
+POWER BI PROJECT
+</td></tr>
+</table>
+</a>
+
 
 <!-- Card Style Repositories -->
 <!-- 📊 [**Hospital Emergency Room Dashboard**](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard) -->
