@@ -189,6 +189,11 @@ Each project reflects my ability to turn raw information into meaningful, busine
 </a>
 
 <a href="https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard">
+  <img width="400" height="120" style="border-radius:12px"
+       src="https://raw.githubusercontent.com/rajeevgit8055hub/assets/main/hospital-dashboard-blacktext.svg">
+</a>
+
+<a href="https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard">
   <img width="420"
        src="https://img.shields.io/badge/🏥%20Hospital%20Emergency%20Room%20Dashboard-9433FF?style=for-the-badge&labelColor=000000&color=000000">
 </a>
