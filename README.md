@@ -185,7 +185,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- Hospital Emergency Room Dashboard Card -->
 <a href="https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard">
   <img width="400" height="120" style="border-radius: 12px;"
-       src="https://img.shields.io/badge/Hospital%20Emergency%20Room%20Dashboard-000000?style=for-the-badge&logoColor=purple&labelColor=000000&color=9433FF">
+       src="https://img.shields.io/badge/🏥Hospital%20Emergency%20Room%20Dashboard-000000?style=for-the-badge&logoColor=purple&labelColor=000000&color=9433FF">
 </a>
 
 <a href="https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard">
