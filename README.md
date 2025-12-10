@@ -193,17 +193,78 @@ Each project reflects my ability to turn raw information into meaningful, busine
        src="https://img.shields.io/badge/🏥%20Hospital%20Emergency%20Room%20Dashboard-9433FF?style=for-the-badge&labelColor=000000&color=000000">
 </a>
 
-<a href="https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard">
-<div style="display:inline-block;border:2px solid #9433FF;border-radius:12px;padding:8px 14px;background:#000000;font-family:Arial;font-size:16px;font-weight:600;color:#9433FF;">
-🏥 Hospital Emergency Room Dashboard
-</div>
-</a>
-
-
-
-
 <!-- 📊 Hospital Emergency Room Dashboard -->
 [![Project Card](https://img.shields.io/badge/Hospital%20Emergency%20Room%20Dashboard-000?style=for-the-badge&logoColor=9433FF&labelColor=000000&color=000000)](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard)
+
+<a href="https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard">
+<table>
+<tr><td style="
+background:#000;
+padding:14px 20px;
+border-radius:14px;
+border:2px solid #6a0dad;
+color:#b366ff;
+font-size:18px;
+font-weight:600;
+font-family:Segoe UI,Arial;
+text-align:center;
+box-shadow:0 0 10px #6a0dad;
+">
+🏥 Hospital Emergency Room Dashboard
+</td></tr>
+</table>
+</a>
+
+<a href="https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard">
+<table>
+<tr><td style="
+background:rgba(0,0,0,0.65);
+padding:14px 22px;
+border-radius:16px;
+border:1.5px solid #9d4dff;
+backdrop-filter:blur(6px);
+color:#c08fff;
+font-size:17px;
+font-family:Segoe UI,Arial;
+text-align:center;
+">
+✨ Hospital Emergency Room Dashboard ✨
+</td></tr>
+</table>
+</a>
+
+<a href="https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard">
+<table>
+<tr><td style="
+background:#000;
+padding:10px 26px;
+border-radius:40px;
+border:2px solid #a24bff;
+color:#a24bff;
+font-size:16px;
+font-weight:600;
+font-family:Segoe UI,Arial;
+">
+🏥 Hospital ER Dashboard
+</td></tr>
+</table>
+</a>
+
+<a href="https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard">
+<table>
+<tr><td style="
+background:#0a0a0a;
+padding:12px 20px;
+border-left:6px solid #9333ff;
+border-radius:10px;
+color:#b988ff;
+font-size:17px;
+font-family:Consolas,Menlo,monospace;
+">
+➤ Hospital Emergency Room Dashboard
+</td></tr>
+</table>
+</a>
 
 
 <!-- Card Style Repositories -->
