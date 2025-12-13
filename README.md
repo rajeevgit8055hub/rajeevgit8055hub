@@ -207,10 +207,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- - 🗃️ [**SmartBite Online Food Delivery DBMS**](https://github.com/rajeevgit8055hub/SmartBite-Online-Food-Delivery-DBMS) -->
 [![SmartBite Online Food Delivery DBMS](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=SmartBite-Online-Food-Delivery-DBMS&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/SmartBite-Online-Food-Delivery-DBMS)
 
-<!-- - 🖼️ [**Business Insights Decks**](https://github.com/rajeevgit8055hub/Business-Insights-Decks) -->
-[![Business Insights Decks](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Business-Insights-Decks&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Business-Insights-Decks)
-
-<!-- - 🖼️ [**Business Insights Decks**](https://github.com/rajeevgit8055hub/Executive-Business-Presentation-Vault) -->
+<!-- - 🖼️ [**Executive Business Presentation Vault**](https://github.com/rajeevgit8055hub/Executive-Business-Presentation-Vault) -->
 [![Business Insights Decks](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Business-Insights-Decks&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Executive-Business-Presentation-Vault)
 
 <!-- - 🛢 [**NETFLIX Data SQL Analysis**](https://github.com/rajeevgit8055hub/NETFLIX-Data-SQL-Analysis) -->
