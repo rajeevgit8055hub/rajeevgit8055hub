@@ -43,11 +43,11 @@
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Boy Working" width="250"> -->
 <img align='right' src="Thinking.gif" alt="Coding Boy" width="250">
 
-I’m passionate about turning raw data into meaningful business insights.
+*I’m passionate about turning raw data into meaningful business insights.
 With strong expertise in Microsoft 365 and growing proficiency in modern data tools like
 Power BI, SQL, and Python, I focus on optimizing reports, automating workflows,
 and driving smarter business decisions. I’m committed to continuous learning
-and delivering data-driven solutions that create real business impact.
+and delivering data-driven solutions that create real business impact.*
 
 <!-- ## 🚀 My Mission  -->
 <img src="Superhero.gif" width="50"><img src="mission.gif" width="120" height="50">
@@ -56,11 +56,11 @@ and delivering data-driven solutions that create real business impact.
 
 <img align="right" alt="Boy working on computer" width="350" src="BlackG.gif" />
 
-- To simplify complex data for easy interpretation.
-- To fulfill my dream of becoming a proficient Data Analyst.
-- To create professional and automated reporting systems.
-- To continuously learn and apply new data technologies.
-- To contribute to data-driven decision making in organizations.
+- *To simplify complex data for easy interpretation.*
+- *To fulfill my dream of becoming a proficient Data Analyst.*
+- *To create professional and automated reporting systems.*
+- *To continuously learn and apply new data technologies.*
+- *To contribute to data-driven decision making in organizations.*
 
 <!-- ## 💻 Skills & Expertise -->
 <!-- <h2><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50">&nbsp;Skills & Expertise</h2> -->
@@ -180,24 +180,10 @@ and delivering data-driven solutions that create real business impact.
 <!-- ## 📂 Featured Projects -->
 <img src="Neon Columns.gif" alt="Projects" width="40"><img src="Web Dev1.gif" alt="Projects" width="150">***Projects***
 
-Showcasing my practical experience across data and technology tools — from cleaning and transforming data to creating insightful visualizations.
-Each project reflects my ability to turn raw information into meaningful, business-ready insights.
+*Showcasing my practical experience across data and technology tools — from cleaning and transforming data to creating insightful visualizations.
+Each project reflects my ability to turn raw information into meaningful, business-ready insights.*
 
 <!-- Card Style Repositories -->
-
-<!-- Hospital Emergency Room Dashboard Card
-<a href="https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard">
-  <img width="400" height="120" style="border-radius: 12px;"
-       src="https://img.shields.io/badge/🏥Hospital%20Emergency%20Room%20Dashboard-000000?style=for-the-badge&logoColor=purple&labelColor=000000&color=9433FF">
-</a>
-
-<a href="https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard">
-  <img width="420"
-       src="https://img.shields.io/badge/🏥%20Hospital%20Emergency%20Room%20Dashboard-9433FF?style=for-the-badge&labelColor=000000&color=000000">
-</a>
-
-[![Project Card](https://img.shields.io/badge/Hospital%20Emergency%20Room%20Dashboard-000?style=for-the-badge&logoColor=9433FF&labelColor=000000&color=000000)](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard) -->
-
 
 <!-- 📊 [**Hospital Emergency Room Dashboard**](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard) -->
 [![Hospital Emergency Room Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Hospital-Emergency-Room-Dashboard&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard)
@@ -249,8 +235,8 @@ Each project reflects my ability to turn raw information into meaningful, busine
 </p>
 
 <!-- Code Snippets gif & Text -->
-<p><img src="Bulb Smile.gif" width="25" alt="Green Bulb"/>A curated collection of concise, practical code examples — spanning Excel formulas, SQL queries, VBA scripts, Power BI logic, and mini HTML-CSS analytical experiments.</p>
-<p><img src="Books.gif" width="25" alt="Book"/>Each snippet reflects my daily learning, logical thinking, and problem-solving approach.</p>
+<img src="Bulb Smile.gif" width="25" alt="Green Bulb"/>*A curated collection of concise, practical code examples — spanning Excel formulas, SQL queries, VBA scripts, Power BI logic, and mini HTML-CSS analytical experiments.*
+<img src="Books.gif" width="25" alt="Book"/>*Each snippet reflects my daily learning, logical thinking, and problem-solving approach.*
 <!-- Boy working on Computer -->
 <img alt="Boy working on computer" src="Blue Boy.gif" />
 
