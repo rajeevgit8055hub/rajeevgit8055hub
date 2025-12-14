@@ -222,7 +222,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 [![Verified Digital Credentials](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Verified-Digital-Credentials&theme=midnight-purple&cache_bust=1)](https://github.com/rajeevgit8055hub/Verified-Digital-Credentials)
 
 <!-- ## 💡 ##Tip: -->
-<img src="Bulb.gif" width="40"><img src="Tips.gif" width="60">🌟 Each project embodies my commitment to transforming data and ideas into impactful outcomes — from dynamic data models and interactive dashboards to professional business presentations and insightful reports. These works reflect both technical precision and a deep understanding of business storytelling.
+<img src="Bulb.gif" width="40"><img src="Tips.gif" width="60">🌟 *Each project embodies my commitment to transforming data and ideas into impactful outcomes — from dynamic data models and interactive dashboards to professional business presentations and insightful reports. These works reflect both technical precision and a deep understanding of business storytelling.*
 
 <!-- ## 🧠 Code Snippets  -->
 <img src="Green Code1.gif" width="40" alt="Green Code1"/><img src="Box.gif" width="40" alt="Box"/><img width="100" height="40" alt="GitHub" src="Snippets.jpg" />
@@ -236,6 +236,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- Code Snippets gif & Text -->
 <img src="Bulb Smile.gif" width="25" alt="Green Bulb"/>*A curated collection of concise, practical code examples — spanning Excel formulas, SQL queries, VBA scripts, Power BI logic, and mini HTML-CSS analytical experiments.*
+<br>
 <img src="Books.gif" width="25" alt="Book"/>*Each snippet reflects my daily learning, logical thinking, and problem-solving approach.*
 <!-- Boy working on Computer -->
 <img alt="Boy working on computer" src="Blue Boy.gif" />
