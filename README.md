@@ -103,6 +103,7 @@ and delivering data-driven solutions that create real business impact.
 <!-- ![matplotlib](https://img.shields.io/badge/matplotlib-fc4f30?style=for-the-badge&logo=matplotlib&logoColor=white) -->
 <!-- ![seaborn](https://img.shields.io/badge/seaborn-1a73e8?style=for-the-badge&logo=seaborn&logoColor=white) -->
 
+<img alt="Skills" src="Setting.gif" />
 
 <!-- ## ⚙️ Tech Stack -->
 <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="50"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">***Tech Stack***
