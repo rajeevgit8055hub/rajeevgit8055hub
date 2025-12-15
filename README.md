@@ -91,12 +91,13 @@ and delivering data-driven solutions that create real business impact.*
 [![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajeevgit8055hub)
 ![Jira](https://img.shields.io/badge/Jira-6A5ACD?style=for-the-badge&logo=jira&logoColor=white)
 ![Data Cleaning & Transformation](https://img.shields.io/badge/Data%20Cleaning%20%26%20Transformation-4682B4?style=for-the-badge&logo=powerbi&logoColor=white)
-![Data + AI](https://img.shields.io/badge/Data%20%2B%20AI-Smart-yellow?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![AI Assisted Analytics](https://img.shields.io/badge/AI%20Assisted%20Analytics-teal?style=for-the-badge&logo=openai)
-![AI Analytics](https://img.shields.io/badge/AI%20Driven%20Analytics-darkgreen?style=for-the-badge&logo=openai)
+
 ![Generative AI](https://img.shields.io/badge/Generative%20AI%20%26%20Prompt%20Engineering-purple?style=for-the-badge&logo=openai) 
 ![AI Professional](https://img.shields.io/badge/Artificial%20Intelligence-For%20Professionals-black?style=for-the-badge&logo=udemy)
+<!-- ![AI Analytics](https://img.shields.io/badge/AI%20Driven%20Analytics-darkgreen?style=for-the-badge&logo=openai) -->
+<!-- ![Data + AI](https://img.shields.io/badge/Data%20%2B%20AI-Smart-yellow?style=for-the-badge&logo=apache-spark&logoColor=white) -->
 <!-- ![Agile Practitioner](https://img.shields.io/badge/Agile-Practitioner-green?style=for-the-badge&logo=agile-software-development&logoColor=white) -->
 <!-- ![Jira Expert](https://img.shields.io/badge/Jira-Expert-blue?style=for-the-badge&logo=jira&logoColor=white) -->
 <!-- ![Jira](https://img.shields.io/badge/Jira%20Project%20Management-blue?style=for-the-badge&logo=jira) -->
