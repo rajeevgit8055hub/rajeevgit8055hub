@@ -276,104 +276,31 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <img src="Trophy1.gif" width="35">&nbsp;***GitHub Trophies***
 [![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&no-frame=true&no-bg=true&background=000000)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=flat&row=2&column=4" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub
-  &theme=onedark
-  &no-frame=true
-  &margin-w=15
-  &margin-h=15
-  &row=2
-  &column=5" />
-</p>
 
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-## 🔥 Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=tokyonight" />
-</p>
-
-## 🐍 Contribution Graph
-![snake gif](https://github.com/rajeevgit8055hub/rajeevgit8055hub/blob/output/github-contribution-grid-snake.svg)
-
-## 📌 Profile Summary
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevgit8055hub&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajeevgit8055hub&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajeevgit8055hub&theme=tokyonight" />
 </p>
 
-## 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeevgit8055hub&theme=tokyo-night" />
-</p>
 
 ## 📊 GitHub Metrics
 <p align="center">
   <img src="https://metrics.lecoq.io/rajeevgit8055hub" />
 </p>
 
-## 🏅 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-achievements.vercel.app/?username=rajeevgit8055hub" />
-</p>
+
 
 ## 🗓 Contribution Calendar
 <p align="center">
   <img src="https://ghchart.rshah.org/rajeevgit8055hub" />
 </p>
 
-## 🏆 GitHub Rank
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&rank_icon=github&theme=tokyonight" />
-</p>
 
 
-## ⏱ Coding Time Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rajeevgit8055hub&theme=tokyonight" />
-</p>
 
-## 🏆 GitHub Rank
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api
-   username=rajeevgit8055hub&rank_icon=github&theme=tokyonight&bg_color=000000&hide_border=true" />
-</p>
 
-## 🏆 GitHub Rank
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api
-    ?username=rajeevgit8055hub
-    &rank_icon=github
-    &theme=tokyonight
-    &bg_color=000000
-    &hide_border=true
-    &title_color=ffffff
-    &text_color=cccccc
-    &icon_color=58a6ff" />
-</p>
-
-## 🧠 Productive Time
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time
-    ?username=rajeevgit8055hub
-    &theme=tokyonight
-    &utcOffset=5.5" />
-</p>
 
 
 <p align="center">
