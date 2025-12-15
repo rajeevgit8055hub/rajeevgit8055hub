@@ -113,6 +113,10 @@ and delivering data-driven solutions that create real business impact.*
 ![Jira](https://img.shields.io/badge/Jira%20Workflow%20Automation-orange?style=for-the-badge&logo=jira)
 ![AI Assisted Analytics](https://img.shields.io/badge/AI%20Assisted%20Analytics-teal?style=for-the-badge&logo=openai)
 ![AI Analytics](https://img.shields.io/badge/AI%20Driven%20Analytics-darkgreen?style=for-the-badge&logo=openai)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-00B8D9?style=for-the-badge&logo=jira&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-172B4D?style=for-the-badge&logo=jira&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-6A5ACD?style=for-the-badge&logo=jira&logoColor=white)
 
 
 <img alt="Skills" src="Setting.gif" />
