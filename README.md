@@ -348,6 +348,38 @@ Each project reflects my ability to turn raw information into meaningful, busine
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rajeevgit8055hub&theme=tokyonight" />
 </p>
 
+## 🏆 GitHub Rank
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api
+    ?username=rajeevgit8055hub
+    &rank_icon=github
+    &theme=tokyonight
+    &bg_color=000000
+    &hide_border=true" />
+</p>
+
+## 🏆 GitHub Rank
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api
+    ?username=rajeevgit8055hub
+    &rank_icon=github
+    &theme=tokyonight
+    &bg_color=000000
+    &hide_border=true
+    &title_color=ffffff
+    &text_color=cccccc
+    &icon_color=58a6ff" />
+</p>
+
+## 🧠 Productive Time
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time
+    ?username=rajeevgit8055hub
+    &theme=tokyonight
+    &utcOffset=5.5" />
+</p>
+
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevgit8055hub&theme=tokyonight" />
 </p>
