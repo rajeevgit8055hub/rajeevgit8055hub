@@ -283,7 +283,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 [![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&no-frame=true&no-bg=true&background=000000)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- ## 🧮 GitHub Metrics -->
-<img src="Metrics1.gif" width="40"><img src="Metrics.gif" height="70" width="150">&nbsp;***GitHub Metrics***
+<img src="Metrics1.gif" width="40"><img src="Metrics.gif" height="50" width="150">&nbsp;***GitHub Metrics***
 <p align="center">
   <img src="https://metrics.lecoq.io/rajeevgit8055hub" />
 </p>
