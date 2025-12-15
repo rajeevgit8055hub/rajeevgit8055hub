@@ -278,13 +278,14 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- ## 🚀 GitHub Performance Overview -->
 <img src="Performance.gif" width="40"><img src="Github Overview.gif" height="150" width="150">&nbsp;***GitHub Performance Overview***
-<img src="Alone.gif" alt="Performance">
+<img src="Metrics2.gif" alt="Performance">
 
 <!--## 🏆 GitHub Trophies -->
 <img src="Trophy1.gif" width="35">&nbsp;***GitHub Trophies***
 [![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&no-frame=true&no-bg=true&background=000000)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- ## 🧮 GitHub Metrics -->
+<img src="Metrics1.gif" width="40"><img src="Metrics.gif" height="150" width="150">&nbsp;***GitHub Performance Overview***
 <p align="center">
   <img src="https://metrics.lecoq.io/rajeevgit8055hub" />
 </p>
