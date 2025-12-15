@@ -276,20 +276,9 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <img src="Trophy1.gif" width="35">&nbsp;***GitHub Trophies***
 [![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&no-frame=true&no-bg=true&background=000000)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajeevgit8055hub&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajeevgit8055hub&theme=tokyonight" />
-</p>
-
 ## 📊 GitHub Metrics
 <p align="center">
   <img src="https://metrics.lecoq.io/rajeevgit8055hub" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/rajeevgit8055hub" />
 </p>
 
 <p align="center">
@@ -297,8 +286,17 @@ Each project reflects my ability to turn raw information into meaningful, busine
 </p>
 
 <p align="center">
-  <img src="https://api.star-history.com/svg?repos=rajeevgit8055hub/rajeevtiwari.github.io&type=Date" /> 
+  <img src="https://api.star-history.com/svg?repos=rajeevgit8055hub/rajeevgit8055hub/&type=Date" /> 
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajeevgit8055hub&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=rajeevtiwari.github.io&theme=tokyonight&bg_color=000000&hide_border=true" />
+</p>
+
 
 <!-- ## 👨‍💻 Profile Summary Card -->
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50">&nbsp;***Profile Summary Card***
