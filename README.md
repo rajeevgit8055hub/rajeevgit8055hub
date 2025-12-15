@@ -289,14 +289,6 @@ Each project reflects my ability to turn raw information into meaningful, busine
   <img src="https://metrics.lecoq.io/rajeevgit8055hub" />
 </p>
 
-
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/rajeevgit8055hub?template=classic&base=header,activity,community,repositories,metadata" />
-</p>
-
-
-
 <!-- ## 🧮 GitHub Metrics -->
 <!-- <p align="center">
   <img src="https://metrics.lecoq.io/rajeevgit8055hub?template=classic&base=header,activity,community,repositories,metadata" />
