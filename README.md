@@ -270,6 +270,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- ## 🚀 GitHub Performance Overview -->
 <img src="Performance.gif" width="40"><img src="Github Overview.gif" height="150" width="150">&nbsp;***GitHub Performance Overview***
+<img src="Alone.gif" alt="Performance">
 
 <!--## 🏆 GitHub Trophies -->
 <img src="Trophy1.gif" width="35">&nbsp;***GitHub Trophies***
