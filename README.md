@@ -233,6 +233,10 @@ Each project reflects my ability to turn raw information into meaningful, busine
 [![Verified Digital Credentials](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Verified-Digital-Credentials&theme=midnight-purple&cache_bust=1)](https://github.com/rajeevgit8055hub/Verified-Digital-Credentials)
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Verified-Digital-Credentials&theme=tokyonight&bg_color=000000&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=rajeevtiwari.github.io&theme=tokyonight&bg_color=000000&hide_border=true" />
 </p>
 
