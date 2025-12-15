@@ -213,9 +213,6 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- - 🛢 [**NETFLIX Data SQL Analysis**](https://github.com/rajeevgit8055hub/NETFLIX-Data-SQL-Analysis) -->
 [![NETFLIX Data SQL Analysis](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=NETFLIX-Data-SQL-Analysis&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/NETFLIX-Data-SQL-Analysis)
-
-<!-- - 💖 [**LoveForever – A Heartfelt Digital Promise**](https://github.com/rajeevgit8055hub/LoveForever-A-Heartfelt-Digital-Promise) -->
-[![LoveForever – A Heartfelt Digital Promise](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=LoveForever-A-Heartfelt-Digital-Promise&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/LoveForever-A-Heartfelt-Digital-Promise)
  
 <!-- - 📈 [**Nescafe Driving Coffee Sales Excellence**](https://github.com/rajeevgit8055hub/Nescafe-Driving-Coffee-Sales-Excellence) -->
 [![Nescafe Driving Coffee Sales Excellence](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Nescafe-Driving-Coffee-Sales-Excellence&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Nescafe-Driving-Coffee-Sales-Excellence)
