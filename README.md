@@ -291,26 +291,6 @@ Each project reflects my ability to turn raw information into meaningful, busine
 </p>
 
 
-
-## 🗓 Contribution Calendar
-<p align="center">
-  <img src="https://ghchart.rshah.org/rajeevgit8055hub" />
-</p>
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevgit8055hub&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajeevgit8055hub&theme=tokyonight&utcOffset=5.5" />
-</p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajeevgit8055hub&theme=tokyonight" />
 </p>
