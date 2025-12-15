@@ -84,15 +84,15 @@ and delivering data-driven solutions that create real business impact.*
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 ![Business Insights](https://img.shields.io/badge/Business%20Insights-2F4F4F?style=for-the-badge&logo=bar-chart&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajeevgit8055hub)
-![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 ![Data Cleaning & Transformation](https://img.shields.io/badge/Data%20Cleaning%20%26%20Transformation-4682B4?style=for-the-badge&logo=powerbi&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI%20%26%20Prompt%20Engineering-purple?style=for-the-badge&logo=openai)
 ![AI Professional](https://img.shields.io/badge/Artificial%20Intelligence-For%20Professionals-black?style=for-the-badge&logo=udemy)
 <!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)-->
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 <!-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) -->
 <!-- ![Word](https://img.shields.io/badge/Word-0078D7?style=for-the-badge&logo=microsoft-word&logoColor=white)
 <!-- ![CHMT](https://img.shields.io/badge/CHMT-008080?style=for-the-badge&logo=read-the-docs&logoColor=white) -->
@@ -104,6 +104,16 @@ and delivering data-driven solutions that create real business impact.*
 <!-- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) -->
 <!-- ![matplotlib](https://img.shields.io/badge/matplotlib-fc4f30?style=for-the-badge&logo=matplotlib&logoColor=white) -->
 <!-- ![seaborn](https://img.shields.io/badge/seaborn-1a73e8?style=for-the-badge&logo=seaborn&logoColor=white) -->
+
+![Jira Expert](https://img.shields.io/badge/Jira-Expert-blue?style=for-the-badge&logo=jira&logoColor=white)
+![Agile Practitioner](https://img.shields.io/badge/Agile-Practitioner-green?style=for-the-badge&logo=agile-software-development&logoColor=white)
+![AI Analytics](https://img.shields.io/badge/AI-Analytics-purple?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![Data + AI](https://img.shields.io/badge/Data%20%2B%20AI-Smart-yellow?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira%20Project%20Management-blue?style=for-the-badge&logo=jira)
+![Jira](https://img.shields.io/badge/Jira%20Workflow%20Automation-orange?style=for-the-badge&logo=jira)
+![AI Assisted Analytics](https://img.shields.io/badge/AI%20Assisted%20Analytics-teal?style=for-the-badge&logo=openai)
+![AI Analytics](https://img.shields.io/badge/AI%20Driven%20Analytics-darkgreen?style=for-the-badge&logo=openai)
+
 
 <img alt="Skills" src="Setting.gif" />
 
