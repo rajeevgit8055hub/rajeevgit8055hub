@@ -81,6 +81,7 @@ and delivering data-driven solutions that create real business impact.*
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-172B4D?style=for-the-badge&logo=jira&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=white)
@@ -115,7 +116,6 @@ and delivering data-driven solutions that create real business impact.*
 ![AI Analytics](https://img.shields.io/badge/AI%20Driven%20Analytics-darkgreen?style=for-the-badge&logo=openai)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-00B8D9?style=for-the-badge&logo=jira&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-172B4D?style=for-the-badge&logo=jira&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-6A5ACD?style=for-the-badge&logo=jira&logoColor=white)
 
 
