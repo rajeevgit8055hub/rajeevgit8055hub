@@ -2,6 +2,14 @@
 <h2><img width="30" alt="GitHub" src="Gitcolor.png" />&nbsp;Hi I'm <a href="https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/" target="_blank">Rajeev</a>
 <img width="30" alt="Green sign" src="Green sign.gif" /></h2>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajeevgit8055hub&utcOffset=5.5" />
+<img src="https://github-contribution-stats.vercel.app/api/?username=rajeevgit8055hub" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajeevgit8055hub" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajeevgit8055hub" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeevgit8055hub" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=rajeevgit8055hub" />
+
+
 <!-- Aspiring Data Analyst -->
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=F97316&vCenter=true&width=500&lines=Aspiring+Data+Analyst" alt="Typing SVG" /> -->
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=F97316&vCenter=true&width=500&lines=Welcome+to+My+Dataverse!" alt="Typing SVG" />
