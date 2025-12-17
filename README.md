@@ -306,10 +306,18 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <img src="Trophy1.gif" width="35">&nbsp;***GitHub Trophies***
 [![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&no-frame=true&no-bg=true&background=000000)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!-- ## 🧠 Contribution Pulse -->
+<img width="50" alt="Contribution Pulse" src="Pulse.gif">&nbsp;***Contribution Pulse***
+<!-- <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40" alt="Contribution Pulse Animation"> -->
+
+<!-- Contribution Pulse Buttons -->
+![Security](https://img.shields.io/badge/Security-Verified-228B22?style=for-the-badge&logo=github)
+![Last Commit](https://img.shields.io/github/last-commit/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=git)
+
 <!-- ## 🧮 GitHub Metrics -->
 <img src="Metrics1.gif" width="40">&nbsp;***GitHub Metrics***
 <p align="center">
-  <img src="https://metrics.lecoq.io/rajeevgit8055hub" />
+<img src="https://metrics.lecoq.io/rajeevgit8055hub" />
 </p>
 <!-- <img src="Metrics.gif" height="50" width="150"> -->
  
@@ -362,21 +370,6 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee">
 </a>
 </div>
-
-<!-- ## 🧠 Contribution Pulse -->
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40" alt="Contribution Pulse Animation">&nbsp;***Contribution Pulse***<img width="50" alt="Contribution Pulse" src="Pulse.gif">
-
-<!-- Contribution Pulse Buttons -->
-![Contributions](https://badgen.net/badge/Contributions/Active/228B22?icon=github)
-![Commits](https://badgen.net/github/commits/rajeevgit8055hub/rajeevgit8055hub?icon=github&label=Total%20Commits)
-![Code Quality](https://img.shields.io/badge/Code%20Quality-A%2B-228B22?style=for-the-badge&logo=github)
-![Repo Size](https://img.shields.io/github/repo-size/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=git)
-![Project Status](https://img.shields.io/badge/Status-Stable-blue?style=for-the-badge&logo=dependabot)
-![Build Status](https://img.shields.io/badge/Build-Passing-success?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitHub Forks](https://img.shields.io/github/forks/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=git)
-![GitHub Stars](https://img.shields.io/github/stars/rajeevgit8055hub?affiliations=OWNER&style=for-the-badge&logo=github)
-![Security](https://img.shields.io/badge/Security-Verified-228B22?style=for-the-badge&logo=github)
 
 <!-- ⭐💫 Shower stars if you like my repos -->
 <div align="center">
