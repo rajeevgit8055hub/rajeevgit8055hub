@@ -114,8 +114,32 @@ and delivering data-driven solutions that create real business impact.*
 <!-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) -->
 <!-- ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) -->
 <!-- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) -->
-<!-- ![matplotlib](https://img.shields.io/badge/matplotlib-fc4f30?style=for-the-badge&logo=matplotlib&logoColor=white) -->
-<!-- ![seaborn](https://img.shields.io/badge/seaborn-1a73e8?style=for-the-badge&logo=seaborn&logoColor=white) -->
+<!-- ![matplotlib](https://img.shields.io/badge/matplotlib-fc4f30?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-4F85C9?style=for-the-badge&logo=microsoft-powerquery&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-powerbi&logoColor=black)
+![Power Pivot](https://img.shields.io/badge/Power_Pivot-0078D7?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MIS Reporting](https://img.shields.io/badge/MIS_Reporting-F57C00?style=for-the-badge&logo=analytics&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-865A33?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white)
+![AI Assisted Analytics](https://img.shields.io/badge/AI%20Assisted%20Analytics-teal?style=for-the-badge&logo=openai)
+![DAX](https://img.shields.io/badge/DAX-5B2D8B?style=for-the-badge&logo=powerbi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F29111?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Predictive Analysis](https://img.shields.io/badge/Predictive_Analysis-0A66C2?style=for-the-badge&logo=databricks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Data + AI](https://img.shields.io/badge/Data%20%2B%20AI-teal?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI%20%26%20Prompt%20Engineering-purple?style=for-the-badge&logo=openai)
+![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)
+![Maths Stats](https://img.shields.io/badge/Mathematics%20%26%20Statistics-black?style=for-the-badge)
+![Business Insights](https://img.shields.io/badge/Business%20Insights-2F4F4F?style=for-the-badge&logo=bar-chart&logoColor=white)
+![Data Cleaning & Transformation](https://img.shields.io/badge/Data%20Cleaning%20%26%20Transformation-4682B4?style=for-the-badge&logo=powerbi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![seaborn](https://img.shields.io/badge/seaborn-1a73e8?style=for-the-badge&logo=seaborn&logoColor=white) -->
 
 <img alt="Skills" src="Setting.gif" />
 
