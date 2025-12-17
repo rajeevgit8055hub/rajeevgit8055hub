@@ -308,7 +308,10 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- ## 🧮 GitHub Metrics -->
 <img src="Metrics1.gif" width="40">&nbsp;***GitHub Metrics***
-<img src="https://metrics.lecoq.io/rajeevgit8055hub" />
+<p align="center">
+  <img src="https://metrics.lecoq.io/rajeevgit8055hub" />
+</p>
+<!-- <img src="Metrics.gif" height="50" width="150"> -->
  
 <!-- ## 🧮 GitHub Metrics -->
 <!-- <p align="center">
