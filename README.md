@@ -7,16 +7,16 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=F97316&vCenter=true&width=500&lines=Welcome+to+My+Dataverse!" alt="Typing SVG" />
 
 <!-- Rajeev -->
+<a href="https://www.linkedin.com/in/rajeev-tiwari123"><img align="right" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
 <img align="right" alt="Rajeev" width="50" src="RV.svg" />
+</a>
 
 <!-- Header Section -->
 <!-- <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> -->
 <!-- <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="30"> -->
 
 <!-- Github Buttons -->
-<a href="https://www.linkedin.com/in/rajeev-tiwari123"><img align="right" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
-  </a>
-  <!-- <a href="https://github.com/rajeevgit8055hub?tab=followers">
+<!-- <a href="https://github.com/rajeevgit8055hub?tab=followers">
     <img src="https://img.shields.io/github/followers/rajeevgit8055hub?label=Followers&style=for-the-badge&color=00C4CC&logo=github" alt="Followers"/>
   </a> -->
  <!--  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source Contributor"/> -->
