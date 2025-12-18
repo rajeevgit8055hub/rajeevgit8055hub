@@ -319,6 +319,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- <p align="center">
   <img src="https://metrics.lecoq.io/rajeevgit8055hub?template=classic&base=header,activity,community,repositories,metadata" />
 </p> -->
+<!-- ![GitHub Metrics](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true) -->
 
 <!-- ## 👨‍💻 Profile Summary Card -->
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50">&nbsp;***Profile Summary Card***
@@ -337,8 +338,6 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- ## 🔝 Top Contributed Repositories-->
 <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="40"/>&nbsp;***Top Contributed Repositories***
-
-![GitHub Metrics](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 <!--## 🔥 GitHub Streak -->
 <img src="Color Loading.gif" alt="Streak" width="50">&nbsp;***GitHub Streak***
@@ -424,21 +423,3 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <br>but please avoid any commercial redistribution.<img src="Wrong.gif" width="30" alt="Wrong" />*
 
 <!-- Then end of my GitHub profile -->
-
-<!-- 🐍⚕️ Violet Snake Contribution Animation -->
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-snake.svg" />
-</picture> -->
-
-<!-- 🐍🧬 Snake Violet and Purple Animation -->
-<!-- ![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/github-contribution-grid-snake.svg) -->
-
-<!-- [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Facebook" width="35" height="35"/>](https://www.facebook.com/rajeevtiwariRT) -->
-<!-- [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="35" height="35"/>](https://www.linkedin.com/in/rajeev-tiwari123)
-[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="35" height="35"/>](mailto:rajeevtiwari8055@gmail.com)
-[<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="35" height="35"/>](https://github.com/rajeevgit8055hub)
-[<img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="35" height="35"/>](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)
-[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Facebook" width="35" height="35"/>](https://www.facebook.com/rajeevtiwariRT) -->
-
