@@ -427,11 +427,11 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- Then end of my GitHub profile -->
 
 <!-- 🐍⚕️ Violet Snake Contribution Animation -->
-<!-- <picture>
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-snake.svg" />
-</picture> -->
+</picture>
 
 <!-- 🐍🧬 Snake Violet and Purple Animation -->
 <!-- ![Snake animation](https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/main/github-contribution-grid-snake.svg) -->
