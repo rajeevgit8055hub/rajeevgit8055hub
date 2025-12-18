@@ -249,9 +249,6 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- - 🌐 [**Dynamic Neon Glow Website**](https://github.com/rajeevgit8055hub/rajeevtiwari.github.io) -->
 [![Dynamic Neon Glow Website](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=rajeevtiwari.github.io&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/rajeevtiwari.github.io)
 
-<!-- - 🎓 [**Dynamic Developer Hub**](https://github.com/rajeevgit8055hub) -->
-[![Dynamic Developer Hub](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=rajeevgit8055hub&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/rajeevgit8055hub)
-
 <!-- - 💻 [**Verified Digital Credentials**](https://github.com/rajeevgit8055hub/Verified-Digital-Credentials) -->
 [![Verified Digital Credentials](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Verified-Digital-Credentials&theme=midnight-purple&cache_bust=1)](https://github.com/rajeevgit8055hub/Verified-Digital-Credentials)
 
