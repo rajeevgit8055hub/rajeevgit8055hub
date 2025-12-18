@@ -472,3 +472,33 @@ style="background-color:#0d0221;border-radius:16px;">
 [<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="35" height="35"/>](https://github.com/rajeevgit8055hub)
 [<img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="35" height="35"/>](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Facebook" width="35" height="35"/>](https://www.facebook.com/rajeevtiwariRT) -->
+
+
+
+<tr>
+  <td align="center" style="padding:0; border:none;">
+    <img 
+      src="https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true"
+      style="border:none; outline:none; box-shadow:none; display:block;"
+    />
+  </td>
+</tr>
+
+<table cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td align="center" style="border:none;">
+      <img 
+        src="https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true"
+        style="border:none; display:block;"
+      />
+    </td>
+  </tr>
+</table>
+
+
+<tr>
+<td align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=midnight-purple&hide_border=true" />
+</td>
+
+
