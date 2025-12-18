@@ -365,6 +365,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 </a>
 </div>
 
+<br>
 <!-- ⭐💫 Shower stars if you like my repos -->
 <div align="center">
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">
@@ -415,7 +416,6 @@ Each project reflects my ability to turn raw information into meaningful, busine
   <img src="https://cdn-icons-png.flaticon.com/512/15713/15713420.png" alt="X" width="35" height="35">
 </a> -->
 </div>
-<br>
 
 <!-- ⚠️ Disclaimer -->
 ⚠️*Disclaimer:*<img alt="Rajeev" width="25" src="Pink Robot.png" /><img width="30" alt="Green sign" src="Green sign.gif" />*This repository is for educational use only. Feel free to fork or learn from it,
