@@ -319,7 +319,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- <p align="center">
   <img src="https://metrics.lecoq.io/rajeevgit8055hub?template=classic&base=header,activity,community,repositories,metadata" />
 </p> -->
-<!-- <img src="https://metrics.lecoq.io/rajeevgit8055hub?template=classic&languages=1&habits=1&isocalendar=1&config.timezone=Asia/Kolkata" /> -->
+<img src="https://metrics.lecoq.io/rajeevgit8055hub?template=classic&languages=1&habits=1&isocalendar=1&config.timezone=Asia/Kolkata" />
 
 <!-- ## 👨‍💻 Profile Summary Card -->
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50">&nbsp;***Profile Summary Card***
