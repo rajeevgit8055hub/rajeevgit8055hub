@@ -511,3 +511,44 @@ style="background-color:#0d0221;border-radius:16px;">
 
  🌐 Live Website: [Netlify Site](https://statuesque-pastelito-7317db.netlify.app/)
 
+
+
+
+<!-- ## 🚀 GitHub Skills Overview -->
+<img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="40">&nbsp;***GitHub Skills Overview***
+
+<!--## 🏆 Achievements & Badges -->
+<img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="35">&nbsp;***Achievements & Badges***
+[![GitHub Badges](https://badges.pufler.dev/)](https://github.com/rajeevgit8055hub)
+
+<!-- ## 🧠 Contribution Heatmap -->
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="50">&nbsp;***Contribution Heatmap***
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=rajeevgit8055hub&theme=react-dark&hide_border=true)
+
+<!-- Contribution Overview -->
+![Commits](https://img.shields.io/badge/Commits-2.5k-blue?style=for-the-badge&logo=git)
+![Repositories](https://img.shields.io/badge/Repositories-75-green?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Followers-1.2k-orange?style=for-the-badge&logo=github)
+
+<!-- ## 📊 Language Stats -->
+<img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" width="40">&nbsp;***Language Stats***
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=radical)
+
+<!-- ## 🔝 Popular Repos -->
+<img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="40">&nbsp;***Popular Repos***
+![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+<!--## 🐍 Animated Snake Contribution -->
+<img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" width="30">&nbsp;***Snake Contributions***
+<div align="center">
+![snake gif](https://github.com/rajeevgit8055hub/rajeevgit8055hub/blob/output/github-snake-dark.svg)
+</div>
+
+<!-- ## 🤝 Connect with Me -->
+<div align="center">
+<a href="https://www.linkedin.com/in/rajeev-tiwari123"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25"/></a>
+<a href="https://x.com/rajeevtiwariRT"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="30"/></a>
+<a href="https://github.com/rajeevgit8055hub"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="30"/></a>
+<a href="mailto:rajeevtiwari8055@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/></a>
+</div>
+
