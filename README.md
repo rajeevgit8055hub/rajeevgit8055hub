@@ -552,3 +552,43 @@ style="background-color:#0d0221;border-radius:16px;">
 <a href="mailto:rajeevtiwari8055@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/></a>
 </div>
 
+<!-- ## 🌟 GitHub Mastery Dashboard -->
+<img src="https://media.giphy.com/media/3o7aD4DukfGjs6S9Z6/giphy.gif" width="40">&nbsp;***GitHub Mastery Dashboard***
+
+<!--## 🏅 My GitHub Awards -->
+<img src="https://media.giphy.com/media/3o6ZsX6tJ0s0J3nHCo/giphy.gif" width="35">&nbsp;***My GitHub Awards***
+[![GitHub Awards](https://badges.pufler.dev/)](https://github.com/rajeevgit8055hub)
+
+<!-- ## 🔥 Activity Heatmap -->
+<img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="50">&nbsp;***Activity Heatmap***
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=rajeevgit8055hub&theme=react-dark&hide_border=true)
+
+<!-- Quick Stats -->
+![Commits](https://img.shields.io/badge/Total_Commits-2.6k-blue?style=for-the-badge&logo=git)
+![Repositories](https://img.shields.io/badge/Repos-78-green?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Followers-1.3k-orange?style=for-the-badge&logo=github)
+
+<!-- ## 💻 Languages & Skills -->
+<img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="40">&nbsp;***Languages & Skills***
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=vue-dark)
+
+<!-- ## 📌 Featured Repositories -->
+<img src="https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif" width="40">&nbsp;***Featured Repositories***
+![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+
+<!--## 🐍 GitHub Snake Animation -->
+<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="30">&nbsp;***Snake Contributions***
+<div align="center">
+![snake gif](https://github.com/rajeevgit8055hub/rajeevgit8055hub/blob/output/github-snake-dark.svg)
+</div>
+
+<!-- ## 🤝 Connect & Collaborate -->
+<div align="center">
+<a href="https://www.linkedin.com/in/rajeev-tiwari123"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25"/></a>
+<a href="https://x.com/rajeevtiwariRT"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="30"/></a>
+<a href="https://github.com/rajeevgit8055hub"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="30"/></a>
+<a href="mailto:rajeevtiwari8055@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/></a>
+<a href="https://www.hackerrank.com/profile/rajeevtiwari8055"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="30"/></a>
+</div>
+
+
