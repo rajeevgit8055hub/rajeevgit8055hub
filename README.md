@@ -331,7 +331,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- ## 💬 Top Languages -->
 <img src="Technology.gif" width="40">&nbsp;***Top Languages***
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=midnight-purple) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=midnight-purple)
 <!-- <img align="right" alt="GitHub Lens" width="120" src="Lens1.gif" /> -->
 
 <!-- ## 🔝 Top Contributed Repositories-->
