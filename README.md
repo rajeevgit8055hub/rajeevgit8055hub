@@ -488,7 +488,9 @@ style="background-color:#0d0221;border-radius:16px;">
 
 
 
-https://www.leetcode.com/vanshika_pachauri
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vanshika_pachauri&theme=react-dark&hide_border=true)
+<img src="https://leetcard.jacoblin.cool/vanshika_pachauri?theme=dark&font=Karma" />
+
 
 <img src="https://img.shields.io/badge/Hosted-Vercel-black?style=for-the-badge&logo=vercel" />
 <img src="https://img.shields.io/badge/Backend-PostgreSQL-blue?style=for-the-badge&logo=postgresql" />
@@ -620,6 +622,19 @@ https://www.leetcode.com/vanshika_pachauri
 <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="40">&nbsp;***Top Languages & Repositories***
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=radical)
 ![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+
+
+
+![GitHub Skyline](https://skyline.github.com/rajeevgit8055hub/2024.png)
+![LeetCode Stats](https://leetcard.jacoblin.cool/vanshika_pachauri?theme=dark&font=Karma)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=vanshika_pachauri&theme=darkhub&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Contribution Day](https://img.shields.io/badge/Top_Day-Mon-yellow?style=for-the-badge)
+![Top Month](https://img.shields.io/badge/Top_Month-Aug-green?style=for-the-badge)
+![Recent Repo](https://img.shields.io/github/stars/vanshika_pachauri/REPO_NAME?style=for-the-badge)
+![Recent Repo](https://img.shields.io/github/stars/vanshika_pachauri/REPO_NAME?style=for-the-badge)
+![GitHub Compare](https://ghchart.rshah.org/vanshika_pachauri)
+
 
 
 
