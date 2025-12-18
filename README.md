@@ -508,4 +508,6 @@ style="background-color:#0d0221;border-radius:16px;">
 <img src="https://img.shields.io/github/downloads/rajeevgit8055hub/REPO_NAME/total?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI-GitHub%20Copilot-blue?style=for-the-badge&logo=github" />, <img src="https://img.shields.io/badge/AI-OpenAI-purple?style=for-the-badge&logo=openai" />
  
- 
+
+ 🌐 Live Website: [Netlify Site](https://statuesque-pastelito-7317db.netlify.app/)
+
