@@ -329,13 +329,13 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***GitHub Stats***
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=midnight-purple)
 
-<!-- ## 💬 Top Languages -->
-<img src="Technology.gif" width="40">&nbsp;***Top Languages***
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=midnight-purple)
+<!-- ## 💬 Top Languages
+<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="40"/>&nbsp;***Top Languages***
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=midnight-purple) -->
 <!-- <img align="right" alt="GitHub Lens" width="120" src="Lens1.gif" /> -->
 
 <!-- ## 🔝 Top Contributed Repositories-->
-<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="40"/>&nbsp;***Top Contributed Repositories***
+<img src="Technology.gif" width="40">&nbsp;***Top Contributed Repositories***
 ![Top Repositories](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 <!--## 🔥 GitHub Streak -->
