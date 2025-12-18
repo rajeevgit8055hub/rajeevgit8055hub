@@ -319,13 +319,11 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- <p align="center">
   <img src="https://metrics.lecoq.io/rajeevgit8055hub?template=classic&base=header,activity,community,repositories,metadata" />
 </p> -->
-![GitHub Metrics](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+<!-- <img src="https://metrics.lecoq.io/rajeevgit8055hub?template=classic&languages=1&habits=1&isocalendar=1&config.timezone=Asia/Kolkata" /> -->
 
 <!-- ## 👨‍💻 Profile Summary Card -->
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50">&nbsp;***Profile Summary Card***
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevgit8055hub&theme=midnight_purple)
-
-<img src="https://metrics.lecoq.io/rajeevgit8055hub?template=classic&languages=1&habits=1&isocalendar=1&config.timezone=Asia/Kolkata" />
 
 <!-- ## 📊 GitHub Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***GitHub Stats***
@@ -338,6 +336,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- ## 🔝 Top Contributed Repositories-->
 <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="40"/>&nbsp;***Top Contributed Repositories***
+![Top Repositories](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 <!--## 🔥 GitHub Streak -->
 <img src="Color Loading.gif" alt="Streak" width="50">&nbsp;***GitHub Streak***
