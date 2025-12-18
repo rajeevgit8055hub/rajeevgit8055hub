@@ -309,12 +309,12 @@ Each project reflects my ability to turn raw information into meaningful, busine
 ![Last Commit](https://img.shields.io/github/last-commit/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=git)
 
 <!-- ## 🧮 GitHub Metrics -->
+<!-- <img src="Metrics.gif" height="50" width="150"> -->
 <img src="Metrics1.gif" width="40">&nbsp;***GitHub Metrics***
 <p align="center">
 <img src="https://metrics.lecoq.io/rajeevgit8055hub" />
 </p>
-<!-- <img src="Metrics.gif" height="50" width="150"> -->
- 
+
 <!-- ## 🧮 GitHub Metrics -->
 <!-- <p align="center">
   <img src="https://metrics.lecoq.io/rajeevgit8055hub?template=classic&base=header,activity,community,repositories,metadata" />
@@ -323,6 +323,8 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- ## 👨‍💻 Profile Summary Card -->
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50">&nbsp;***Profile Summary Card***
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevgit8055hub&theme=midnight_purple)
+
+<img src="https://metrics.lecoq.io/rajeevgit8055hub?template=classic&languages=1&habits=1&isocalendar=1&config.timezone=Asia/Kolkata" />
 
 <!-- ## 📊 GitHub Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***GitHub Stats***
