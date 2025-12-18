@@ -487,6 +487,9 @@ style="background-color:#0d0221;border-radius:16px;">
 <img src="https://api.netlify.com/api/v1/badges/PASTE_SITE_ID_HERE/deploy-status" />
 
 
+
+https://www.leetcode.com/vanshika_pachauri
+
 <img src="https://img.shields.io/badge/Hosted-Vercel-black?style=for-the-badge&logo=vercel" />
 <img src="https://img.shields.io/badge/Backend-PostgreSQL-blue?style=for-the-badge&logo=postgresql" />
 
@@ -590,5 +593,33 @@ style="background-color:#0d0221;border-radius:16px;">
 <a href="mailto:rajeevtiwari8055@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/></a>
 <a href="https://www.hackerrank.com/profile/rajeevtiwari8055"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="30"/></a>
 </div>
+
+
+
+<!-- ## 🌐 GitHub Overview -->
+<img src="https://media.giphy.com/media/26xBzu9YjDl6cTruY/giphy.gif" width="40">&nbsp;***GitHub Overview***
+[![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevgit8055hub&theme=dracula)](https://github.com/rajeevgit8055hub)
+
+<!-- ## 🔥 GitHub Activity Streak -->
+<img src="https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif" width="40">&nbsp;***Activity Streak***
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=highcontrast&hide_border=true)
+
+<!-- ## 📊 GitHub Stats -->
+<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="40">&nbsp;***GitHub Stats***
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=tokyonight&hide_border=true)
+
+<!-- ## 📈 Contributions Graph -->
+<img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="40">&nbsp;***Contributions Graph***
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajeevgit8055hub&theme=react-dark&hide_border=true)
+
+<!-- ## 🧮 GitHub Metrics -->
+<img src="https://media.giphy.com/media/3o7aD6N7ZnnxwN4zva/giphy.gif" width="40">&nbsp;***GitHub Metrics***
+![Metrics](https://metrics.lecoq.io/rajeevgit8055hub?template=classic&languages=1&habits=1&isocalendar=1&config.timezone=Asia/Kolkata)
+
+<!-- ## 🗂 Top Languages & Repositories -->
+<img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="40">&nbsp;***Top Languages & Repositories***
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=radical)
+![](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 
 
