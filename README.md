@@ -475,30 +475,37 @@ style="background-color:#0d0221;border-radius:16px;">
 
 
 
-<tr>
-  <td align="center" style="padding:0; border:none;">
-    <img 
-      src="https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true"
-      style="border:none; outline:none; box-shadow:none; display:block;"
-    />
-  </td>
-</tr>
+<img src="https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=darkhub&no-frame=true&margin-w=10" />
 
-<table cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td align="center" style="border:none;">
-      <img 
-        src="https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true"
-        style="border:none; display:block;"
-      />
-    </td>
-  </tr>
-</table>
+<img src="https://metrics.lecoq.io/rajeevgit8055hub?template=classic&languages=1&habits=1&isocalendar=1&config.timezone=Asia/Kolkata" />
+
+<img src="https://skyline.github.com/rajeevgit8055hub/2024.png" />
+
+<img src="https://vercelbadge.vercel.app/api/rajeevgit8055hub" />
+
+<img src="https://api.netlify.com/api/v1/badges/YOUR_SITE_ID/deploy-status" />
+<img src="https://api.netlify.com/api/v1/badges/PASTE_SITE_ID_HERE/deploy-status" />
 
 
-<tr>
-<td align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=midnight-purple&hide_border=true" />
-</td>
+<img src="https://img.shields.io/badge/Hosted-Vercel-black?style=for-the-badge&logo=vercel" />
+<img src="https://img.shields.io/badge/Backend-PostgreSQL-blue?style=for-the-badge&logo=postgresql" />
+
+<img src="https://leetcard.jacoblin.cool/rajeevgit8055hub?theme=dark&font=Karma" />
+
+<img src="https://stackoverflow.com/users/flair/YOUR_USER_ID.png" />
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=midnight-purple" />
 
 
+
+
+
+<img src="https://img.shields.io/uptimerobot/status/mYOUR_MONITOR_ID?label=Website%20Status&style=for-the-badge" />
+<img src="https://img.shields.io/uptimerobot/ratio/7/mYOUR_MONITOR_ID?label=Uptime%207d&style=for-the-badge" />
+<img src="https://img.shields.io/snyk/vulnerabilities/github/rajeevgit8055hub/REPO_NAME?style=for-the-badge" />
+<img src="https://img.shields.io/github/actions/workflow/status/rajeevgit8055hub/REPO_NAME/codeql.yml?label=CodeQL&style=for-the-badge" />
+<img src="https://img.shields.io/github/v/release/rajeevgit8055hub/REPO_NAME?style=for-the-badge" />
+<img src="https://img.shields.io/github/downloads/rajeevgit8055hub/REPO_NAME/total?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI-GitHub%20Copilot-blue?style=for-the-badge&logo=github" />, <img src="https://img.shields.io/badge/AI-OpenAI-purple?style=for-the-badge&logo=openai" />
+ 
+ 
