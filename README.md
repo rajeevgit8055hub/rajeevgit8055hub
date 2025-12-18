@@ -432,14 +432,14 @@ style="background-color:#0d0221;border-radius:16px;">
 </td>
 
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=midnight-purple&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=midnight-purple&hide_border=true" />
 </td>
+
 
 <td align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=midnight-purple&hide_border=true" />
 </td>
 </tr>
-
 
 <td align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeevgit8055hub&theme=nightowl&bg_color=000000&hide_border=true" />
