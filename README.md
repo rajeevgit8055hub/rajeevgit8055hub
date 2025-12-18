@@ -426,6 +426,39 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- Then end of my GitHub profile -->
 
+<table align="center" cellspacing="12" cellpadding="12" border="0"
+style="background-color:#0d0221;border-radius:16px;">
+
+<tr>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevgit8055hub&theme=midnight_purple" />
+</td>
+
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=midnight-purple&hide_border=true" />
+</td>
+
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=midnight-purple&hide_border=true" />
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true" />
+</td>
+
+<td align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=midnight-purple&hide_border=true" />
+</td>
+
+<td align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeevgit8055hub&theme=nightowl&bg_color=000000&hide_border=true" />
+</td>
+</tr>
+
+</table>
+
 <!-- 🐍⚕️ Violet Snake Contribution Animation -->
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajeevgit8055hub/rajeevgit8055hub/output/github-snake-dark.svg" />
