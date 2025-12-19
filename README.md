@@ -1,4 +1,4 @@
-[Follow me on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=rajeev-tiwari123)
+[](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=rajeev-tiwari123)
 
 
 <!-- I'm Rajeev  ```verified```-->
