@@ -422,7 +422,3 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <br>but please avoid any commercial redistribution.<img src="Wrong.gif" width="30" alt="Wrong" />*
 
 <!-- Then end of my GitHub profile -->
-
-
-<img src="https://metrics.lecoq.io/rajeevgit8055hub?template=classic&languages=1&activity=1&isocalendar=1&habits=1&config.timezone=Asia/Kolkata" />
-
