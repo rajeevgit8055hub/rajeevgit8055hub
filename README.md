@@ -1,6 +1,3 @@
-[](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=rajeev-tiwari123)
-
-
 <!-- I'm Rajeev  ```verified```-->
 <h2><img width="30" alt="GitHub" src="Gitcolor.png" />&nbsp;Hi I'm <a href="https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/" target="_blank">Rajeev</a>
 <img width="30" alt="Green sign" src="Green sign.gif" /></h2>
