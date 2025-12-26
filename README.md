@@ -232,7 +232,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 [![SmartBite Online Food Delivery DBMS](https://github-readme-stats.vercel.app/api/pin/?username=rajeevtiwari8055&repo=SmartBite-Online-Food-Delivery-DBMS&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevtiwari8055/SmartBite-Online-Food-Delivery-DBMS)
 
 <!-- - 🖼️ [**Executive Business Presentation Vault**](https://github.com/rajeevgit8055hub/Executive-Business-Presentation-Vault) -->
-[![Business Insights Decks](https://github-readme-stats.vercel.app/api/pin/?username=rajeevtiwari8055&repo=Executive-Business-Presentation-Vault&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevtiwari8055/Executive-Business-Presentation-Vault)
+[![Executive Business Presentation Vault](https://github-readme-stats.vercel.app/api/pin/?username=rajeevtiwari8055&repo=Executive-Business-Presentation-Vault&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevtiwari8055/Executive-Business-Presentation-Vault)
 
 <!-- - 🛢 [**NETFLIX Data SQL Analysis**](https://github.com/rajeevgit8055hub/NETFLIX-Data-SQL-Analysis) -->
 [![NETFLIX Data SQL Analysis](https://github-readme-stats.vercel.app/api/pin/?username=rajeevtiwari8055&repo=NETFLIX-Data-SQL-Analysis&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevtiwari8055/NETFLIX-Data-SQL-Analysis)
