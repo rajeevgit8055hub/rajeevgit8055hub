@@ -34,7 +34,7 @@
 <!-- 👤 About Me -->
 <!-- <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50"> -->
 <img src="Biometric.gif" alt="Biometric" width="50"><img src="About me1.gif" alt="Aboutme" width="120">
-<a href="https://www.linkedin.com/in/rajeev-tiwari123"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
+<a href="https://www.linkedin.com/in/rajeevtiwari8055/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
 </a>
 <!-- <h2><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30">👨‍💼 About Me</h2> -->
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Boy Working" width="250"> -->
@@ -223,41 +223,41 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- Card Style Repositories -->
 <!-- 📊 [**Hospital Emergency Room Dashboard**](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard) -->
-[![Hospital Emergency Room Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Hospital-Emergency-Room-Dashboard&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Hospital-Emergency-Room-Dashboard)
+[![Hospital Emergency Room Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=rajeevtiwari8055&repo=Hospital-Emergency-Room-Dashboard&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevtiwari8055/Hospital-Emergency-Room-Dashboard)
 
 <!-- - 🧩 [**Unified Multi Extension Folder Based Data Cleaning**](https://github.com/rajeevgit8055hub/Unified-Multi-Extension-Folder-Based-Data-Cleaning) -->
-[![Unified Multi Extension Folder Based Data Cleaning](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Unified-Multi-Extension-Folder-Based-Data-Cleaning&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Unified-Multi-Extension-Folder-Based-Data-Cleaning)
+[![Unified Multi Extension Folder Based Data Cleaning](https://github-readme-stats.vercel.app/api/pin/?username=rajeevtiwari8055&repo=Unified-Multi-Extension-Folder-Based-Data-Cleaning&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevtiwari8055/Unified-Multi-Extension-Folder-Based-Data-Cleaning)
 
 <!-- - 🗃️ [**SmartBite Online Food Delivery DBMS**](https://github.com/rajeevgit8055hub/SmartBite-Online-Food-Delivery-DBMS) -->
-[![SmartBite Online Food Delivery DBMS](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=SmartBite-Online-Food-Delivery-DBMS&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/SmartBite-Online-Food-Delivery-DBMS)
+[![SmartBite Online Food Delivery DBMS](https://github-readme-stats.vercel.app/api/pin/?username=rajeevtiwari8055&repo=SmartBite-Online-Food-Delivery-DBMS&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevtiwari8055/SmartBite-Online-Food-Delivery-DBMS)
 
 <!-- - 🖼️ [**Executive Business Presentation Vault**](https://github.com/rajeevgit8055hub/Executive-Business-Presentation-Vault) -->
-[![Business Insights Decks](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Executive-Business-Presentation-Vault&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Executive-Business-Presentation-Vault)
+[![Business Insights Decks](https://github-readme-stats.vercel.app/api/pin/?username=rajeevtiwari8055&repo=Executive-Business-Presentation-Vault&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevtiwari8055/Executive-Business-Presentation-Vault)
 
 <!-- - 🛢 [**NETFLIX Data SQL Analysis**](https://github.com/rajeevgit8055hub/NETFLIX-Data-SQL-Analysis) -->
-[![NETFLIX Data SQL Analysis](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=NETFLIX-Data-SQL-Analysis&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/NETFLIX-Data-SQL-Analysis)
+[![NETFLIX Data SQL Analysis](https://github-readme-stats.vercel.app/api/pin/?username=rajeevtiwari8055&repo=NETFLIX-Data-SQL-Analysis&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevtiwari8055/NETFLIX-Data-SQL-Analysis)
  
 <!-- - 📈 [**Nescafe Driving Coffee Sales Excellence**](https://github.com/rajeevgit8055hub/Nescafe-Driving-Coffee-Sales-Excellence) -->
-[![Nescafe Driving Coffee Sales Excellence](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Nescafe-Driving-Coffee-Sales-Excellence&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Nescafe-Driving-Coffee-Sales-Excellence)
+[![Nescafe Driving Coffee Sales Excellence](https://github-readme-stats.vercel.app/api/pin/?username=rajeevtiwari8055&repo=Nescafe-Driving-Coffee-Sales-Excellence&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevtiwari8055/Nescafe-Driving-Coffee-Sales-Excellence)
 
 <!-- - 📈 [**Blinkit Grocery Analysis**](https://github.com/rajeevgit8055hub/Blinkit-Grocery-Analysis) -->
-[![Blinkit Grocery Analysis](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Blinkit-Grocery-Analysis&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/Blinkit-Grocery-Analysis)
+[![Blinkit Grocery Analysis](https://github-readme-stats.vercel.app/api/pin/?username=rajeevtiwari8055&repo=Blinkit-Grocery-Analysis&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevtiwari8055/Blinkit-Grocery-Analysis)
 
 <!-- - 📉 [**HSBC Strategic Stakeholder Intelligence**](https://github.com/rajeevgit8055hub/HSBC-Strategic-Stakeholder-Intelligence) -->
-[![HSBC Strategic Stakeholder Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=HSBC-Strategic-Stakeholder-Intelligence&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/HSBC-Strategic-Stakeholder-Intelligence)
+[![HSBC Strategic Stakeholder Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=&repo=HSBC-Strategic-Stakeholder-Intelligence&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevtiwari8055/HSBC-Strategic-Stakeholder-Intelligence)
 
 <!-- - 🌐 [**Dynamic Neon Glow Website**](https://github.com/rajeevgit8055hub/rajeevtiwari.github.io) -->
-[![Dynamic Neon Glow Website](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=rajeevtiwari.github.io&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevgit8055hub/rajeevtiwari.github.io)
+[![Dynamic Neon Glow Website](https://github-readme-stats.vercel.app/api/pin/?username=rajeevtiwari8055&repo=rajeevtiwari.github.io&theme=midnight-purple&description_lines_count=0&cache_seconds=1)](https://github.com/rajeevtiwari8055/rajeevtiwari.github.io)
 
 <!-- - 💻 [**Verified Digital Credentials**](https://github.com/rajeevgit8055hub/Verified-Digital-Credentials) -->
-[![Verified Digital Credentials](https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=Verified-Digital-Credentials&theme=midnight-purple&cache_bust=1)](https://github.com/rajeevgit8055hub/Verified-Digital-Credentials)
+[![Verified Digital Credentials](https://github-readme-stats.vercel.app/api/pin/?username=rajeevtiwari8055&repo=Verified-Digital-Credentials&theme=midnight-purple&cache_bust=1)](https://github.com/rajeevtiwari8055/Verified-Digital-Credentials)
 
 <!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=HSBC-Strategic-Stakeholder-Intelligence&theme=tokyonight&bg_color=000000&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajeevtiwari8055&repo=HSBC-Strategic-Stakeholder-Intelligence&theme=tokyonight&bg_color=000000&hide_border=true" />
 </p> -->
 
 <!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajeevgit8055hub&repo=rajeevtiwari.github.io&theme=tokyonight&bg_color=000000&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajeevtiwari8055&repo=rajeevtiwari.github.io&theme=tokyonight&bg_color=000000&hide_border=true" />
 </p> -->
 
 <!-- ## 💡 ##Tip: -->
@@ -268,7 +268,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- Code Snippets Link -->
 <!-- <p align="center">
-  <a href="https://gist.github.com/rajeevgit8055hub" target="_blank">
+  <a href="https://gist.github.com/rajeevtiwari8055" target="_blank">
     <img src="https://img.shields.io/badge/Open%20Gist%20Now-Explore%20My%20Code%20Snippets-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1B1B1B&color=00FFFF" alt="Open Gist"/>
   </a></p> -->
 
@@ -287,8 +287,8 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <div align="center">
     
 [![X](https://img.shields.io/badge/-black?style=for-the-badge&logo=x)](https://x.com/rajeevtiwariRT)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072C6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeev-tiwari123)
-[![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajeevgit8055hub)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072C6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeevtiwari8055/)
+[![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajeevtiwari8055)
 [![Email](https://img.shields.io/badge/Email-B22222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeevtiwari8055@gmail.com)
 [![Website](https://img.shields.io/badge/Website-008080?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)
 </div>
@@ -298,7 +298,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!--## 🏆 GitHub Trophies -->
 <img src="Trophy1.gif" width="35">&nbsp;***GitHub Trophies***
-[![trophy](https://github-profile-trophy.vercel.app/?username=rajeevgit8055hub&theme=onedark&no-frame=true&no-bg=true&background=000000)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rajeevtiwari8055&theme=onedark&no-frame=true&no-bg=true&background=000000)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- ## 🧠 Contribution Pulse -->
 <img width="50" alt="Contribution Pulse" src="Pulse.gif">&nbsp;***Contribution Pulse***
@@ -306,46 +306,46 @@ Each project reflects my ability to turn raw information into meaningful, busine
 
 <!-- Contribution Pulse Buttons -->
 ![Security](https://img.shields.io/badge/Security-Verified-228B22?style=for-the-badge&logo=github)
-![Last Commit](https://img.shields.io/github/last-commit/rajeevgit8055hub/rajeevgit8055hub?style=for-the-badge&logo=git)
+![Last Commit](https://img.shields.io/github/last-commit/rajeevtiwari8055/rajeevtiwari8055?style=for-the-badge&logo=git)
 
 <!-- ## 🧮 GitHub Metrics -->
 <!-- <img src="Metrics.gif" height="50" width="150"> -->
 <img src="Metrics1.gif" width="40">&nbsp;***GitHub Metrics***
 <p align="center">
-<img src="https://metrics.lecoq.io/rajeevgit8055hub" />
+<img src="https://metrics.lecoq.io/rajeevtiwari8055" />
 </p>
 
 <!-- ## 🧮 GitHub Metrics -->
 <!-- <p align="center">
-  <img src="https://metrics.lecoq.io/rajeevgit8055hub?template=classic&base=header,activity,community,repositories,metadata" />
+  <img src="https://metrics.lecoq.io/rajeevtiwari8055?template=classic&base=header,activity,community,repositories,metadata" />
 </p> -->
-<!-- <img src="https://metrics.lecoq.io/rajeevgit8055hub?template=classic&languages=1&habits=1&isocalendar=1&config.timezone=Asia/Kolkata" /> -->
+<!-- <img src="https://metrics.lecoq.io/rajeevtiwari8055?template=classic&languages=1&habits=1&isocalendar=1&config.timezone=Asia/Kolkata" /> -->
 
 <!-- ## 👨‍💻 Profile Summary Card -->
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50">&nbsp;***Profile Summary Card***
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevgit8055hub&theme=midnight_purple)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevtiwari8055&theme=midnight_purple)
 
 <!-- ## 📊 GitHub Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***GitHub Stats***
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevgit8055hub&show_icons=true&theme=midnight-purple)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevtiwari8055&show_icons=true&theme=midnight-purple)
 
 <!-- ## 💬 Top Languages -->
 <img src="Technology.gif" width="40">&nbsp;***Top Languages***
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgit8055hub&layout=compact&theme=midnight-purple)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevtiwari8055&layout=compact&theme=midnight-purple)
 <!-- <img align="right" alt="GitHub Lens" width="120" src="Lens1.gif" /> -->
 
 <!-- ## 🔝 Top Contributed Repositories-->
 <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="40"/>&nbsp;***Top Contributed Repositories***
-![Top Repositories](https://github-contributor-stats.vercel.app/api?username=rajeevgit8055hub&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+![Top Repositories](https://github-contributor-stats.vercel.app/api?username=rajeevtiwari8055&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 <!--## 🔥 GitHub Streak -->
 <img src="Color Loading.gif" alt="Streak" width="50">&nbsp;***GitHub Streak***
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevgit8055hub&theme=dark&background=000000&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevtiwari8055&theme=dark&background=000000&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA)
 
 <!--## 📈 Activity Graph -->
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgwbWpid3JycW56ZzVlcGc2aWExMzN3M25qY25pNzRoYjNqNWNobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d56Di5yqBRq9KnSZX6/giphy.webp" width="35">&nbsp;***Activity Graph***
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeevgit8055hub&theme=nightowl&bg_color=000000&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeevtiwari8055&theme=nightowl&bg_color=000000&hide_border=true"/>
 </div>
 
 <!-- ## 🐍 Snake Contribution Animation -->
@@ -354,13 +354,13 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- Pink Snake Animation -->
 <div align="center">
  
-![snake animation](https://github.com/rajeevgit8055hub/rajeevgit8055hub/blob/output/github-snake-dark.svg)
+![snake animation](https://github.com/rajeevtiwari8055/rajeevtiwari8055/blob/output/github-snake-dark.svg)
  
 </div>
 
 <!-- ☕ Buy me a coffee -->
 <div align="center">
-<a href="https://buymeacoffee.com/rajeevtiwari" target="_blank">
+<a href="https://buymeacoffee.com/rajeevtiwari8055" target="_blank">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee">
 </a>
 </div>
@@ -369,7 +369,7 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- ⭐💫 Shower stars if you like my repos -->
 <div align="center">
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">
-<a href="https://github.com/rajeevgit8055hub/rajeevgit8055hub" alt="GitHub Stars" title="Star my repositories">
+<a href="https://github.com/rajeevtiwari8055/rajeevtiwari8055" alt="GitHub Stars" title="Star my repositories">
 <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repositories-15k?style=for-the-badge&color=f9c513&logo=github&logoColor=black"/>
 </a>
 </div>
@@ -380,13 +380,13 @@ Each project reflects my ability to turn raw information into meaningful, busine
 <!-- ## 🤝 Contact me -->
 <div align="center">
 <!-- 💼 LinkedIn -->
-<a href="https://www.linkedin.com/in/rajeev-tiwari123"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="25" height="25"/></a>
+<a href="https://www.linkedin.com/in/rajeevtiwari8055/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="25" height="25"/></a>
 <!-- ✖️ X -->
 <a href="https://x.com/rajeevtiwariRT" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="X" width="30" height="30">
 </a>
 <!-- 🆔 GitHub -->
-<a href="https://github.com/rajeevgit8055hub" target="_blank">
+<a href="https://github.com/rajeevtiwari8055" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="30" height="30">
 </a>
 <!-- 🌐 Website -->
